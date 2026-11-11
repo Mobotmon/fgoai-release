@@ -11,14 +11,14 @@ fgoai-app 的發布用 repo，公開，網址 `https://github.com/Mobotmon/fgoai
 
 | 位置 | 內容 |
 |---|---|
-| git 內容 | 只有 `README.md`（給使用者看的首頁）和這份 `CLAUDE.md` |
+| git 內容 | 只有 `README.md`（給使用者看的首頁）、這份 `CLAUDE.md` 和 `.gitignore` |
 | Releases 的附件 | 每一版的 `fgoai-app-<版本>-<打包時間>.zip`，之後加上 `latest.json` |
 
 **zip 不進 git**，只當 release 的附件上傳。不要 `git add` 任何 zip 或解開的程式。
 
 ## 發布一版的流程
 
-1. 打包在原始碼 repo 做：跑 `C:\code\robotmon\fgoai\dev_tools\1_打包引擎成zip（升版）.bat`，產生 `C:\code\robotmon\fgoai\release\fgoai-app-<版本>-<打包時間>.zip`。這一步不是這個 repo 的工作，由使用者或 fgoai 那邊的 agent 做。
+1. 打包在原始碼 repo 做：跑 `C:\code\robotmon\fgoai\dev_tools\1_打包引擎成zip（升版）.bat`，產生這個 repo 根目錄的 `fgoai-app-<版本>-<打包時間>.zip`（每版 kit 也打包到這裡的 `kit/V<版號>/`；兩者都被 `.gitignore` 擋掉，不進 git）。這一步不是這個 repo 的工作，由使用者或 fgoai 那邊的 agent 做。
 2. 在這裡開 release：tag 用 `v<版本>`（例如 `v0.1.10`），跟打包的版號一致；附件是那個 zip。指令：
    `gh release create v<版本> <zip 路徑> --repo Mobotmon/fgoai-release --title "v<版本>" --notes "<更新說明>"`
 3. 先給少數人測試的版本勾成 pre-release（`--prerelease`）：`releases/latest` 不會指到它，一般使用者不會收到。
