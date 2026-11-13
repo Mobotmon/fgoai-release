@@ -1,0 +1,194 @@
+[
+ {
+  "id": 1,
+  "name": "魔術禮裝．迦勒底",
+  "item": {
+   "male": "https://static.atlasacademy.io/TW/Items/masterequip00001.png",
+   "female": "https://static.atlasacademy.io/TW/Items/masterequip00002.png"
+  }
+ },
+ {
+  "id": 20,
+  "name": "魔術禮裝．迦勒底戰鬥服",
+  "item": {
+   "male": "https://static.atlasacademy.io/TW/Items/masterequip00021.png",
+   "female": "https://static.atlasacademy.io/TW/Items/masterequip00022.png"
+  }
+ },
+ {
+  "id": 30,
+  "name": "魔術禮裝．魔術協會制服",
+  "item": {
+   "male": "https://static.atlasacademy.io/TW/Items/masterequip00031.png",
+   "female": "https://static.atlasacademy.io/TW/Items/masterequip00032.png"
+  }
+ },
+ {
+  "id": 40,
+  "name": "魔術禮裝．阿特拉斯院制服",
+  "item": {
+   "male": "https://static.atlasacademy.io/TW/Items/masterequip00041.png",
+   "female": "https://static.atlasacademy.io/TW/Items/masterequip00042.png"
+  }
+ },
+ {
+  "id": 50,
+  "name": "金色慶典",
+  "item": {
+   "male": "https://static.atlasacademy.io/TW/Items/masterequip00051.png",
+   "female": "https://static.atlasacademy.io/TW/Items/masterequip00052.png"
+  }
+ },
+ {
+  "id": 60,
+  "name": "王室品牌",
+  "item": {
+   "male": "https://static.atlasacademy.io/TW/Items/masterequip00061.png",
+   "female": "https://static.atlasacademy.io/TW/Items/masterequip00062.png"
+  }
+ },
+ {
+  "id": 70,
+  "name": "明亮夏日",
+  "item": {
+   "male": "https://static.atlasacademy.io/TW/Items/masterequip00071.png",
+   "female": "https://static.atlasacademy.io/TW/Items/masterequip00072.png"
+  }
+ },
+ {
+  "id": 80,
+  "name": "月之海的記憶",
+  "item": {
+   "male": "https://static.atlasacademy.io/TW/Items/masterequip00081.png",
+   "female": "https://static.atlasacademy.io/TW/Items/masterequip00082.png"
+  }
+ },
+ {
+  "id": 90,
+  "name": "月之背面的記憶",
+  "item": {
+   "male": "https://static.atlasacademy.io/TW/Items/masterequip00091.png",
+   "female": "https://static.atlasacademy.io/TW/Items/masterequip00092.png"
+  }
+ },
+ {
+  "id": 100,
+  "name": "2004年的碎片",
+  "item": {
+   "male": "https://static.atlasacademy.io/TW/Items/masterequip00101.png",
+   "female": "https://static.atlasacademy.io/TW/Items/masterequip00102.png"
+  }
+ },
+ {
+  "id": 110,
+  "name": "魔術禮裝．極地用迦勒底制服",
+  "item": {
+   "male": "https://static.atlasacademy.io/TW/Items/masterequip00111.png",
+   "female": "https://static.atlasacademy.io/TW/Items/masterequip00112.png"
+  }
+ },
+ {
+  "id": 120,
+  "name": "熱帶夏日",
+  "item": {
+   "male": "https://static.atlasacademy.io/TW/Items/masterequip00121.png",
+   "female": "https://static.atlasacademy.io/TW/Items/masterequip00122.png"
+  }
+ },
+ {
+  "id": 130,
+  "name": "華美的新年",
+  "item": {
+   "male": "https://static.atlasacademy.io/TW/Items/masterequip00131.png",
+   "female": "https://static.atlasacademy.io/TW/Items/masterequip00132.png"
+  }
+ },
+ {
+  "id": 150,
+  "name": "迦勒底船長",
+  "item": {
+   "male": "https://static.atlasacademy.io/TW/Items/masterequip00151.png",
+   "female": "https://static.atlasacademy.io/TW/Items/masterequip00152.png"
+  }
+ },
+ {
+  "id": 160,
+  "name": "第五真說要素環境用迦勒底制服",
+  "item": {
+   "male": "https://static.atlasacademy.io/TW/Items/masterequip00161.png",
+   "female": "https://static.atlasacademy.io/TW/Items/masterequip00162.png"
+  }
+ },
+ {
+  "id": 170,
+  "name": "迦勒底開拓者",
+  "item": {
+   "male": "https://static.atlasacademy.io/TW/Items/masterequip00171.png",
+   "female": "https://static.atlasacademy.io/TW/Items/masterequip00172.png"
+  }
+ },
+ {
+  "id": 190,
+  "name": "萬聖節王室服裝",
+  "item": {
+   "male": "https://static.atlasacademy.io/TW/Items/masterequip00191.png",
+   "female": "https://static.atlasacademy.io/TW/Items/masterequip00192.png"
+  }
+ },
+ {
+  "id": 210,
+  "name": "決戰用迦勒底制服",
+  "item": {
+   "male": "https://static.atlasacademy.io/TW/Items/masterequip00211.png",
+   "female": "https://static.atlasacademy.io/TW/Items/masterequip00212.png"
+  }
+ },
+ {
+  "id": 240,
+  "name": "總耶高中學生服",
+  "item": {
+   "male": "https://static.atlasacademy.io/TW/Items/masterequip00241.png",
+   "female": "https://static.atlasacademy.io/TW/Items/masterequip00242.png"
+  }
+ },
+ {
+  "id": 260,
+  "name": "新春裝束",
+  "item": {
+   "male": "https://static.atlasacademy.io/TW/Items/masterequip00261.png",
+   "female": "https://static.atlasacademy.io/TW/Items/masterequip00262.png"
+  }
+ },
+ {
+  "id": 330,
+  "name": "夏日街頭",
+  "item": {
+   "male": "https://static.atlasacademy.io/TW/Items/masterequip00331.png",
+   "female": "https://static.atlasacademy.io/TW/Items/masterequip00332.png"
+  }
+ },
+ {
+  "id": 340,
+  "name": "白色聖誕節",
+  "item": {
+   "male": "https://static.atlasacademy.io/TW/Items/masterequip00341.png",
+   "female": "https://static.atlasacademy.io/TW/Items/masterequip00342.png"
+  }
+ },
+ {
+  "id": 360,
+  "name": "三咲高中校服",
+  "item": {
+   "male": "https://static.atlasacademy.io/TW/Items/masterequip00361.png",
+   "female": "https://static.atlasacademy.io/TW/Items/masterequip00362.png"
+  }
+ },
+ {
+  "id": 410,
+  "name": "冬日便裝",
+  "item": {
+   "male": "https://static.atlasacademy.io/TW/Items/masterequip00411.png",
+   "female": "https://static.atlasacademy.io/TW/Items/masterequip00412.png"
+  }
+ }
+]

@@ -1,0 +1,3708 @@
+[
+ {
+  "id": 100,
+  "coordinates": [
+   [
+    33.01146,
+    130.6486
+   ],
+   []
+  ],
+  "age": "AD:2004",
+  "name": "特異點F",
+  "longName": "特異點F\n燃燒污染都市 冬木",
+  "flags": [
+   "withMap",
+   "mainScenario"
+  ],
+  "eventId": 0,
+  "eventName": ""
+ },
+ {
+  "id": 101,
+  "coordinates": [
+   [
+    48.84346,
+    4.608959
+   ],
+   []
+  ],
+  "age": "AD:1431",
+  "name": "第一特異點",
+  "longName": "第一特異點\n邪龍百年戰爭 奧爾良",
+  "flags": [
+   "withMap",
+   "mainScenario",
+   "isWarIconLeft"
+  ],
+  "eventId": 0,
+  "eventName": ""
+ },
+ {
+  "id": 102,
+  "coordinates": [
+   [
+    40.11704,
+    16.66373
+   ],
+   []
+  ],
+  "age": "AD:60",
+  "name": "第二特異點",
+  "longName": "第二特異點\n永續瘋狂帝國 七丘之城",
+  "flags": [
+   "withMap",
+   "mainScenario"
+  ],
+  "eventId": 0,
+  "eventName": ""
+ },
+ {
+  "id": 103,
+  "coordinates": [
+   [
+    25.26317,
+    -37.37087
+   ],
+   []
+  ],
+  "age": "AD:1573",
+  "name": "第三特異點",
+  "longName": "第三特異點\n封鎖終局四海 俄刻阿諾斯",
+  "flags": [
+   "withMap",
+   "mainScenario",
+   "isWarIconLeft"
+  ],
+  "eventId": 0,
+  "eventName": ""
+ },
+ {
+  "id": 104,
+  "coordinates": [
+   [
+    52.09404,
+    -1.09384
+   ],
+   []
+  ],
+  "age": "AD:1888",
+  "name": "第四特異點",
+  "longName": "第四特異點\n死界魔霧都市 倫敦",
+  "flags": [
+   "withMap",
+   "mainScenario"
+  ],
+  "eventId": 0,
+  "eventName": ""
+ },
+ {
+  "id": 105,
+  "coordinates": [
+   [
+    45.25218,
+    -106.868
+   ],
+   []
+  ],
+  "age": "AD:1783",
+  "name": "第五特異點",
+  "longName": "第五特異點\n北美神話大戰 合眾為一",
+  "flags": [
+   "withMap",
+   "mainScenario",
+   "isWarIconLeft"
+  ],
+  "eventId": 0,
+  "eventName": ""
+ },
+ {
+  "id": 106,
+  "coordinates": [
+   [
+    27.8192,
+    29.26513
+   ],
+   []
+  ],
+  "age": "AD:1273",
+  "name": "第六特異點",
+  "longName": "第六特異點\n神聖圓桌領域 卡美洛",
+  "flags": [
+   "withMap",
+   "mainScenario"
+  ],
+  "eventId": 0,
+  "eventName": ""
+ },
+ {
+  "id": 107,
+  "coordinates": [
+   [
+    30.899125,
+    48.262494
+   ],
+   []
+  ],
+  "age": "BC:2655",
+  "name": "第七特異點",
+  "longName": "第七特異點\n絕對魔獸戰線 巴比倫尼亞",
+  "flags": [
+   "withMap",
+   "mainScenario",
+   "isWarIconLeft"
+  ],
+  "eventId": 0,
+  "eventName": ""
+ },
+ {
+  "id": 108,
+  "coordinates": [],
+  "age": "AD:2017",
+  "name": "終局特異點",
+  "longName": "終局特異點\n冠位時間神殿 所羅門",
+  "flags": [
+   "withMap",
+   "closeAfterClear",
+   "mainScenario",
+   "clearedReturnToTitle"
+  ],
+  "eventId": 80038,
+  "eventName": "終局特異點 冠位時間神殿 所羅門"
+ },
+ {
+  "id": 201,
+  "coordinates": [
+   [
+    35.974801,
+    138.945343
+   ],
+   []
+  ],
+  "age": "AD:1999",
+  "name": "亞種特異點Ⅰ",
+  "longName": "亞種特異點Ⅰ\n惡性隔絕魔境 新宿",
+  "flags": [
+   "withMap",
+   "mainScenario",
+   "isWarIconLeft",
+   "isWarIconFree"
+  ],
+  "eventId": 0,
+  "eventName": ""
+ },
+ {
+  "id": 202,
+  "coordinates": [
+   [
+    29.408263,
+    83.886176
+   ],
+   []
+  ],
+  "age": "AD:2000",
+  "name": "亞種特異點Ⅱ",
+  "longName": "亞種特異點Ⅱ\n傳承地底世界 雅戈泰",
+  "flags": [
+   "withMap",
+   "mainScenario",
+   "isWarIconFree"
+  ],
+  "eventId": 0,
+  "eventName": ""
+ },
+ {
+  "id": 203,
+  "coordinates": [
+   [
+    35.530136,
+    140.28942
+   ],
+   []
+  ],
+  "age": "寬永十六年",
+  "name": "亞種平行世界",
+  "longName": "亞種平行世界\n屍山血河舞台 下總國",
+  "flags": [
+   "withMap",
+   "mainScenario",
+   "isWarIconLeft",
+   "isWarIconFree"
+  ],
+  "eventId": 0,
+  "eventName": ""
+ },
+ {
+  "id": 204,
+  "coordinates": [
+   [
+    42.516845,
+    -70.898503
+   ],
+   []
+  ],
+  "age": "AD:1692",
+  "name": "亞種特異點Ⅳ",
+  "longName": "亞種特異點Ⅳ\n禁忌降臨庭園 塞勒姆",
+  "flags": [
+   "withMap",
+   "mainScenario",
+   "isWarIconFree"
+  ],
+  "eventId": 0,
+  "eventName": ""
+ },
+ {
+  "id": 300,
+  "coordinates": [
+   [],
+   []
+  ],
+  "age": "-",
+  "name": "序／2018年 12月26日",
+  "longName": "序／2018年 12月26日",
+  "flags": [
+   "closeAfterClear",
+   "mainScenario",
+   "isWarIconLeft",
+   "clearedReturnToTitle"
+  ],
+  "eventId": 0,
+  "eventName": ""
+ },
+ {
+  "id": 301,
+  "coordinates": [
+   [],
+   [
+    48.480663,
+    28.828125
+   ]
+  ],
+  "age": "A.D.1570?",
+  "name": "Lostbelt No.1",
+  "longName": "Lostbelt No.1\n永久凍土帝國 安娜塔西亞",
+  "flags": [
+   "mainScenario"
+  ],
+  "eventId": 0,
+  "eventName": ""
+ },
+ {
+  "id": 302,
+  "coordinates": [
+   [],
+   [
+    53.960073,
+    15.012345
+   ]
+  ],
+  "age": "B.C.1000?",
+  "name": "Lostbelt No.2",
+  "longName": "Lostbelt No.2\n無間冰焰世紀 諸神黃昏",
+  "flags": [
+   "mainScenario",
+   "isWarIconLeft"
+  ],
+  "eventId": 0,
+  "eventName": ""
+ },
+ {
+  "id": 303,
+  "coordinates": [
+   [],
+   [
+    18.01439,
+    105.541054
+   ]
+  ],
+  "age": "B.C.0210?",
+  "name": "Lostbelt No.3",
+  "longName": "Lostbelt No.3\n人智統合真國 SIN",
+  "flags": [
+   "mainScenario"
+  ],
+  "eventId": 0,
+  "eventName": ""
+ },
+ {
+  "id": 304,
+  "coordinates": [
+   [],
+   [
+    14.598444,
+    70.834523
+   ]
+  ],
+  "age": "??.11900",
+  "name": "Lostbelt No.4",
+  "longName": "Lostbelt No.4\n創世滅亡輪迴 宇迦．剎多羅",
+  "flags": [
+   "mainScenario",
+   "isWarIconLeft"
+  ],
+  "eventId": 0,
+  "eventName": ""
+ },
+ {
+  "id": 305,
+  "coordinates": [
+   [],
+   [
+    29.939405,
+    -40.61676
+   ]
+  ],
+  "age": "B.C.12000?",
+  "name": "Losbelt No.5",
+  "longName": "Losbelt No.5\n神代巨神海洋 亞特蘭提斯",
+  "flags": [
+   "mainScenario"
+  ],
+  "eventId": 0,
+  "eventName": ""
+ },
+ {
+  "id": 306,
+  "coordinates": [
+   [],
+   [
+    29.939405,
+    -40.61676
+   ]
+  ],
+  "age": "B.C.12000?",
+  "name": "Losbelt No.5",
+  "longName": "Lostbelt No.5\n星間都市山脈 奧林帕斯",
+  "flags": [
+   "withMap",
+   "mainScenario",
+   "isWarIconLeft",
+   "blackMarkWithClear",
+   "dispFirstQuest"
+  ],
+  "eventId": 0,
+  "eventName": ""
+ },
+ {
+  "id": 307,
+  "coordinates": [
+   [
+    34.986999,
+    135.726461
+   ],
+   [
+    21.430878,
+    128.23497
+   ]
+  ],
+  "age": "A.D.1008",
+  "name": "-",
+  "longName": "地獄界曼荼羅 平安京",
+  "flags": [
+   "mainScenario",
+   "effectDisappearBanner",
+   "isWarIconFree",
+   "isWarIconCenter"
+  ],
+  "eventId": 0,
+  "eventName": ""
+ },
+ {
+  "id": 308,
+  "coordinates": [
+   [
+    50.659794,
+    -5.342747
+   ],
+   [
+    42.7986,
+    -4.469402
+   ]
+  ],
+  "age": "■.■.2017",
+  "name": "Lostbelt No.6",
+  "longName": "Lostbelt No.6\n妖精圓桌領域 阿瓦隆．勒．菲",
+  "flags": [
+   "withMap",
+   "mainScenario",
+   "dispFirstQuest"
+  ],
+  "eventId": 0,
+  "eventName": ""
+ },
+ {
+  "id": 309,
+  "coordinates": [
+   [],
+   []
+  ],
+  "age": "-",
+  "name": "非靈長生存圈",
+  "longName": "非靈長生存圈 通古斯．聖域",
+  "flags": [
+   "closeAfterClear",
+   "mainScenario",
+   "isWarIconLeft",
+   "clearedReturnToTitle"
+  ],
+  "eventId": 0,
+  "eventName": ""
+ },
+ {
+  "id": 310,
+  "coordinates": [
+   [
+    63.61948,
+    -115.811996
+   ],
+   [
+    60.421838,
+    -120.157988
+   ]
+  ],
+  "age": "A.D.XX17",
+  "name": "-",
+  "longName": "死想顯現界域 Traum",
+  "flags": [
+   "mainScenario",
+   "dispFirstQuest",
+   "effectDisappearBanner",
+   "isWarIconFree",
+   "isWarIconCenter"
+  ],
+  "eventId": 0,
+  "eventName": ""
+ },
+ {
+  "id": 311,
+  "coordinates": [
+   [
+    -3.465305679779365,
+    -62.21588069712538
+   ],
+   [
+    -17.261659,
+    -76.369025
+   ]
+  ],
+  "age": "-",
+  "name": "Lostbelt No.7",
+  "longName": "Lostbelt No.7\n黃金樹海紀行 太陽紀．米克特蘭",
+  "flags": [
+   "mainScenario",
+   "isWarIconLeft",
+   "dispFirstQuest"
+  ],
+  "eventId": 80421,
+  "eventName": "Lostbelt No.7"
+ },
+ {
+  "id": 400,
+  "coordinates": [
+   [],
+   []
+  ],
+  "age": "-",
+  "name": "奏章 序",
+  "longName": "奏章 序",
+  "flags": [
+   "mainScenario",
+   "isWarIconLeft",
+   "dispFirstQuest"
+  ],
+  "eventId": 0,
+  "eventName": ""
+ },
+ {
+  "id": 401,
+  "coordinates": [
+   [],
+   []
+  ],
+  "age": "-",
+  "name": "-",
+  "longName": "Ordeal Call",
+  "flags": [
+   "folderSortPrior",
+   "mainScenario",
+   "noClearMarkWithClear",
+   "noClearMarkWithComplete",
+   "dispFirstQuest"
+  ],
+  "eventId": 0,
+  "eventName": ""
+ },
+ {
+  "id": 402,
+  "coordinates": [
+   [],
+   []
+  ],
+  "age": "-",
+  "name": "奏章Ⅰ",
+  "longName": "虛數羅針內界 平面之月",
+  "flags": [
+   "withMap",
+   "mainScenario",
+   "dispFirstQuest"
+  ],
+  "eventId": 0,
+  "eventName": ""
+ },
+ {
+  "id": 403,
+  "coordinates": [
+   [],
+   []
+  ],
+  "age": "-",
+  "name": "奏章Ⅱ",
+  "longName": "不可逆廢棄孔 本我",
+  "flags": [
+   "mainScenario",
+   "isWarIconLeft",
+   "dispFirstQuest",
+   "chapterSubIdJapaneseNumeralsNormal"
+  ],
+  "eventId": 0,
+  "eventName": ""
+ },
+ {
+  "id": 404,
+  "coordinates": [
+   [],
+   []
+  ],
+  "age": "-",
+  "name": "奏章Ⅲ",
+  "longName": "新靈長後繼戰 原型肇始",
+  "flags": [
+   "mainScenario",
+   "dispFirstQuest"
+  ],
+  "eventId": 0,
+  "eventName": ""
+ },
+ {
+  "id": 405,
+  "coordinates": [
+   [],
+   []
+  ],
+  "age": "-",
+  "name": "-",
+  "longName": "-",
+  "flags": [
+   "mainScenario",
+   "noticeBoard"
+  ],
+  "eventId": 0,
+  "eventName": ""
+ },
+ {
+  "id": 1001,
+  "coordinates": [
+   [],
+   []
+  ],
+  "age": "-",
+  "name": "強化任務",
+  "longName": "強化任務",
+  "flags": [],
+  "eventId": 0,
+  "eventName": ""
+ },
+ {
+  "id": 1002,
+  "coordinates": [
+   [],
+   []
+  ],
+  "age": "-",
+  "name": "每日任務",
+  "longName": "每日任務",
+  "flags": [],
+  "eventId": 0,
+  "eventName": ""
+ },
+ {
+  "id": 1003,
+  "coordinates": [
+   [],
+   []
+  ],
+  "age": "-",
+  "name": "幕間物語",
+  "longName": "幕間物語",
+  "flags": [
+   "storyShortcut"
+  ],
+  "eventId": 0,
+  "eventName": ""
+ },
+ {
+  "id": 1004,
+  "coordinates": [
+   [],
+   []
+  ],
+  "age": "-",
+  "name": "主線分支",
+  "longName": "主線分支",
+  "flags": [],
+  "eventId": 0,
+  "eventName": ""
+ },
+ {
+  "id": 1006,
+  "coordinates": [
+   [],
+   []
+  ],
+  "age": "-",
+  "name": "進階任務",
+  "longName": "進階任務",
+  "flags": [],
+  "eventId": 0,
+  "eventName": ""
+ },
+ {
+  "id": 8088,
+  "coordinates": [
+   [],
+   []
+  ],
+  "age": "-",
+  "name": "復刻：大約一週的聖誕Alter小姐 輕量版",
+  "longName": "復刻：大約一週的聖誕Alter小姐 輕量版",
+  "flags": [
+   "isEvent"
+  ],
+  "eventId": 80034,
+  "eventName": "復刻：大約一週的聖誕Alter小姐 輕量版"
+ },
+ {
+  "id": 8091,
+  "coordinates": [
+   [],
+   []
+  ],
+  "age": "-",
+  "name": "第二代是Alter醬 ～2018聖誕節～",
+  "longName": "第二代是Alter醬 ～2018聖誕節～",
+  "flags": [
+   "isEvent"
+  ],
+  "eventId": 80035,
+  "eventName": "第二代是Alter醬 ～2018聖誕節～"
+ },
+ {
+  "id": 8096,
+  "coordinates": [
+   [],
+   []
+  ],
+  "age": "-",
+  "name": "復刻：月之女神可曾有過糰子之夢？ 輕量版",
+  "longName": "復刻：月之女神可曾有過糰子之夢？ 輕量版",
+  "flags": [
+   "isEvent"
+  ],
+  "eventId": 80040,
+  "eventName": "復刻：月之女神可曾有過糰子之夢？\n\n輕量版"
+ },
+ {
+  "id": 8097,
+  "coordinates": [
+   [],
+   []
+  ],
+  "age": "-",
+  "name": "復刻：監獄塔內復仇鬼的哭泣",
+  "longName": "復刻：監獄塔內復仇鬼的哭泣",
+  "flags": [
+   "isEvent"
+  ],
+  "eventId": 80041,
+  "eventName": "復刻：監獄塔內復仇鬼的哭泣"
+ },
+ {
+  "id": 8098,
+  "coordinates": [
+   [],
+   []
+  ],
+  "age": "-",
+  "name": "復刻：巧克力小姐的大驚小怪 -Valentine 2016-  擴大版",
+  "longName": "復刻：巧克力小姐的大驚小怪 -Valentine 2016-  擴大版",
+  "flags": [
+   "isEvent"
+  ],
+  "eventId": 80043,
+  "eventName": "復刻：巧克力小姐的大驚小怪\n\n-Valentine 2017- 擴大版"
+ },
+ {
+  "id": 8109,
+  "coordinates": [
+   [],
+   []
+  ],
+  "age": "-",
+  "name": "復刻：嘮嘮叨叨本能寺",
+  "longName": "復刻：嘮嘮叨叨本能寺",
+  "flags": [
+   "isEvent"
+  ],
+  "eventId": 80046,
+  "eventName": "復刻：嘮嘮叨叨本能寺 輕量版"
+ },
+ {
+  "id": 8113,
+  "coordinates": [
+   [],
+   []
+  ],
+  "age": "-",
+  "name": "嘮嘮叨叨明治維新",
+  "longName": "嘮嘮叨叨明治維新",
+  "flags": [
+   "isEvent"
+  ],
+  "eventId": 80050,
+  "eventName": "嘮嘮叨叨明治維新"
+ },
+ {
+  "id": 8123,
+  "coordinates": [
+   [],
+   []
+  ],
+  "age": "-",
+  "name": "復刻羅生門",
+  "longName": "復刻羅生門",
+  "flags": [
+   "isEvent"
+  ],
+  "eventId": 80055,
+  "eventName": "復刻：鬼哭醉夢魔京 羅生門 短程版"
+ },
+ {
+  "id": 8156,
+  "coordinates": [
+   [],
+   []
+  ],
+  "age": "-",
+  "name": "Riyo活動",
+  "longName": "Riyo活動",
+  "flags": [
+   "isEvent"
+  ],
+  "eventId": 80063,
+  "eventName": "All The States'Men!\n～看漫畫搞懂合眾國開拓史～"
+ },
+ {
+  "id": 8161,
+  "coordinates": [
+   [],
+   []
+  ],
+  "age": "",
+  "name": "尼祿祭2018",
+  "longName": "尼祿祭2018",
+  "flags": [
+   "isEvent"
+  ],
+  "eventId": 80067,
+  "eventName": "尼祿祭再臨 ～2019 Autumn～"
+ },
+ {
+  "id": 8183,
+  "coordinates": [
+   [],
+   []
+  ],
+  "age": "-",
+  "name": "復刻：第二代是Alter醬 ～2017聖誕節～ 輕量版",
+  "longName": "復刻：第二代是Alter醬 ～2017聖誕節～ 輕量版",
+  "flags": [
+   "isEvent"
+  ],
+  "eventId": 80075,
+  "eventName": "復刻：第二代是Alter醬 \n～2018聖誕節～ 輕量版"
+ },
+ {
+  "id": 8188,
+  "coordinates": [
+   [],
+   []
+  ],
+  "age": "-",
+  "name": "聖誕節2018",
+  "longName": "聖誕節2018",
+  "flags": [
+   "isEvent"
+  ],
+  "eventId": 80084,
+  "eventName": "冥界的聖誕快樂"
+ },
+ {
+  "id": 8196,
+  "coordinates": [
+   [],
+   []
+  ],
+  "age": "-",
+  "name": "復刻贗作英靈",
+  "longName": "復刻：達文西與七位贗作英靈 輕量版",
+  "flags": [
+   "isEvent"
+  ],
+  "eventId": 80087,
+  "eventName": "復刻：達．文西與七位贗作英靈\n　輕量版"
+ },
+ {
+  "id": 8200,
+  "coordinates": [
+   [],
+   []
+  ],
+  "age": "-",
+  "name": "鬼樂百重塔",
+  "longName": "節分酒宴繪卷　鬼樂百重塔",
+  "flags": [
+   "isEvent"
+  ],
+  "eventId": 80088,
+  "eventName": "節分酒宴繪卷 鬼樂百重塔"
+ },
+ {
+  "id": 8208,
+  "coordinates": [
+   [],
+   []
+  ],
+  "age": "-",
+  "name": "情人節2019　～繁榮的巧克力情人節庭園～",
+  "longName": "情人節2019　～繁榮的巧克力情人節庭園～",
+  "flags": [
+   "isEvent"
+  ],
+  "eventId": 80089,
+  "eventName": "情人節2019 ～繁榮的巧克力\n情人節庭園～"
+ },
+ {
+  "id": 8225,
+  "coordinates": [
+   [],
+   []
+  ],
+  "age": "-",
+  "name": "復刻：Saber Wars",
+  "longName": "復刻：Saber Wars",
+  "flags": [
+   "isEvent"
+  ],
+  "eventId": 80095,
+  "eventName": "復刻：Saber Wars\n～Lily的宇宙武者修行～ 輕量版"
+ },
+ {
+  "id": 8230,
+  "coordinates": [
+   [],
+   []
+  ],
+  "age": "-",
+  "name": "星之三藏醬，遠赴天竺",
+  "longName": "復刻：星之三藏醬，遠赴天竺 輕量版",
+  "flags": [
+   "isEvent"
+  ],
+  "eventId": 80099,
+  "eventName": "復刻：星之三藏醬，遠赴天竺 輕量版"
+ },
+ {
+  "id": 8238,
+  "coordinates": [
+   [],
+   []
+  ],
+  "age": "-",
+  "name": "-",
+  "longName": "-",
+  "flags": [
+   "isEvent",
+   "isWarIconLeft"
+  ],
+  "eventId": 80103,
+  "eventName": "虛月館殺人事件"
+ },
+ {
+  "id": 8240,
+  "coordinates": [
+   [],
+   []
+  ],
+  "age": "-",
+  "name": "復刻：嘮嘮叨叨明治維新",
+  "longName": "復刻：嘮嘮叨叨明治維新",
+  "flags": [
+   "isEvent",
+   "isWarIconLeft"
+  ],
+  "eventId": 80104,
+  "eventName": "復刻：嘮嘮叨叨明治維新 輕量版"
+ },
+ {
+  "id": 8273,
+  "coordinates": [
+   [],
+   []
+  ],
+  "age": "-",
+  "name": "Riyo活動",
+  "longName": "Riyo活動",
+  "flags": [
+   "isEvent",
+   "isWarIconLeft"
+  ],
+  "eventId": 80113,
+  "eventName": "復刻:All The States'Men!\n～看漫畫搞懂合眾國開拓史～"
+ },
+ {
+  "id": 8290,
+  "coordinates": [],
+  "age": "",
+  "name": "BATTLE IN NEWYORK 2020",
+  "longName": "BATTLE IN NEWYORK 2020",
+  "flags": [
+   "isEvent",
+   "noClearMarkWithComplete"
+  ],
+  "eventId": 80116,
+  "eventName": "BATTLE IN NEWYORK 2020"
+ },
+ {
+  "id": 8308,
+  "coordinates": [
+   [],
+   []
+  ],
+  "age": "-",
+  "name": "聖誕節2018",
+  "longName": "聖誕節2018",
+  "flags": [
+   "isEvent",
+   "noClearMarkWithComplete"
+  ],
+  "eventId": 80221,
+  "eventName": "復刻：冥界的聖誕快樂 輕量版"
+ },
+ {
+  "id": 8313,
+  "coordinates": [
+   [],
+   []
+  ],
+  "age": "-",
+  "name": "聖誕節2020",
+  "longName": "聖誕節2020",
+  "flags": [
+   "isEvent",
+   "noClearMarkWithComplete"
+  ],
+  "eventId": 80223,
+  "eventName": "聖誕節2020 Holy．Samba．Night\n～降雪遺跡與少女騎士～"
+ },
+ {
+  "id": 8335,
+  "coordinates": [
+   [],
+   []
+  ],
+  "age": "-",
+  "name": "情人節2020",
+  "longName": "情人節2020",
+  "flags": [
+   "isEvent",
+   "noClearMarkWithComplete"
+  ],
+  "eventId": 80233,
+  "eventName": "情人節2020 語音＆書信．來蒐集吧！\n～紫式部與7冊咒本～"
+ },
+ {
+  "id": 8346,
+  "coordinates": [
+   [],
+   []
+  ],
+  "age": "-",
+  "name": "白色情人節2021",
+  "longName": "白色情人節2021",
+  "flags": [
+   "isEvent",
+   "noClearMarkWithComplete"
+  ],
+  "eventId": 80237,
+  "eventName": "舊日蜘蛛緬懷過往猶紡絲"
+ },
+ {
+  "id": 8347,
+  "coordinates": [
+   [],
+   []
+  ],
+  "age": "-",
+  "name": "困惑鳴鳳莊的考察",
+  "longName": "困惑鳴鳳莊的考察",
+  "flags": [
+   "isEvent",
+   "closeAfterClear",
+   "noClearMarkWithClear"
+  ],
+  "eventId": 80245,
+  "eventName": "困惑鳴鳳莊的考察"
+ },
+ {
+  "id": 8348,
+  "coordinates": [
+   [],
+   []
+  ],
+  "age": "-",
+  "name": "監獄塔內復仇鬼的哭泣",
+  "longName": "監獄塔內復仇鬼的哭泣",
+  "flags": [
+   "isEvent",
+   "shop"
+  ],
+  "eventId": 80249,
+  "eventName": "監獄塔內復仇鬼的哭泣"
+ },
+ {
+  "id": 8349,
+  "coordinates": [
+   [],
+   []
+  ],
+  "age": "-",
+  "name": "",
+  "longName": "",
+  "flags": [],
+  "eventId": 80257,
+  "eventName": ""
+ },
+ {
+  "id": 8350,
+  "coordinates": [],
+  "age": "",
+  "name": "BATTLE IN NEWYORK 2021",
+  "longName": "BATTLE IN NEWYORK 2021",
+  "flags": [
+   "isEvent",
+   "noClearMarkWithComplete"
+  ],
+  "eventId": 80259,
+  "eventName": "BATTLE IN NEWYORK 2021"
+ },
+ {
+  "id": 8351,
+  "coordinates": [
+   [],
+   []
+  ],
+  "age": "-",
+  "name": "聖誕節2020",
+  "longName": "聖誕節2020",
+  "flags": [
+   "isEvent",
+   "noClearMarkWithComplete"
+  ],
+  "eventId": 80264,
+  "eventName": "聖誕節2021 南丁格爾的聖誕頌歌"
+ },
+ {
+  "id": 8352,
+  "coordinates": [],
+  "age": "-",
+  "name": "彭忒西勒亞活動",
+  "longName": "彭忒西勒亞活動",
+  "flags": [
+   "isEvent",
+   "noClearMarkWithComplete"
+  ],
+  "eventId": 80273,
+  "eventName": "救援！ Amazones.com\n～CEO Crisis2021～"
+ },
+ {
+  "id": 8353,
+  "coordinates": [
+   [],
+   []
+  ],
+  "age": "-",
+  "name": "情人節2021",
+  "longName": "情人節2021",
+  "flags": [
+   "isEvent",
+   "noClearMarkWithComplete"
+  ],
+  "eventId": 80276,
+  "eventName": "情人節2021 曾經美妙的情人節\n～紫式部與5位跑趴辣妹軍團～"
+ },
+ {
+  "id": 8354,
+  "coordinates": [
+   [],
+   []
+  ],
+  "age": "-",
+  "name": "聖誕節2018",
+  "longName": "聖誕節2018",
+  "flags": [
+   "isEvent",
+   "closeAfterClear",
+   "shop"
+  ],
+  "eventId": 80280,
+  "eventName": "主線分支\n冥界的聖誕快樂"
+ },
+ {
+  "id": 8355,
+  "coordinates": [
+   [],
+   []
+  ],
+  "age": "-",
+  "name": "白色情人節2021",
+  "longName": "白色情人節2021",
+  "flags": [
+   "isEvent",
+   "noClearMarkWithComplete"
+  ],
+  "eventId": 80278,
+  "eventName": "艾尤的春風\n～魔女和愉快的夥伴們與嶄新的冒險～"
+ },
+ {
+  "id": 8356,
+  "coordinates": [
+   [],
+   []
+  ],
+  "age": "-",
+  "name": "迦勒底之門",
+  "longName": "迦勒底之門",
+  "flags": [
+   "isEvent",
+   "noClearMarkWithComplete"
+  ],
+  "eventId": 80301,
+  "eventName": "影之國的舞鬥會 ～貓與兔與聖杯戰爭～"
+ },
+ {
+  "id": 8357,
+  "coordinates": [
+   [],
+   []
+  ],
+  "age": "-",
+  "name": "聖誕節2020",
+  "longName": "聖誕節2020",
+  "flags": [
+   "isEvent",
+   "noClearMarkWithComplete"
+  ],
+  "eventId": 80303,
+  "eventName": "復刻：聖誕節2021 南丁格爾的聖誕頌歌 輕量版"
+ },
+ {
+  "id": 8358,
+  "coordinates": [
+   [],
+   []
+  ],
+  "age": "-",
+  "name": "迦勒底之門",
+  "longName": "迦勒底之門",
+  "flags": [
+   "isEvent",
+   "noClearMarkWithComplete"
+  ],
+  "eventId": 80306,
+  "eventName": "榮光的聖誕老人之路\n～被封印的聖誕禮物～"
+ },
+ {
+  "id": 8359,
+  "coordinates": [
+   [],
+   []
+  ],
+  "age": "-",
+  "name": "迦勒底之門",
+  "longName": "迦勒底之門",
+  "flags": [
+   "isEvent",
+   "noClearMarkWithComplete"
+  ],
+  "eventId": 80312,
+  "eventName": "聖杯戰線 ～布魯圖斯，還有你嗎～"
+ },
+ {
+  "id": 8360,
+  "coordinates": [
+   [],
+   []
+  ],
+  "age": "-",
+  "name": "情人節2022",
+  "longName": "情人節2022",
+  "flags": [
+   "isEvent",
+   "noClearMarkWithComplete"
+  ],
+  "eventId": 80313,
+  "eventName": "愛之傳教士埃莫醬的San Valentino！\n～迦勒底．苦澀．情人節2022～"
+ },
+ {
+  "id": 8361,
+  "coordinates": [
+   [],
+   []
+  ],
+  "age": "-",
+  "name": "白色情人節2022",
+  "longName": "白色情人節2022",
+  "flags": [
+   "isEvent",
+   "noClearMarkWithComplete"
+  ],
+  "eventId": 80314,
+  "eventName": "聖杯怪盜天草四郎\n～鬧劇博物館～"
+ },
+ {
+  "id": 8362,
+  "coordinates": [
+   [],
+   []
+  ],
+  "age": "-",
+  "name": "秋葉原塔活動",
+  "longName": "秋葉原塔活動",
+  "flags": [
+   "isEvent",
+   "noClearMarkWithComplete"
+  ],
+  "eventId": 80318,
+  "eventName": "秋葉原．爆裂！\n～祈願之街與銘刻了愛的雕像們～"
+ },
+ {
+  "id": 8363,
+  "coordinates": [
+   [],
+   []
+  ],
+  "age": "-",
+  "name": "",
+  "longName": "",
+  "flags": [],
+  "eventId": 80327,
+  "eventName": ""
+ },
+ {
+  "id": 8364,
+  "coordinates": [
+   [],
+   []
+  ],
+  "age": "-",
+  "name": "復刻：Grand尼祿祭",
+  "longName": "復刻：Grand尼祿祭 ～2023 Early Summer～",
+  "flags": [
+   "isEvent",
+   "noClearMarkWithComplete"
+  ],
+  "eventId": 80328,
+  "eventName": "復刻：Grand尼祿祭\n～2023 Early Summer～"
+ },
+ {
+  "id": 8365,
+  "coordinates": [
+   [],
+   []
+  ],
+  "age": "-",
+  "name": "聖誕節2022",
+  "longName": "聖誕節2022",
+  "flags": [
+   "isEvent",
+   "noClearMarkWithComplete"
+  ],
+  "eventId": 80347,
+  "eventName": "Making Christmas Party！"
+ },
+ {
+  "id": 8366,
+  "coordinates": [
+   [],
+   []
+  ],
+  "age": "-",
+  "name": "情人節2023",
+  "longName": "情人節2023",
+  "flags": [
+   "isEvent",
+   "noClearMarkWithComplete"
+  ],
+  "eventId": 80356,
+  "eventName": "馬納南．紀念．情人節\n～巧克力之樹與女神的選擇～"
+ },
+ {
+  "id": 8367,
+  "coordinates": [
+   [],
+   []
+  ],
+  "age": "-",
+  "name": "15位知性的眼鏡們",
+  "longName": "15位知性的眼鏡們",
+  "flags": [
+   "isEvent",
+   "noClearMarkWithComplete"
+  ],
+  "eventId": 80359,
+  "eventName": "15位知性的眼鏡們"
+ },
+ {
+  "id": 8368,
+  "coordinates": [
+   [],
+   []
+  ],
+  "age": "",
+  "name": "BATTLE IN NEWYORK 2024 ～太空．奧德修斯對尼古拉．特斯拉～",
+  "longName": "BATTLE IN NEWYORK 2024 ～太空．奧德修斯對尼古拉．特斯拉～",
+  "flags": [
+   "isEvent",
+   "noClearMarkWithComplete"
+  ],
+  "eventId": 80363,
+  "eventName": "BATTLE IN NEWYORK 2024\n～太空．奧德修斯對尼古拉．特斯拉～"
+ },
+ {
+  "id": 8369,
+  "coordinates": [
+   [],
+   []
+  ],
+  "age": "",
+  "name": "特斯拉杯 兆線圈級",
+  "longName": "BATTLE IN NEWYORK 2024 ～太空．奧德修斯對尼古拉．特斯拉～",
+  "flags": [
+   "isEvent",
+   "isWarIconLeft",
+   "subFolder"
+  ],
+  "eventId": 80363,
+  "eventName": "BATTLE IN NEWYORK 2024\n～太空．奧德修斯對尼古拉．特斯拉～"
+ },
+ {
+  "id": 8370,
+  "coordinates": [
+   [],
+   []
+  ],
+  "age": "",
+  "name": "特斯拉杯 吉線圈級",
+  "longName": "BATTLE IN NEWYORK 2024 ～太空．奧德修斯對尼古拉．特斯拉～",
+  "flags": [
+   "isEvent",
+   "isWarIconLeft",
+   "subFolder"
+  ],
+  "eventId": 80363,
+  "eventName": "BATTLE IN NEWYORK 2024\n～太空．奧德修斯對尼古拉．特斯拉～"
+ },
+ {
+  "id": 8371,
+  "coordinates": [
+   [],
+   []
+  ],
+  "age": "",
+  "name": "復刻任務2019",
+  "longName": "BATTLE IN NEWYORK 2024 ～太空．奧德修斯對尼古拉．特斯拉～",
+  "flags": [
+   "isEvent",
+   "isWarIconLeft",
+   "subFolder"
+  ],
+  "eventId": 80363,
+  "eventName": "BATTLE IN NEWYORK 2024\n～太空．奧德修斯對尼古拉．特斯拉～"
+ },
+ {
+  "id": 8372,
+  "coordinates": [
+   [],
+   []
+  ],
+  "age": "",
+  "name": "復刻任務2020",
+  "longName": "BATTLE IN NEWYORK 2024 ～太空．奧德修斯對尼古拉．特斯拉～",
+  "flags": [
+   "isEvent",
+   "isWarIconLeft",
+   "subFolder"
+  ],
+  "eventId": 80363,
+  "eventName": "BATTLE IN NEWYORK 2024\n～太空．奧德修斯對尼古拉．特斯拉～"
+ },
+ {
+  "id": 8373,
+  "coordinates": [
+   [],
+   []
+  ],
+  "age": "-",
+  "name": "南溟弓張八犬傳",
+  "longName": "南溟弓張八犬傳",
+  "flags": [
+   "isEvent",
+   "noClearMarkWithComplete"
+  ],
+  "eventId": 80381,
+  "eventName": "南溟弓張八犬傳"
+ },
+ {
+  "id": 8374,
+  "coordinates": [
+   [],
+   []
+  ],
+  "age": "-",
+  "name": "Road To 7",
+  "longName": "Road To 7",
+  "flags": [
+   "isEvent",
+   "noClearMarkWithComplete"
+  ],
+  "eventId": 80385,
+  "eventName": "追憶任務"
+ },
+ {
+  "id": 8375,
+  "coordinates": [
+   [],
+   []
+  ],
+  "age": "-",
+  "name": "Road To 7",
+  "longName": "Road To 7",
+  "flags": [
+   "isEvent",
+   "noClearMarkWithComplete"
+  ],
+  "eventId": 80399,
+  "eventName": "追憶任務"
+ },
+ {
+  "id": 8376,
+  "coordinates": [
+   [],
+   []
+  ],
+  "age": "-",
+  "name": "好漢酒宴要塞　恰赫季斯．梁山泊",
+  "longName": "好漢酒宴要塞　恰赫季斯．梁山泊",
+  "flags": [
+   "isEvent",
+   "noClearMarkWithComplete"
+  ],
+  "eventId": 80400,
+  "eventName": "108人的萬聖節．叛亂！\n～小龍娘水滸演義～"
+ },
+ {
+  "id": 8377,
+  "coordinates": [
+   [],
+   []
+  ],
+  "age": "-",
+  "name": "Road To 7",
+  "longName": "Road To 7",
+  "flags": [
+   "isEvent",
+   "noClearMarkWithComplete"
+  ],
+  "eventId": 80403,
+  "eventName": "追憶任務"
+ },
+ {
+  "id": 8378,
+  "coordinates": [
+   [],
+   []
+  ],
+  "age": "-",
+  "name": "Road To 7",
+  "longName": "Road To 7",
+  "flags": [
+   "isEvent",
+   "noClearMarkWithComplete"
+  ],
+  "eventId": 80406,
+  "eventName": "追憶任務"
+ },
+ {
+  "id": 8379,
+  "coordinates": [
+   [],
+   []
+  ],
+  "age": "-",
+  "name": "迦勒底妖精騎士杯 ～第二代的凱旋～",
+  "longName": "迦勒底妖精騎士杯 ～第二代的凱旋～",
+  "flags": [
+   "isEvent",
+   "noClearMarkWithComplete"
+  ],
+  "eventId": 80405,
+  "eventName": "迦勒底妖精騎士杯 ～第二代的凱旋～"
+ },
+ {
+  "id": 8380,
+  "coordinates": [
+   [],
+   []
+  ],
+  "age": "-",
+  "name": "迦勒底之門",
+  "longName": "迦勒底之門",
+  "flags": [
+   "isEvent",
+   "noClearMarkWithComplete"
+  ],
+  "eventId": 80409,
+  "eventName": "復刻：榮光的聖誕老人之路\n～被封印的聖誕禮物～ 輕量版"
+ },
+ {
+  "id": 8381,
+  "coordinates": [
+   [],
+   []
+  ],
+  "age": "-",
+  "name": "Road To 7",
+  "longName": "Road To 7",
+  "flags": [
+   "isEvent",
+   "noClearMarkWithComplete"
+  ],
+  "eventId": 80412,
+  "eventName": "追憶任務"
+ },
+ {
+  "id": 8382,
+  "coordinates": [
+   [],
+   []
+  ],
+  "age": "-",
+  "name": "瓊安小姐與未確認之愛 粉碎☆LOVE LOVE HEART大石像",
+  "longName": "瓊安小姐與未確認之愛 粉碎☆LOVE LOVE HEART大石像",
+  "flags": [
+   "isEvent",
+   "noClearMarkWithComplete"
+  ],
+  "eventId": 80414,
+  "eventName": "瓊安小姐與未確認之愛\n粉碎☆LOVE LOVE HEART大石像"
+ },
+ {
+  "id": 8383,
+  "coordinates": [
+   [
+    35.893802427307726,
+    139.63373983638553
+   ],
+   [
+    22.616784,
+    131.62118
+   ]
+  ],
+  "age": "-",
+  "name": "CBC2024 迦勒底重工故事 ～你與我的BtoB～",
+  "longName": "CBC2024 迦勒底重工故事 ～你與我的BtoB～",
+  "flags": [
+   "isEvent",
+   "noClearMarkWithComplete",
+   "dispEarthPointWithoutMap"
+  ],
+  "eventId": 80422,
+  "eventName": "CBC2024 迦勒底重工故事\n～你與我的BtoB～"
+ },
+ {
+  "id": 8384,
+  "coordinates": [
+   [],
+   []
+  ],
+  "age": "-",
+  "name": "風雲機關伊莉雅城 ～果心居士微不足道的野心～",
+  "longName": "風雲機關伊莉雅城 ～果心居士微不足道的野心～",
+  "flags": [
+   "isEvent",
+   "noClearMarkWithComplete"
+  ],
+  "eventId": 80429,
+  "eventName": "風雲機關伊莉雅城\n～果心居士微不足道的野心～"
+ },
+ {
+  "id": 8385,
+  "coordinates": [
+   [],
+   []
+  ],
+  "age": "-",
+  "name": "魔眼．交響曲",
+  "longName": "魔眼．交響曲",
+  "flags": [
+   "isEvent",
+   "noClearMarkWithComplete"
+  ],
+  "eventId": 80432,
+  "eventName": "魔眼．交響曲\n～妖異之森與優美足跡～"
+ },
+ {
+  "id": 8386,
+  "coordinates": [
+   [
+    -33.875869,
+    151.192615
+   ],
+   [
+    -53.421136,
+    140.185336
+   ]
+  ],
+  "age": "-",
+  "name": "旺吉那．世界之旅！",
+  "longName": "旺吉那．世界之旅！",
+  "flags": [
+   "isEvent",
+   "noClearMarkWithComplete",
+   "dispEarthPointWithoutMap"
+  ],
+  "eventId": 80448,
+  "eventName": "旺吉娜・世界之旅！\n～與大精靈的環遊世界～"
+ },
+ {
+  "id": 8387,
+  "coordinates": [
+   [],
+   []
+  ],
+  "age": "-",
+  "name": "聖誕節2025",
+  "longName": "聖誕節2025",
+  "flags": [
+   "isEvent",
+   "noClearMarkWithComplete"
+  ],
+  "eventId": 80455,
+  "eventName": "雪原的聖誕快樂2025\n～7days / 8years Snow Carol～"
+ },
+ {
+  "id": 8388,
+  "coordinates": [
+   [],
+   []
+  ],
+  "age": "-",
+  "name": "情人節2025 ～在巧克力之河的彼端～",
+  "longName": "情人節2025 ～在巧克力之河的彼端～",
+  "flags": [
+   "isEvent",
+   "noClearMarkWithComplete"
+  ],
+  "eventId": 80460,
+  "eventName": "情人節2025\n～在巧克力之河的彼端～"
+ },
+ {
+  "id": 8389,
+  "coordinates": [
+   [],
+   []
+  ],
+  "age": "-",
+  "name": "CBC2025 查理曼的Montjoie．騎士道！",
+  "longName": "CBC2025 查理曼的Montjoie．騎士道！",
+  "flags": [
+   "isEvent",
+   "noClearMarkWithComplete",
+   "changeDispClosedMessage"
+  ],
+  "eventId": 80462,
+  "eventName": "CBC2025 \n查理曼的Montjoie．騎士道！"
+ },
+ {
+  "id": 8390,
+  "coordinates": [
+   [],
+   []
+  ],
+  "age": "-",
+  "name": "聖誕節2025",
+  "longName": "波赫約拉的平安夜 懷夢聖誕老人與胡桃鉗",
+  "flags": [
+   "isEvent",
+   "noClearMarkWithComplete",
+   "changeDispClosedMessage"
+  ],
+  "eventId": 80506,
+  "eventName": "波赫約拉的平安夜\n懷夢聖誕老人與胡桃鉗"
+ },
+ {
+  "id": 8391,
+  "coordinates": [
+   [],
+   []
+  ],
+  "age": "-",
+  "name": "Space Phantasmoon　另一個聖誕",
+  "longName": "Space Phantasmoon　另一個聖誕",
+  "flags": [
+   "isEvent",
+   "noClearMarkWithComplete",
+   "changeDispClosedMessage"
+  ],
+  "eventId": 80507,
+  "eventName": "Space Phantasmoon\n另一個聖誕 午夜的Phanta安"
+ },
+ {
+  "id": 8392,
+  "coordinates": [
+   [],
+   []
+  ],
+  "age": "-",
+  "name": "小野小町古今抄",
+  "longName": "小野小町古今抄 ～雪消月的閃耀蓮華～",
+  "flags": [
+   "isEvent",
+   "noClearMarkWithComplete"
+  ],
+  "eventId": 80514,
+  "eventName": "小野小町古今抄 ～雪消月的閃耀蓮華～"
+ },
+ {
+  "id": 8393,
+  "coordinates": [
+   [],
+   []
+  ],
+  "age": "-",
+  "name": "CBC2026 其名為但丁",
+  "longName": "CBC2026 其名為但丁 ～德諾沃飯店的禮賓司～",
+  "flags": [
+   "isEvent",
+   "noClearMarkWithComplete"
+  ],
+  "eventId": 80520,
+  "eventName": ""
+ },
+ {
+  "id": 8394,
+  "coordinates": [
+   [],
+   []
+  ],
+  "age": "-",
+  "name": "落淚之翼",
+  "longName": "落淚之翼",
+  "flags": [
+   "isEvent",
+   "noClearMarkWithComplete",
+   "changeDispClosedMessage"
+  ],
+  "eventId": 80540,
+  "eventName": ""
+ },
+ {
+  "id": 8397,
+  "coordinates": [
+   [],
+   []
+  ],
+  "age": "-",
+  "name": "因陀羅的大試煉",
+  "longName": "因陀羅的大試煉　～巡迴破裂天空～",
+  "flags": [
+   "isEvent",
+   "noClearMarkWithComplete",
+   "changeDispClosedMessage"
+  ],
+  "eventId": 80549,
+  "eventName": ""
+ },
+ {
+  "id": 9001,
+  "coordinates": [
+   [
+    48.17095,
+    14.98668
+   ],
+   []
+  ],
+  "age": "-",
+  "name": "歡樂監獄城 恰赫季斯",
+  "longName": "歡樂監獄城 恰赫季斯",
+  "flags": [
+   "withMap",
+   "isEvent"
+  ],
+  "eventId": 80002,
+  "eventName": "歌唱的南瓜城的冒險\n～瘋狂派對2017～"
+ },
+ {
+  "id": 9002,
+  "coordinates": [
+   [
+    35.91839,
+    139.2079
+   ],
+   []
+  ],
+  "age": "-",
+  "name": "小川公寓",
+  "longName": "克螺旋境界式\n小川公寓",
+  "flags": [
+   "withMap",
+   "isEvent"
+  ],
+  "eventId": 80011,
+  "eventName": "空之境界/the Garden of Order"
+ },
+ {
+  "id": 9003,
+  "coordinates": [
+   [
+    33.01147,
+    130.6486
+   ],
+   []
+  ],
+  "age": "-",
+  "name": "第四次異聞錄 冬木",
+  "longName": "第四次異聞錄 冬木",
+  "flags": [
+   "withMap",
+   "isEvent"
+  ],
+  "eventId": 80017,
+  "eventName": "Fate/Accel Zero Order"
+ },
+ {
+  "id": 9004,
+  "coordinates": [
+   [
+    34.11444,
+    134.6352
+   ],
+   []
+  ],
+  "age": "-",
+  "name": "人外跋扈怪界",
+  "longName": "人外跋扈怪界",
+  "flags": [
+   "withMap",
+   "isEvent"
+  ],
+  "eventId": 80022,
+  "eventName": "天魔御伽草子 鬼島"
+ },
+ {
+  "id": 9005,
+  "coordinates": [
+   [],
+   []
+  ],
+  "age": "-",
+  "name": "藍天之地",
+  "longName": "開拓漂流日誌\n藍天之地",
+  "flags": [
+   "withMap",
+   "isEvent"
+  ],
+  "eventId": 80023,
+  "eventName": "夏日！海洋！開拓啦！ FGO 2018 Summer\n迦勒底夏日回憶\n～治癒的白沙灘～"
+ },
+ {
+  "id": 9006,
+  "coordinates": [
+   [],
+   []
+  ],
+  "age": "-",
+  "name": "暗影之地",
+  "longName": "世紀末女神傳\n暗影之地",
+  "flags": [
+   "withMap",
+   "isEvent"
+  ],
+  "eventId": 80024,
+  "eventName": "夏日！海洋！開拓啦！ FGO 2018 Summer\n迦勒底灼熱之旅\n～進化的文明～"
+ },
+ {
+  "id": 9007,
+  "coordinates": [
+   [],
+   []
+  ],
+  "age": "-",
+  "name": "廢棄少女幻想 終末獻祭",
+  "longName": "廢棄少女幻想 終末獻祭",
+  "flags": [
+   "withMap",
+   "isEvent"
+  ],
+  "eventId": 80026,
+  "eventName": "魔法少女紀行 ～Prisma．Codes～"
+ },
+ {
+  "id": 9008,
+  "coordinates": [
+   [
+    48.17095,
+    14.98668
+   ],
+   []
+  ],
+  "age": "-",
+  "name": "歡樂監獄城 恰赫季斯",
+  "longName": "歡樂監獄城 恰赫季斯",
+  "flags": [
+   "withMap",
+   "isEvent"
+  ],
+  "eventId": 80030,
+  "eventName": "復刻：歌唱的南瓜城的冒險\n～瘋狂派對2017～ 輕量版"
+ },
+ {
+  "id": 9009,
+  "coordinates": [
+   [
+    48.17095,
+    14.98668
+   ],
+   []
+  ],
+  "age": "-",
+  "name": "超極大魔城 橫版恰赫季斯",
+  "longName": "超極大魔城 橫版恰赫季斯",
+  "flags": [
+   "withMap",
+   "isEvent"
+  ],
+  "eventId": 80031,
+  "eventName": "Halloween Comeback！\n超極☆大南瓜村 ～踏上冒險之旅……～"
+ },
+ {
+  "id": 9010,
+  "coordinates": [
+   [
+    11.21,
+    142.12
+   ],
+   []
+  ],
+  "age": "AD:2030",
+  "name": "亞種特異點",
+  "longName": "深海電腦樂土 SE.RA.PH",
+  "flags": [
+   "withMap",
+   "isEvent"
+  ],
+  "eventId": 80054,
+  "eventName": "深海電腦樂土 SE.RA.PH"
+ },
+ {
+  "id": 9013,
+  "coordinates": [
+   [
+    34.11444,
+    134.6352
+   ],
+   []
+  ],
+  "age": "-",
+  "name": "人外跋扈怪界",
+  "longName": "人外跋扈怪界",
+  "flags": [
+   "withMap",
+   "isEvent"
+  ],
+  "eventId": 80057,
+  "eventName": "復刻：天魔御伽草子 鬼島 輕量版"
+ },
+ {
+  "id": 9014,
+  "coordinates": [
+   [],
+   []
+  ],
+  "age": "-",
+  "name": "藍天之地",
+  "longName": "開拓漂流日誌\n藍天之地",
+  "flags": [
+   "withMap",
+   "isEvent"
+  ],
+  "eventId": 80060,
+  "eventName": "復刻：夏日！海洋！開拓啦！\nFGO 2018 Summer\n迦勒底夏日回憶\n～治癒的白沙灘～ 輕量版"
+ },
+ {
+  "id": 9015,
+  "coordinates": [
+   [],
+   []
+  ],
+  "age": "-",
+  "name": "暗影之地",
+  "longName": "世紀末女神傳\n暗影之地",
+  "flags": [
+   "withMap",
+   "isEvent"
+  ],
+  "eventId": 80061,
+  "eventName": "復刻：夏日！海洋！開拓啦！\nFGO 2018 Summer\n迦勒底灼熱之旅\n～進化的文明～ 輕量版"
+ },
+ {
+  "id": 9018,
+  "coordinates": [
+   [
+    54.242595,
+    -7.728516
+   ],
+   []
+  ],
+  "age": "-",
+  "name": "伊絲塔杯",
+  "longName": "盛夏盛夏爆走祭典\n伊絲塔杯",
+  "flags": [
+   "isEvent"
+  ],
+  "eventId": 80064,
+  "eventName": "Dead Heat．夏日競賽！\n～夢與希望的伊絲塔盃 2019～"
+ },
+ {
+  "id": 9021,
+  "coordinates": [
+   [
+    54.242595,
+    -7.728516
+   ],
+   []
+  ],
+  "age": "-",
+  "name": "強襲牛車監獄",
+  "longName": "強襲牛車監獄\n凱爾特監獄",
+  "flags": [
+   "isEvent"
+  ],
+  "eventId": 80065,
+  "eventName": "Death Jail．夏日逃脫\n～罪與絕望的梅芙大監獄 2019～"
+ },
+ {
+  "id": 9022,
+  "coordinates": [
+   [
+    48.17095,
+    14.98668
+   ],
+   []
+  ],
+  "age": "-",
+  "name": "超極大魔城 橫版恰赫季斯",
+  "longName": "超極大魔城 橫版恰赫季斯",
+  "flags": [
+   "withMap",
+   "isEvent"
+  ],
+  "eventId": 80069,
+  "eventName": "復刻：Halloween Comeback！\n超極☆大南瓜村 ～踏上冒險之旅……～\n輕量版"
+ },
+ {
+  "id": 9029,
+  "coordinates": [
+   [
+    48.17095,
+    14.98668
+   ],
+   []
+  ],
+  "age": "-",
+  "name": "恰赫季斯金字塔姬路城",
+  "longName": "超絕高聳魔城\n恰赫季斯金字塔姬路城",
+  "flags": [
+   "isEvent"
+  ],
+  "eventId": 80073,
+  "eventName": "萬聖節．強襲！ \n魔之建築攀登者／姬路城大決戰"
+ },
+ {
+  "id": 9031,
+  "coordinates": [
+   [
+    35.91839,
+    139.2079
+   ],
+   []
+  ],
+  "age": "-",
+  "name": "小川公寓",
+  "longName": "克螺旋境界式\n小川公寓",
+  "flags": [
+   "withMap",
+   "isEvent"
+  ],
+  "eventId": 80090,
+  "eventName": "復刻版：空之境界/the Garden of Order\n -Revival-"
+ },
+ {
+  "id": 9032,
+  "coordinates": [
+   [
+    45.514902,
+    25.367164
+   ],
+   [
+    35.224976,
+    23.390634
+   ]
+  ],
+  "age": "-",
+  "name": "Apocrypha/Inheritance of Glory",
+  "longName": "Apocrypha/Inheritance of Glory",
+  "flags": [
+   "withMap",
+   "isEvent"
+  ],
+  "eventId": 80102,
+  "eventName": "Apocrypha/Inheritance of Glory"
+ },
+ {
+  "id": 9033,
+  "coordinates": [
+   [
+    35.974801,
+    139.345342
+   ],
+   [
+    22.280663,
+    131.780154
+   ]
+  ],
+  "age": "-",
+  "name": "極東乖離結界「帝都」",
+  "longName": "極東乖離結界「帝都」",
+  "flags": [
+   "isEvent",
+   "noClearMarkWithComplete"
+  ],
+  "eventId": 80107,
+  "eventName": "嘮嘮叨叨帝都聖杯奇譚\n～極東魔戰線1945～"
+ },
+ {
+  "id": 9035,
+  "coordinates": [
+   [
+    54.242595,
+    -7.728516
+   ],
+   [
+    47.428774,
+    -6.888866
+   ]
+  ],
+  "age": "-",
+  "name": "伊絲塔杯",
+  "longName": "盛夏盛夏爆走祭典\n伊絲塔杯",
+  "flags": [
+   "isEvent"
+  ],
+  "eventId": 80108,
+  "eventName": "復刻：Dead Heat．夏日競賽！\n～夢與希望的伊絲塔杯 2019～\n輕量版"
+ },
+ {
+  "id": 9040,
+  "coordinates": [
+   [
+    54.242595,
+    -7.728516
+   ],
+   [
+    47.428774,
+    -6.888866
+   ]
+  ],
+  "age": "-",
+  "name": "強襲牛車監獄",
+  "longName": "強襲牛車監獄\n凱爾特監獄",
+  "flags": [
+   "isEvent",
+   "noClearMarkWithComplete"
+  ],
+  "eventId": 80109,
+  "eventName": "復刻：Death Jail．夏日逃脫\n～罪與絕望的梅芙大監獄 2019～\n輕量版"
+ },
+ {
+  "id": 9046,
+  "coordinates": [
+   [
+    21.318611,
+    -157.922222
+   ],
+   [
+    6.4474,
+    -169.996775
+   ]
+  ],
+  "age": "-",
+  "name": "魯魯夏威",
+  "longName": "永久常夏祭壇 魯魯夏威",
+  "flags": [
+   "isEvent"
+  ],
+  "eventId": 80112,
+  "eventName": "從者．夏日．慶典！"
+ },
+ {
+  "id": 9048,
+  "coordinates": [
+   [
+    33.01146,
+    130.6486
+   ],
+   [
+    18.425354,
+    124.020278
+   ]
+  ],
+  "age": "-",
+  "name": "第四次異聞錄 冬木",
+  "longName": "第四次異聞錄 冬木",
+  "flags": [
+   "withMap",
+   "isEvent"
+  ],
+  "eventId": 80115,
+  "eventName": "復刻版：Fate/Accel Zero Order -LAP_2-"
+ },
+ {
+  "id": 9049,
+  "coordinates": [
+   [
+    48.17095,
+    14.98668
+   ],
+   [
+    39.386868,
+    16.114787
+   ]
+  ],
+  "age": "-",
+  "name": "恰赫季斯金字塔姬路城",
+  "longName": "超絕高聳魔城\n恰赫季斯金字塔姬路城",
+  "flags": [
+   "isEvent"
+  ],
+  "eventId": 80118,
+  "eventName": "復刻：萬聖節．強襲！ \n魔之建築攀登者／姬路城大決戰 輕量版"
+ },
+ {
+  "id": 9050,
+  "coordinates": [
+   [],
+   [
+    32.030008,
+    133.350409
+   ]
+  ],
+  "age": "-",
+  "name": "週末北方遊園 ONI．LAND",
+  "longName": "週末北方遊園 ONI．LAND",
+  "flags": [
+   "isEvent",
+   "noClearMarkWithComplete"
+  ],
+  "eventId": 80119,
+  "eventName": "神秘之國的ONILAND!！\n～鬼王與神威的黃金～"
+ },
+ {
+  "id": 9051,
+  "coordinates": [
+   [],
+   [
+    22.773911,
+    129.063236
+   ]
+  ],
+  "age": "-",
+  "name": "深山溫泉大社．高級餐廳閻魔亭",
+  "longName": "深山溫泉大社．高級餐廳閻魔亭",
+  "flags": [
+   "withMap",
+   "isEvent",
+   "noClearMarkWithComplete"
+  ],
+  "eventId": 80225,
+  "eventName": "雀之旅館的活動日誌～閻魔亭繁盛記～"
+ },
+ {
+  "id": 9052,
+  "coordinates": [
+   [],
+   []
+  ],
+  "age": "-",
+  "name": "廢棄少女幻想 終末獻祭",
+  "longName": "廢棄少女幻想 終末獻祭",
+  "flags": [
+   "withMap",
+   "isEvent",
+   "noClearMarkWithComplete"
+  ],
+  "eventId": 80232,
+  "eventName": "復刻版：魔法少女紀行 ～Prisma．Codes～\n-Re-install-"
+ },
+ {
+  "id": 9053,
+  "coordinates": [
+   [
+    11.21,
+    142.12
+   ],
+   [
+    -3.939612,
+    134.533
+   ]
+  ],
+  "age": "AD:2030",
+  "name": "亞種特異點",
+  "longName": "深海電腦樂土 SE.RA.PH",
+  "flags": [
+   "withMap",
+   "isEvent",
+   "noClearMarkWithClear",
+   "noClearMarkWithComplete"
+  ],
+  "eventId": 80236,
+  "eventName": "復刻版：深海電腦樂土 SE.RA.PH\n-Second Ballet-"
+ },
+ {
+  "id": 9056,
+  "coordinates": [
+   [],
+   [
+    22.296181,
+    131.770733
+   ]
+  ],
+  "age": "-",
+  "name": "德川迴天迷宮　大奧",
+  "longName": "德川迴天迷宮　大奧",
+  "flags": [
+   "isEvent"
+  ],
+  "eventId": 80239,
+  "eventName": "德川迴天迷宮 大奧"
+ },
+ {
+  "id": 9057,
+  "coordinates": [
+   [
+    35.974801,
+    139.345342
+   ],
+   [
+    22.280663,
+    131.780154
+   ]
+  ],
+  "age": "-",
+  "name": "極東乖離結界「帝都」",
+  "longName": "極東乖離結界「帝都」",
+  "flags": [
+   "isEvent",
+   "noClearMarkWithComplete"
+  ],
+  "eventId": 80242,
+  "eventName": "復刻：嘮嘮叨叨帝都聖杯奇譚\n～極東魔戰線1945～ 輕量版"
+ },
+ {
+  "id": 9058,
+  "coordinates": [
+   [],
+   [
+    43.928723,
+    0.041748
+   ]
+  ],
+  "age": "-",
+  "name": "幻想蒐集領域拼綴倫敦",
+  "longName": "幻想蒐集領域拼綴倫敦",
+  "flags": [
+   "withMap",
+   "isEvent",
+   "noClearMarkWithComplete"
+  ],
+  "eventId": 80244,
+  "eventName": "淑女．萊涅絲事件簿"
+ },
+ {
+  "id": 9068,
+  "coordinates": [
+   [
+    37.170193,
+    139.057295
+   ],
+   [
+    24.045034,
+    131.034234
+   ]
+  ],
+  "age": "-",
+  "name": "三千信長世界 是．這樣嗎",
+  "longName": "三千信長世界 是．這樣嗎",
+  "flags": [
+   "isEvent",
+   "noClearMarkWithComplete"
+  ],
+  "eventId": 80250,
+  "eventName": "全體信長總進擊 嘮嘮叨叨最終本能寺2021"
+ },
+ {
+  "id": 9069,
+  "coordinates": [
+   [
+    21.318611,
+    -157.922222
+   ],
+   [
+    6.4474,
+    -169.996775
+   ]
+  ],
+  "age": "-",
+  "name": "魯魯夏威",
+  "longName": "永久常夏祭壇 魯魯夏威",
+  "flags": [
+   "isEvent"
+  ],
+  "eventId": 80251,
+  "eventName": "復刻：從者．夏日．慶典！ 輕量版"
+ },
+ {
+  "id": 9071,
+  "coordinates": [
+   [
+    36.005684,
+    -112.732928
+   ],
+   [
+    22.578485,
+    -118.214066
+   ]
+  ],
+  "age": "-",
+  "name": "西部絢爛賭場拉斯維加斯",
+  "longName": "西部絢爛賭場拉斯維加斯",
+  "flags": [
+   "isEvent",
+   "noClearMarkWithComplete"
+  ],
+  "eventId": 80254,
+  "eventName": "拜見！ 拉斯維加斯御前比試\n～泳裝劍豪七色決勝！"
+ },
+ {
+  "id": 9072,
+  "coordinates": [
+   [],
+   [
+    32.030008,
+    133.350409
+   ]
+  ],
+  "age": "-",
+  "name": "週末北方遊園 ONI．LAND",
+  "longName": "週末北方遊園 ONI．LAND",
+  "flags": [
+   "isEvent",
+   "noClearMarkWithComplete"
+  ],
+  "eventId": 80262,
+  "eventName": "復刻：神秘之國的ONILAND!! \n～鬼王與神威的黃金～ 輕量版"
+ },
+ {
+  "id": 9073,
+  "coordinates": [
+   [],
+   []
+  ],
+  "age": "-",
+  "name": "蒼輝銀河節目 Saber Wars4.8",
+  "longName": "蒼輝銀河節目 Saber Wars4.8",
+  "flags": [
+   "isEvent",
+   "noClearMarkWithComplete"
+  ],
+  "eventId": 80260,
+  "eventName": "Saber Wars2 ～邁向初始宇宙～"
+ },
+ {
+  "id": 9074,
+  "coordinates": [
+   [],
+   [
+    22.773911,
+    129.063236
+   ]
+  ],
+  "age": "-",
+  "name": "深山溫泉大社．高級餐廳閻魔亭",
+  "longName": "深山溫泉大社．高級餐廳閻魔亭",
+  "flags": [
+   "withMap",
+   "isEvent",
+   "noClearMarkWithComplete"
+  ],
+  "eventId": 80271,
+  "eventName": "復刻：雀之旅館的活動日誌～閻魔亭繁盛記～ 輕量版"
+ },
+ {
+  "id": 9075,
+  "coordinates": [
+   [
+    45.514902,
+    25.367164
+   ],
+   [
+    35.224976,
+    23.390634
+   ]
+  ],
+  "age": "-",
+  "name": "Apocrypha/Inheritance of Glory",
+  "longName": "Apocrypha/Inheritance of Glory",
+  "flags": [
+   "withMap",
+   "isEvent"
+  ],
+  "eventId": 80283,
+  "eventName": "復刻版：Apocrypha/Inheritance of Glory -Triumphal-"
+ },
+ {
+  "id": 9076,
+  "coordinates": [
+   [
+    35.698384,
+    139.773071
+   ],
+   [
+    22.251607,
+    131.902092
+   ]
+  ],
+  "age": "-",
+  "name": "星塵桌上冥路 星之秋葉原",
+  "longName": "星塵桌上冥路 星之秋葉原",
+  "flags": [
+   "isEvent",
+   "noClearMarkWithComplete"
+  ],
+  "eventId": 80285,
+  "eventName": "『Fate/Requiem』桌上遊戲默示錄"
+ },
+ {
+  "id": 9077,
+  "coordinates": [
+   [
+    37.170193,
+    139.057295
+   ],
+   [
+    24.045034,
+    131.034234
+   ]
+  ],
+  "age": "-",
+  "name": "三千信長世界 是．這樣嗎",
+  "longName": "三千信長世界 是．這樣嗎",
+  "flags": [
+   "isEvent",
+   "noClearMarkWithComplete"
+  ],
+  "eventId": 80286,
+  "eventName": "復刻：全體信長總進擊 嘮嘮叨叨最終本能寺2021 輕量版"
+ },
+ {
+  "id": 9080,
+  "coordinates": [
+   [],
+   [
+    22.296181,
+    131.770733
+   ]
+  ],
+  "age": "-",
+  "name": "德川迴天迷宮　大奧",
+  "longName": "德川迴天迷宮　大奧",
+  "flags": [
+   "isEvent"
+  ],
+  "eventId": 80290,
+  "eventName": "復刻：德川迴天迷宮 大奧"
+ },
+ {
+  "id": 9087,
+  "coordinates": [
+   [
+    36.005684,
+    -112.732928
+   ],
+   [
+    22.578485,
+    -118.214066
+   ]
+  ],
+  "age": "-",
+  "name": "西部絢爛賭場拉斯維加斯",
+  "longName": "西部絢爛賭場拉斯維加斯",
+  "flags": [
+   "isEvent",
+   "noClearMarkWithComplete"
+  ],
+  "eventId": 80291,
+  "eventName": "復刻：拜見！ 拉斯維加斯御前比試\n～泳裝劍豪七色決勝！ 輕量版"
+ },
+ {
+  "id": 9088,
+  "coordinates": [
+   [
+    11.21,
+    142.12
+   ],
+   [
+    -3.939612,
+    134.533
+   ]
+  ],
+  "age": "AD:2030",
+  "name": "亞種特異點",
+  "longName": "深海電腦樂土 SE.RA.PH",
+  "flags": [
+   "withMap",
+   "isEvent",
+   "noClearMarkWithClear",
+   "shop"
+  ],
+  "eventId": 80292,
+  "eventName": "主線分支\n深海電腦樂土 SE.RA.PH"
+ },
+ {
+  "id": 9091,
+  "coordinates": [
+   [],
+   []
+  ],
+  "age": "-",
+  "name": "納涼夢幻冥峯　天堂之湖",
+  "longName": "納涼夢幻冥峯　天堂之湖",
+  "flags": [
+   "isEvent",
+   "noClearMarkWithComplete",
+   "dispFirstQuest"
+  ],
+  "eventId": 80294,
+  "eventName": "從者．夏令營！ \n～迦勒底．驚悚之夜～"
+ },
+ {
+  "id": 9097,
+  "coordinates": [
+   [],
+   []
+  ],
+  "age": "-",
+  "name": "Riyo活動",
+  "longName": "Riyo活動",
+  "flags": [
+   "isEvent",
+   "isWarIconLeft",
+   "noClearMarkWithComplete"
+  ],
+  "eventId": 80299,
+  "eventName": "復刻：All The States’Men! ～看漫畫搞懂合眾國開拓史～"
+ },
+ {
+  "id": 9098,
+  "coordinates": [
+   [],
+   []
+  ],
+  "age": "-",
+  "name": "Riyo活動",
+  "longName": "Riyo活動",
+  "flags": [
+   "isEvent",
+   "closeAfterClear",
+   "shop"
+  ],
+  "eventId": 80300,
+  "eventName": "All The States’Men! ～看漫畫搞懂合眾國開拓史～ 稀有魔力稜鏡商店兌換"
+ },
+ {
+  "id": 9099,
+  "coordinates": [
+   [],
+   []
+  ],
+  "age": "-",
+  "name": "古代埴輪時空 邪馬臺國",
+  "longName": "古代埴輪時空 邪馬臺國",
+  "flags": [
+   "isEvent",
+   "noClearMarkWithComplete"
+  ],
+  "eventId": 80289,
+  "eventName": "超古代新選組列傳 嘮嘮叨叨邪馬臺國2022"
+ },
+ {
+  "id": 9101,
+  "coordinates": [
+   [],
+   []
+  ],
+  "age": "-",
+  "name": "凹型虛數怪理 幻想海溝",
+  "longName": "凹型虛數怪理 幻想海溝",
+  "flags": [
+   "isEvent",
+   "noClearMarkWithComplete"
+  ],
+  "eventId": 80305,
+  "eventName": "虛數大海戰 幻想急航\n～上浮吧鸚鵡螺號～"
+ },
+ {
+  "id": 9107,
+  "coordinates": [
+   [],
+   []
+  ],
+  "age": "-",
+  "name": "蒼輝銀河節目 Saber Wars4.8",
+  "longName": "蒼輝銀河節目 Saber Wars4.8",
+  "flags": [
+   "isEvent",
+   "noClearMarkWithComplete"
+  ],
+  "eventId": 80308,
+  "eventName": "復刻：Saber Wars2 ～邁向初始宇宙～ 輕量版"
+ },
+ {
+  "id": 9109,
+  "coordinates": [
+   [],
+   []
+  ],
+  "age": "-",
+  "name": "來吧，向鐮倉道別 ～Little Big Tengu～",
+  "longName": "來吧，向鐮倉道別 ～Little Big Tengu～",
+  "flags": [
+   "isEvent",
+   "noClearMarkWithComplete"
+  ],
+  "eventId": 80309,
+  "eventName": "來吧，向鐮倉道別 ～Little Big Tengu～"
+ },
+ {
+  "id": 9111,
+  "coordinates": [
+   [
+    35.70565730168431,
+    139.75190572813437
+   ],
+   [
+    22.43761,
+    131.544673
+   ]
+  ],
+  "age": "-",
+  "name": "閃耀吧！ 聖杯演唱會！！ ～鶴的偶像報恩～",
+  "longName": "閃耀吧！ 聖杯演唱會！！ ～鶴的偶像報恩～",
+  "flags": [
+   "isEvent",
+   "noClearMarkWithComplete"
+  ],
+  "eventId": 80319,
+  "eventName": "閃耀吧！ 聖杯演唱會！！\n～鶴的偶像報恩～"
+ },
+ {
+  "id": 9112,
+  "coordinates": [
+   [],
+   []
+  ],
+  "age": "-",
+  "name": "迦勒底之門",
+  "longName": "迦勒底之門",
+  "flags": [
+   "isEvent",
+   "noClearMarkWithComplete"
+  ],
+  "eventId": 80324,
+  "eventName": "聖杯戰線 ～我的超級卡美洛2023～"
+ },
+ {
+  "id": 9113,
+  "coordinates": [
+   [],
+   []
+  ],
+  "age": "-",
+  "name": "納涼夢幻冥峯　天堂之湖",
+  "longName": "納涼夢幻冥峯　天堂之湖",
+  "flags": [
+   "isEvent",
+   "noClearMarkWithComplete",
+   "dispFirstQuest"
+  ],
+  "eventId": 80326,
+  "eventName": "復刻：從者．夏令營！ \n～迦勒底．驚悚之夜～ 輕量版"
+ },
+ {
+  "id": 9119,
+  "coordinates": [
+   [],
+   []
+  ],
+  "age": "-",
+  "name": "迦勒底．夏日冒險！",
+  "longName": "迦勒底．夏日冒險！ ～追夢少年與懷夢少女～",
+  "flags": [
+   "isEvent",
+   "noClearMarkWithComplete"
+  ],
+  "eventId": 80331,
+  "eventName": "迦勒底．夏日冒險！ \n～追夢少年與懷夢少女～"
+ },
+ {
+  "id": 9120,
+  "coordinates": [
+   [],
+   []
+  ],
+  "age": "-",
+  "name": "傳說再來魔城恰赫季斯",
+  "longName": "傳說再來魔城恰赫季斯",
+  "flags": [
+   "isEvent",
+   "noClearMarkWithComplete"
+  ],
+  "eventId": 80340,
+  "eventName": "恰赫季斯．萬聖節．三部曲\n終極豪華總集篇！"
+ },
+ {
+  "id": 9124,
+  "coordinates": [
+   [],
+   []
+  ],
+  "age": "-",
+  "name": "古代埴輪時空 邪馬臺國",
+  "longName": "古代埴輪時空 邪馬臺國",
+  "flags": [
+   "isEvent",
+   "noClearMarkWithComplete"
+  ],
+  "eventId": 80341,
+  "eventName": "復刻：超古代新選組列傳\n嘮嘮叨叨邪馬臺國2022 輕量版"
+ },
+ {
+  "id": 9125,
+  "coordinates": [
+   [
+    34.5669979732281,
+    38.28973245393038
+   ],
+   [
+    21.03776,
+    34.844455
+   ]
+  ],
+  "age": "-",
+  "name": "沙漠童話儀式恰赫季斯．灰姑娘",
+  "longName": "沙漠童話儀式恰赫季斯．灰姑娘",
+  "flags": [
+   "isEvent",
+   "noClearMarkWithComplete"
+  ],
+  "eventId": 80343,
+  "eventName": "萬聖節．復活歸來！\n～砂塵的女王與暗黑的使徒～"
+ },
+ {
+  "id": 9127,
+  "coordinates": [
+   [],
+   [
+    22.616784,
+    131.62118
+   ]
+  ],
+  "age": "-",
+  "name": "奇械維新都市SAITAMA",
+  "longName": "奇械維新都市SAITAMA",
+  "flags": [
+   "isEvent",
+   "noClearMarkWithComplete"
+  ],
+  "eventId": 80346,
+  "eventName": "昭和奇神計劃 嘮嘮叨叨龍馬千鈞一髮！\n消失的信首之謎"
+ },
+ {
+  "id": 9128,
+  "coordinates": [
+   [
+    60.916667,
+    101.95
+   ],
+   [
+    56.311352,
+    97.302839
+   ]
+  ],
+  "age": "-",
+  "name": "非靈長生存圈 通古斯．聖域",
+  "longName": "非靈長生存圈 通古斯．聖域",
+  "flags": [
+   "withMap",
+   "isEvent",
+   "noClearMarkWithComplete",
+   "dispFirstQuest"
+  ],
+  "eventId": 80349,
+  "eventName": "非靈長生存圈 通古斯．聖域"
+ },
+ {
+  "id": 9130,
+  "coordinates": [
+   [],
+   [
+    43.928723,
+    0.041748
+   ]
+  ],
+  "age": "-",
+  "name": "幻想蒐集領域拼綴倫敦",
+  "longName": "幻想蒐集領域拼綴倫敦",
+  "flags": [
+   "withMap",
+   "isEvent",
+   "noClearMarkWithComplete"
+  ],
+  "eventId": 80352,
+  "eventName": "復刻版：淑女．萊涅絲事件簿 -Plus Episode-"
+ },
+ {
+  "id": 9131,
+  "coordinates": [
+   [],
+   []
+  ],
+  "age": "-",
+  "name": "所在不明水域龜島",
+  "longName": "所在不明水域龜島",
+  "flags": [
+   "isEvent",
+   "noClearMarkWithComplete"
+  ],
+  "eventId": 80364,
+  "eventName": "水怪危機 純潔之人的浮島"
+ },
+ {
+  "id": 9133,
+  "coordinates": [
+   [
+    29.275184,
+    -89.353056
+   ],
+   [
+    14.054547,
+    -98.134809
+   ]
+  ],
+  "age": "-",
+  "name": "系列冒險劇神話 密西西比．神話編撰者們",
+  "longName": "系列冒險劇神話 密西西比．神話編撰者們",
+  "flags": [
+   "isEvent",
+   "noClearMarkWithComplete"
+  ],
+  "eventId": 80367,
+  "eventName": "系列冒險劇神話 密西西比．神話編撰者們"
+ },
+ {
+  "id": 9134,
+  "coordinates": [
+   [],
+   []
+  ],
+  "age": "-",
+  "name": "迦勒底之門",
+  "longName": "迦勒底之門",
+  "flags": [
+   "isEvent",
+   "noClearMarkWithComplete"
+  ],
+  "eventId": 80373,
+  "eventName": "聖杯戰線～月面宙返作戰～"
+ },
+ {
+  "id": 9135,
+  "coordinates": [
+   [
+    60.916667,
+    101.95
+   ],
+   [
+    56.311352,
+    97.302839
+   ]
+  ],
+  "age": "-",
+  "name": "非靈長生存圈 通古斯．聖域",
+  "longName": "非靈長生存圈 通古斯．聖域",
+  "flags": [
+   "withMap",
+   "isEvent",
+   "noClearMarkWithClear",
+   "shop",
+   "dispFirstQuest"
+  ],
+  "eventId": 80372,
+  "eventName": "主線分支\n非靈長生存圈 通古斯．聖域"
+ },
+ {
+  "id": 9136,
+  "coordinates": [
+   [],
+   [
+    22.296181,
+    131.770733
+   ]
+  ],
+  "age": "-",
+  "name": "德川迴天迷宮　大奧",
+  "longName": "德川迴天迷宮　大奧",
+  "flags": [
+   "isEvent",
+   "noClearMarkWithClear",
+   "shop"
+  ],
+  "eventId": 80379,
+  "eventName": "主線分支\n德川迴天迷宮 大奧"
+ },
+ {
+  "id": 9143,
+  "coordinates": [
+   [
+    83.695,
+    18.62
+   ],
+   [
+    73.717246,
+    17.062782
+   ]
+  ],
+  "age": "-",
+  "name": "北極魔園觀光北極．夏日世界",
+  "longName": "北極魔園觀光北極．夏日世界",
+  "flags": [
+   "isEvent",
+   "noClearMarkWithComplete"
+  ],
+  "eventId": 80384,
+  "eventName": "北極．夏日世界！\n～迦勒底盛夏魔園觀光～"
+ },
+ {
+  "id": 9144,
+  "coordinates": [
+   [],
+   []
+  ],
+  "age": "-",
+  "name": "幻邪馬臺時空界",
+  "longName": "幻邪馬臺時空界",
+  "flags": [
+   "isEvent",
+   "noClearMarkWithComplete"
+  ],
+  "eventId": 80391,
+  "eventName": "差距懸殊的茶道之戰\n嘮嘮叨叨新邪馬臺國 從地獄歸來的男人"
+ },
+ {
+  "id": 9145,
+  "coordinates": [
+   [],
+   []
+  ],
+  "age": "-",
+  "name": "凹型虛數怪理 幻想海溝",
+  "longName": "凹型虛數怪理 幻想海溝",
+  "flags": [
+   "isEvent",
+   "noClearMarkWithClear",
+   "shop"
+  ],
+  "eventId": 80393,
+  "eventName": "主線分支 虛數大海戰"
+ },
+ {
+  "id": 9151,
+  "coordinates": [
+   [],
+   []
+  ],
+  "age": "-",
+  "name": "螺旋證明世界 Lilim Harlot",
+  "longName": "螺旋證明世界 Lilim Harlot",
+  "flags": [
+   "isEvent",
+   "noClearMarkWithComplete"
+  ],
+  "eventId": 80424,
+  "eventName": "螺旋證明世界 Lilim Harlot\n～無人喝彩的薔薇～"
+ },
+ {
+  "id": 9152,
+  "coordinates": [
+   [],
+   []
+  ],
+  "age": "-",
+  "name": "聖杯戰線",
+  "longName": "聖杯戰線 ～白晝之城、黑夜之城～",
+  "flags": [
+   "isEvent",
+   "noClearMarkWithComplete",
+   "dispFirstQuest"
+  ],
+  "eventId": 80439,
+  "eventName": "聖杯戰線 ～白晝之城、黑夜之城～"
+ },
+ {
+  "id": 9160,
+  "coordinates": [
+   [
+    21.318611,
+    -157.922222
+   ],
+   [
+    6.4474,
+    -169.996775
+   ]
+  ],
+  "age": "-",
+  "name": "永久常夏祭壇　魯魯夏威　ver.2.0",
+  "longName": "永久常夏祭壇　魯魯夏威　ver.2.0",
+  "flags": [
+   "isEvent",
+   "noClearMarkWithComplete"
+  ],
+  "eventId": 80442,
+  "eventName": "從者・夏日・慶典2025！"
+ },
+ {
+  "id": 9163,
+  "coordinates": [
+   [
+    35.05169303629093,
+    136.97260818588242
+   ],
+   [
+    21.200917,
+    129.429131
+   ]
+  ],
+  "age": "-",
+  "name": "戰國失控高速．魔甲斐",
+  "longName": "戰國失控高速．魔甲斐",
+  "flags": [
+   "isEvent",
+   "noClearMarkWithComplete"
+  ],
+  "eventId": 80451,
+  "eventName": "疾馳！川中島24小時 嘮嘮叨叨超五稜郭\n殺人信號是M51"
+ },
+ {
+  "id": 9164,
+  "coordinates": [
+   [
+    35.687032,
+    139.755605
+   ],
+   [
+    22.422076,
+    131.843376
+   ]
+  ],
+  "age": "慶安四年",
+  "name": "夢幻泡影盈月",
+  "longName": "夢幻泡影盈月",
+  "flags": [
+   "isEvent",
+   "noClearMarkWithComplete"
+  ],
+  "eventId": 80457,
+  "eventName": "盈月劍風帖"
+ },
+ {
+  "id": 9166,
+  "coordinates": [
+   [
+    36.575833,
+    137.619722
+   ],
+   [
+    23.184154,
+    130.474022
+   ]
+  ],
+  "age": "-",
+  "name": "五月連休溫泉　隈乃",
+  "longName": "五月連休溫泉　隈乃",
+  "flags": [
+   "isEvent",
+   "noClearMarkWithComplete",
+   "changeDispClosedMessage"
+  ],
+  "eventId": 80472,
+  "eventName": "魔法使之夜 After Night／隈乃溫泉殺人事件\n～知更鳥目擊！ 魔法使兩度死亡～"
+ },
+ {
+  "id": 9168,
+  "coordinates": [
+   [],
+   []
+  ],
+  "age": "-",
+  "name": "迦勒底．夏日冒險！ ～追夢少年與懷夢少女～ 復刻版",
+  "longName": "迦勒底．夏日冒險！ ～追夢少年與懷夢少女～ 復刻版",
+  "flags": [
+   "isEvent",
+   "noClearMarkWithComplete",
+   "changeDispClosedMessage"
+  ],
+  "eventId": 80474,
+  "eventName": "迦勒底．夏日冒險！\n～追夢少年與懷夢少女～ 復刻版"
+ },
+ {
+  "id": 9169,
+  "coordinates": [
+   [],
+   []
+  ],
+  "age": "-",
+  "name": "螺旋證明世界 Lilim Harlot",
+  "longName": "螺旋證明世界 Lilim Harlot",
+  "flags": [
+   "isEvent",
+   "noClearMarkWithComplete",
+   "changeDispClosedMessage"
+  ],
+  "eventId": 80476,
+  "eventName": "螺旋證明世界 Lilim Harlot\n～無人喝彩的薔薇～ 復刻版"
+ },
+ {
+  "id": 9170,
+  "coordinates": [
+   [
+    32.743807,
+    129.872859
+   ],
+   [
+    18.545803,
+    122.953594
+   ]
+  ],
+  "age": "-",
+  "name": "超絕鎖國御領 長崎",
+  "longName": "超絕鎖國御領 長崎",
+  "flags": [
+   "isEvent",
+   "noClearMarkWithComplete",
+   "dispFirstQuest"
+  ],
+  "eventId": 80480,
+  "eventName": "舞動龍宮！ \n～深海的公主與兩個寶玉～"
+ },
+ {
+  "id": 9171,
+  "coordinates": [
+   [],
+   []
+  ],
+  "age": "-",
+  "name": "幸福累計都市 杜拜",
+  "longName": "幸福累計都市 杜拜",
+  "flags": [
+   "isEvent",
+   "noClearMarkWithComplete",
+   "dispFirstQuest"
+  ],
+  "eventId": 80485,
+  "eventName": "ＢＢ主辦☆名流夏日體驗！\n～逆襲的杜拜～"
+ },
+ {
+  "id": 9172,
+  "coordinates": [
+   [],
+   []
+  ],
+  "age": "-",
+  "name": "雙六盤蟲空間 妖精環之屋",
+  "longName": "雙六盤蟲空間 妖精環之屋",
+  "flags": [
+   "isEvent",
+   "noClearMarkWithComplete",
+   "dispFirstQuest"
+  ],
+  "eventId": 80490,
+  "eventName": "妖精雙六蟲籠遊戲 \n致尚未謀面完美的你"
+ },
+ {
+  "id": 9173,
+  "coordinates": [
+   [],
+   []
+  ],
+  "age": "-",
+  "name": "Road To 7",
+  "longName": "Road To 7",
+  "flags": [
+   "isEvent",
+   "noClearMarkWithComplete",
+   "changeDispClosedMessage"
+  ],
+  "eventId": 80492,
+  "eventName": "追憶任務"
+ },
+ {
+  "id": 9174,
+  "coordinates": [
+   [],
+   []
+  ],
+  "age": "-",
+  "name": "-",
+  "longName": "-",
+  "flags": [
+   "isEvent",
+   "noClearMarkWithComplete",
+   "changeDispClosedMessage"
+  ],
+  "eventId": 80493,
+  "eventName": "追憶任務"
+ },
+ {
+  "id": 9175,
+  "coordinates": [
+   [
+    37.318333,
+    -121.950833
+   ],
+   [
+    24.631038,
+    -126.046219
+   ]
+  ],
+  "age": "-",
+  "name": "極大靈障建築A.C.L.",
+  "longName": "極大靈障建築A.C.L.",
+  "flags": [
+   "isEvent",
+   "noClearMarkWithComplete",
+   "dispFirstQuest"
+  ],
+  "eventId": 80494,
+  "eventName": "通通砸碎！ 神秘屋的工匠們\n～星之礦工與日出之翼～"
+ },
+ {
+  "id": 9182,
+  "coordinates": [
+   [],
+   []
+  ],
+  "age": "-",
+  "name": "-",
+  "longName": "-",
+  "flags": [
+   "isEvent",
+   "noClearMarkWithComplete",
+   "changeDispClosedMessage"
+  ],
+  "eventId": 80502,
+  "eventName": "追憶任務"
+ },
+ {
+  "id": 9184,
+  "coordinates": [
+   [],
+   []
+  ],
+  "age": "-",
+  "name": "-",
+  "longName": "-",
+  "flags": [
+   "isEvent",
+   "noClearMarkWithComplete",
+   "changeDispClosedMessage"
+  ],
+  "eventId": 80509,
+  "eventName": "追憶任務"
+ },
+ {
+  "id": 9185,
+  "coordinates": [
+   [],
+   []
+  ],
+  "age": "-",
+  "name": "龍蛇爬行大地巨陸龍",
+  "longName": "龍蛇爬行大地巨陸龍",
+  "flags": [
+   "isEvent",
+   "noClearMarkWithComplete",
+   "dispFirstQuest"
+  ],
+  "eventId": 80511,
+  "eventName": "培育吧！ 我的小小龍 ～披鱗者們所見之幻想～"
+ },
+ {
+  "id": 9188,
+  "coordinates": [
+   [],
+   []
+  ],
+  "age": "-",
+  "name": "",
+  "longName": "",
+  "flags": [
+   "isEvent",
+   "noClearMarkWithComplete",
+   "changeDispClosedMessage"
+  ],
+  "eventId": 80515,
+  "eventName": "追憶任務"
+ },
+ {
+  "id": 9189,
+  "coordinates": [
+   [],
+   []
+  ],
+  "age": "-",
+  "name": "幸福累計都市 杜拜",
+  "longName": "幸福累計都市 杜拜",
+  "flags": [
+   "isEvent",
+   "noClearMarkWithComplete",
+   "shop",
+   "dispFirstQuest"
+  ],
+  "eventId": 80518,
+  "eventName": "主線分支\nＢＢ主辦☆名流夏日體驗！"
+ },
+ {
+  "id": 9190,
+  "coordinates": [
+   [],
+   []
+  ],
+  "age": "",
+  "name": "",
+  "longName": "",
+  "flags": [
+   "isEvent",
+   "noClearMarkWithComplete",
+   "changeDispClosedMessage"
+  ],
+  "eventId": 80523,
+  "eventName": "追憶任務"
+ },
+ {
+  "id": 9191,
+  "coordinates": [
+   [],
+   []
+  ],
+  "age": "-",
+  "name": "-",
+  "longName": "-",
+  "flags": [
+   "isEvent",
+   "noClearMarkWithComplete",
+   "changeDispClosedMessage"
+  ],
+  "eventId": 80530,
+  "eventName": ""
+ },
+ {
+  "id": 9192,
+  "coordinates": [
+   [
+    35.893802427307726,
+    139.63373983638553
+   ],
+   [
+    22.616784,
+    131.62118
+   ]
+  ],
+  "age": "-",
+  "name": "奇械維新都市SAITAMA",
+  "longName": "奇械維新都市SAITAMA",
+  "flags": [
+   "isEvent",
+   "noClearMarkWithComplete",
+   "changeDispClosedMessage"
+  ],
+  "eventId": 80534,
+  "eventName": ""
+ },
+ {
+  "id": 9999,
+  "coordinates": [
+   [],
+   []
+  ],
+  "age": "-",
+  "name": "迦勒底之門",
+  "longName": "迦勒底之門",
+  "flags": [],
+  "eventId": 0,
+  "eventName": ""
+ },
+ {
+  "id": 11000,
+  "coordinates": [
+   [],
+   []
+  ],
+  "age": "-",
+  "name": "主要記錄 1",
+  "longName": "1／Observer on Timeless Temple",
+  "flags": [
+   "mainScenario"
+  ],
+  "eventId": 0,
+  "eventName": ""
+ },
+ {
+  "id": 12000,
+  "coordinates": [
+   [],
+   []
+  ],
+  "age": "-",
+  "name": "主要記錄 1.5",
+  "longName": "1.5／Epic of Remnant",
+  "flags": [
+   "mainScenario"
+  ],
+  "eventId": 0,
+  "eventName": ""
+ },
+ {
+  "id": 13000,
+  "coordinates": [
+   [],
+   []
+  ],
+  "age": "-",
+  "name": "-",
+  "longName": "2／Cosmos in the Lostbelt",
+  "flags": [
+   "mainScenario"
+  ],
+  "eventId": 0,
+  "eventName": ""
+ },
+ {
+  "id": 14000,
+  "coordinates": [
+   [],
+   []
+  ],
+  "age": "-",
+  "name": "-",
+  "longName": "奏章／Ordeal Call",
+  "flags": [
+   "mainScenario"
+  ],
+  "eventId": 0,
+  "eventName": ""
+ },
+ {
+  "id": 40201,
+  "coordinates": [
+   [],
+   []
+  ],
+  "age": "-",
+  "name": "奏章Ⅰ",
+  "longName": "奏章Ⅰ 虛數羅針內界 平面之月",
+  "flags": [
+   "mainScenario",
+   "dispFirstQuest",
+   "areaBoardShortcut"
+  ],
+  "eventId": 0,
+  "eventName": ""
+ },
+ {
+  "id": 40301,
+  "coordinates": [
+   [],
+   []
+  ],
+  "age": "-",
+  "name": "奏章Ⅱ",
+  "longName": "奏章Ⅱ 不可逆廢棄孔 本我",
+  "flags": [
+   "mainScenario",
+   "isWarIconLeft",
+   "dispFirstQuest",
+   "chapterSubIdJapaneseNumeralsNormal",
+   "areaBoardShortcut"
+  ],
+  "eventId": 0,
+  "eventName": ""
+ },
+ {
+  "id": 40401,
+  "coordinates": [
+   [],
+   []
+  ],
+  "age": "-",
+  "name": "奏章Ⅲ",
+  "longName": "奏章Ⅲ 新靈長後繼戰 原型肇始",
+  "flags": [
+   "mainScenario",
+   "dispFirstQuest",
+   "areaBoardShortcut"
+  ],
+  "eventId": 0,
+  "eventName": ""
+ }
+]

@@ -1,0 +1,4425 @@
+[
+ {
+  "id": 100,
+  "coordinates": [
+   [
+    33.01146,
+    130.6486
+   ],
+   []
+  ],
+  "age": "AD:2004",
+  "name": "特異点F",
+  "longName": "特異点F\n炎上汚染都市 冬木",
+  "flags": [
+   "withMap",
+   "mainScenario"
+  ],
+  "eventId": 0,
+  "eventName": ""
+ },
+ {
+  "id": 101,
+  "coordinates": [
+   [
+    48.84346,
+    4.608959
+   ],
+   []
+  ],
+  "age": "AD:1431",
+  "name": "第一特異点",
+  "longName": "第一特異点\n邪竜百年戦争 オルレアン",
+  "flags": [
+   "withMap",
+   "mainScenario",
+   "isWarIconLeft"
+  ],
+  "eventId": 0,
+  "eventName": ""
+ },
+ {
+  "id": 102,
+  "coordinates": [
+   [
+    40.11704,
+    16.66373
+   ],
+   []
+  ],
+  "age": "AD:60",
+  "name": "第二特異点",
+  "longName": "第二特異点\n永続狂気帝国 セプテム",
+  "flags": [
+   "withMap",
+   "mainScenario"
+  ],
+  "eventId": 0,
+  "eventName": ""
+ },
+ {
+  "id": 103,
+  "coordinates": [
+   [
+    25.26317,
+    -37.37087
+   ],
+   []
+  ],
+  "age": "AD:1573",
+  "name": "第三特異点",
+  "longName": "第三特異点\n封鎖終局四海 オケアノス",
+  "flags": [
+   "withMap",
+   "mainScenario",
+   "isWarIconLeft"
+  ],
+  "eventId": 0,
+  "eventName": ""
+ },
+ {
+  "id": 104,
+  "coordinates": [
+   [
+    52.09404,
+    -1.09384
+   ],
+   []
+  ],
+  "age": "AD:1888",
+  "name": "第四特異点",
+  "longName": "第四特異点\n死界魔霧都市 ロンドン",
+  "flags": [
+   "withMap",
+   "mainScenario"
+  ],
+  "eventId": 0,
+  "eventName": ""
+ },
+ {
+  "id": 105,
+  "coordinates": [
+   [
+    45.25218,
+    -106.868
+   ],
+   []
+  ],
+  "age": "AD:1783",
+  "name": "第五特異点",
+  "longName": "第五特異点\n北米神話大戦 イ・プルーリバス・ウナム",
+  "flags": [
+   "withMap",
+   "mainScenario",
+   "isWarIconLeft"
+  ],
+  "eventId": 0,
+  "eventName": ""
+ },
+ {
+  "id": 106,
+  "coordinates": [
+   [
+    27.8192,
+    29.26513
+   ],
+   []
+  ],
+  "age": "AD:1273",
+  "name": "第六特異点",
+  "longName": "第六特異点\n神聖円卓領域 キャメロット",
+  "flags": [
+   "withMap",
+   "mainScenario"
+  ],
+  "eventId": 0,
+  "eventName": ""
+ },
+ {
+  "id": 107,
+  "coordinates": [
+   [
+    30.899124,
+    48.262493
+   ],
+   []
+  ],
+  "age": "BC:2655",
+  "name": "第七特異点",
+  "longName": "第七特異点\n絶対魔獣戦線 バビロニア",
+  "flags": [
+   "withMap",
+   "mainScenario",
+   "isWarIconLeft"
+  ],
+  "eventId": 0,
+  "eventName": ""
+ },
+ {
+  "id": 108,
+  "coordinates": [],
+  "age": "AD:2016",
+  "name": "終局特異点",
+  "longName": "終局特異点\n冠位時間神殿 ソロモン",
+  "flags": [
+   "withMap",
+   "closeAfterClear",
+   "mainScenario",
+   "clearedReturnToTitle"
+  ],
+  "eventId": 80038,
+  "eventName": "終局特異点 冠位時間神殿 ソロモン"
+ },
+ {
+  "id": 201,
+  "coordinates": [
+   [
+    35.9748,
+    138.94534
+   ],
+   []
+  ],
+  "age": "AD:1999",
+  "name": "亜種特異点Ⅰ",
+  "longName": "亜種特異点Ⅰ\n悪性隔絶魔境 新宿",
+  "flags": [
+   "withMap",
+   "mainScenario",
+   "isWarIconLeft",
+   "isWarIconFree"
+  ],
+  "eventId": 0,
+  "eventName": ""
+ },
+ {
+  "id": 202,
+  "coordinates": [
+   [
+    29.408262,
+    83.88618
+   ],
+   []
+  ],
+  "age": "AD:2000",
+  "name": "亜種特異点Ⅱ",
+  "longName": "亜種特異点Ⅱ\n伝承地底世界 アガルタ",
+  "flags": [
+   "withMap",
+   "mainScenario",
+   "isWarIconFree"
+  ],
+  "eventId": 0,
+  "eventName": ""
+ },
+ {
+  "id": 203,
+  "coordinates": [
+   [
+    35.530136,
+    140.28941
+   ],
+   []
+  ],
+  "age": "寛永十六年",
+  "name": "亜種並行世界",
+  "longName": "亜種並行世界\n屍山血河舞台 下総国",
+  "flags": [
+   "withMap",
+   "mainScenario",
+   "isWarIconLeft",
+   "isWarIconFree"
+  ],
+  "eventId": 0,
+  "eventName": ""
+ },
+ {
+  "id": 204,
+  "coordinates": [
+   [
+    42.516846,
+    -70.898506
+   ],
+   []
+  ],
+  "age": "AD:1692",
+  "name": "亜種特異点Ⅳ",
+  "longName": "亜種特異点Ⅳ\n禁忌降臨庭園 セイレム",
+  "flags": [
+   "withMap",
+   "mainScenario",
+   "isWarIconFree"
+  ],
+  "eventId": 0,
+  "eventName": ""
+ },
+ {
+  "id": 300,
+  "coordinates": [
+   [],
+   []
+  ],
+  "age": "-",
+  "name": "序／2017年 12月26日",
+  "longName": "序／2017年 12月26日",
+  "flags": [
+   "closeAfterClear",
+   "mainScenario",
+   "isWarIconLeft",
+   "clearedReturnToTitle"
+  ],
+  "eventId": 0,
+  "eventName": ""
+ },
+ {
+  "id": 301,
+  "coordinates": [
+   [],
+   [
+    48.480663,
+    28.828125
+   ]
+  ],
+  "age": "A.D.1570?",
+  "name": "Lostbelt No.1",
+  "longName": "Lostbelt No.1\n永久凍土帝国 アナスタシア",
+  "flags": [
+   "mainScenario"
+  ],
+  "eventId": 0,
+  "eventName": ""
+ },
+ {
+  "id": 302,
+  "coordinates": [
+   [],
+   [
+    53.96007,
+    15.012345
+   ]
+  ],
+  "age": "B.C.1000?",
+  "name": "Lostbelt No.2",
+  "longName": "Lostbelt No.2\n無間氷焔世紀 ゲッテルデメルング",
+  "flags": [
+   "mainScenario",
+   "isWarIconLeft"
+  ],
+  "eventId": 0,
+  "eventName": ""
+ },
+ {
+  "id": 303,
+  "coordinates": [
+   [],
+   [
+    18.01439,
+    105.54105
+   ]
+  ],
+  "age": "B.C.0210?",
+  "name": "Lostbelt No.3",
+  "longName": "Lostbelt No.3\n人智統合真国 シン",
+  "flags": [
+   "mainScenario"
+  ],
+  "eventId": 0,
+  "eventName": ""
+ },
+ {
+  "id": 304,
+  "coordinates": [
+   [],
+   [
+    14.598444,
+    70.834526
+   ]
+  ],
+  "age": "??.11900",
+  "name": "Lostbelt No.4",
+  "longName": "Lostbelt No.4\n創世滅亡輪廻 ユガ・クシェートラ",
+  "flags": [
+   "mainScenario",
+   "isWarIconLeft"
+  ],
+  "eventId": 0,
+  "eventName": ""
+ },
+ {
+  "id": 305,
+  "coordinates": [
+   [],
+   [
+    29.939405,
+    -40.61676
+   ]
+  ],
+  "age": "B.C.12000?",
+  "name": "Lostbelt No.5",
+  "longName": "Lostbelt No.5\n神代巨神海洋 アトランティス",
+  "flags": [
+   "mainScenario"
+  ],
+  "eventId": 0,
+  "eventName": ""
+ },
+ {
+  "id": 306,
+  "coordinates": [
+   [],
+   [
+    29.939405,
+    -40.61676
+   ]
+  ],
+  "age": "B.C.12000?",
+  "name": "Lostbelt No.5",
+  "longName": "Lostbelt No.5\n星間都市山脈 オリュンポス",
+  "flags": [
+   "withMap",
+   "mainScenario",
+   "isWarIconLeft",
+   "blackMarkWithClear",
+   "dispFirstQuest"
+  ],
+  "eventId": 0,
+  "eventName": ""
+ },
+ {
+  "id": 307,
+  "coordinates": [
+   [
+    34.987,
+    135.72646
+   ],
+   [
+    21.430878,
+    128.23497
+   ]
+  ],
+  "age": "A.D.1008",
+  "name": "-",
+  "longName": "地獄界曼荼羅 平安京",
+  "flags": [
+   "mainScenario",
+   "effectDisappearBanner",
+   "isWarIconFree",
+   "isWarIconCenter"
+  ],
+  "eventId": 0,
+  "eventName": ""
+ },
+ {
+  "id": 308,
+  "coordinates": [
+   [
+    50.659794,
+    -5.342747
+   ],
+   [
+    42.7986,
+    -4.469402
+   ]
+  ],
+  "age": "■.■.2017",
+  "name": "Lostbelt No.6",
+  "longName": "Lostbelt No.6\n妖精円卓領域 アヴァロン・ル・フェ",
+  "flags": [
+   "withMap",
+   "mainScenario",
+   "dispFirstQuest"
+  ],
+  "eventId": 0,
+  "eventName": ""
+ },
+ {
+  "id": 309,
+  "coordinates": [
+   [],
+   []
+  ],
+  "age": "-",
+  "name": "非霊長生存圏",
+  "longName": "非霊長生存圏 ツングースカ・サンクチュアリ",
+  "flags": [
+   "closeAfterClear",
+   "mainScenario",
+   "isWarIconLeft",
+   "clearedReturnToTitle"
+  ],
+  "eventId": 0,
+  "eventName": ""
+ },
+ {
+  "id": 310,
+  "coordinates": [
+   [
+    63.61948,
+    -115.812
+   ],
+   [
+    60.421837,
+    -120.15799
+   ]
+  ],
+  "age": "A.D.XX17",
+  "name": "-",
+  "longName": "死想顕現界域 トラオム",
+  "flags": [
+   "mainScenario",
+   "dispFirstQuest",
+   "effectDisappearBanner",
+   "isWarIconFree",
+   "isWarIconCenter"
+  ],
+  "eventId": 0,
+  "eventName": ""
+ },
+ {
+  "id": 311,
+  "coordinates": [
+   [
+    -3.4653056,
+    -62.21588
+   ],
+   [
+    -17.26166,
+    -76.369026
+   ]
+  ],
+  "age": "-",
+  "name": "Lostbelt No.7",
+  "longName": "Lostbelt No.7\n黄金樹海紀行 ナウイ・ミクトラン",
+  "flags": [
+   "mainScenario",
+   "isWarIconLeft",
+   "dispFirstQuest"
+  ],
+  "eventId": 80421,
+  "eventName": "Lostbelt No.7"
+ },
+ {
+  "id": 400,
+  "coordinates": [
+   [],
+   []
+  ],
+  "age": "-",
+  "name": "奏章プロローグ",
+  "longName": "奏章プロローグ",
+  "flags": [
+   "mainScenario",
+   "isWarIconLeft",
+   "dispFirstQuest"
+  ],
+  "eventId": 0,
+  "eventName": ""
+ },
+ {
+  "id": 401,
+  "coordinates": [
+   [],
+   []
+  ],
+  "age": "-",
+  "name": "-",
+  "longName": "オーディール・コール",
+  "flags": [
+   "folderSortPrior",
+   "mainScenario",
+   "noClearMarkWithClear",
+   "noClearMarkWithComplete",
+   "dispFirstQuest"
+  ],
+  "eventId": 0,
+  "eventName": ""
+ },
+ {
+  "id": 402,
+  "coordinates": [
+   [],
+   []
+  ],
+  "age": "-",
+  "name": "奏章Ⅰ",
+  "longName": "奏章Ⅰ 虚数羅針内界 ペーパームーン",
+  "flags": [
+   "withMap",
+   "mainScenario",
+   "dispFirstQuest"
+  ],
+  "eventId": 0,
+  "eventName": ""
+ },
+ {
+  "id": 403,
+  "coordinates": [
+   [],
+   []
+  ],
+  "age": "-",
+  "name": "奏章Ⅱ",
+  "longName": "奏章Ⅱ 不可逆廃棄孔 イド",
+  "flags": [
+   "mainScenario",
+   "isWarIconLeft",
+   "dispFirstQuest",
+   "chapterSubIdJapaneseNumeralsNormal"
+  ],
+  "eventId": 0,
+  "eventName": ""
+ },
+ {
+  "id": 404,
+  "coordinates": [
+   [],
+   []
+  ],
+  "age": "-",
+  "name": "奏章Ⅲ",
+  "longName": "奏章Ⅲ 新霊長後継戦 アーキタイプ・インセプション",
+  "flags": [
+   "mainScenario",
+   "dispFirstQuest"
+  ],
+  "eventId": 0,
+  "eventName": ""
+ },
+ {
+  "id": 405,
+  "coordinates": [
+   [],
+   []
+  ],
+  "age": "-",
+  "name": "奏章Ⅳ",
+  "longName": "奏章Ⅳ 人類裁決法廷 トリニティ・メタトロニオス",
+  "flags": [
+   "mainScenario",
+   "isWarIconLeft",
+   "dispFirstQuest",
+   "changeDispClosedMessage"
+  ],
+  "eventId": 0,
+  "eventName": ""
+ },
+ {
+  "id": 406,
+  "coordinates": [
+   [],
+   []
+  ],
+  "age": "-",
+  "name": "終章_序",
+  "longName": "終章_序",
+  "flags": [
+   "mainScenario",
+   "isWarIconLeft",
+   "dispFirstQuest",
+   "changeDispClosedMessage"
+  ],
+  "eventId": 0,
+  "eventName": ""
+ },
+ {
+  "id": 407,
+  "coordinates": [
+   [],
+   []
+  ],
+  "age": "-",
+  "name": "終章",
+  "longName": "終章",
+  "flags": [
+   "mainScenario",
+   "isWarIconLeft",
+   "dispFirstQuest",
+   "changeDispClosedMessage"
+  ],
+  "eventId": 80593,
+  "eventName": "終章"
+ },
+ {
+  "id": 500,
+  "coordinates": [
+   [],
+   []
+  ],
+  "age": "-",
+  "name": "アフタータイムのはじまり",
+  "longName": "アフタータイムのはじまり",
+  "flags": [
+   "closeAfterClear",
+   "mainScenario",
+   "dispFirstQuest",
+   "changeDispClosedMessage"
+  ],
+  "eventId": 0,
+  "eventName": ""
+ },
+ {
+  "id": 501,
+  "coordinates": [
+   [],
+   []
+  ],
+  "age": "-",
+  "name": "？？？編",
+  "longName": "？？？編 郷愁永巡刻盤 パスト・カルデア",
+  "flags": [
+   "mainScenario",
+   "isWarIconLeft",
+   "clearedReturnToTitle",
+   "dispFirstQuest",
+   "changeDispClosedMessage"
+  ],
+  "eventId": 0,
+  "eventName": ""
+ },
+ {
+  "id": 503,
+  "coordinates": [
+   [],
+   []
+  ],
+  "age": "-",
+  "name": "-",
+  "longName": "-",
+  "flags": [
+   "mainScenario",
+   "noticeBoard",
+   "changeDispClosedMessage"
+  ],
+  "eventId": 0,
+  "eventName": ""
+ },
+ {
+  "id": 1001,
+  "coordinates": [
+   [],
+   []
+  ],
+  "age": "-",
+  "name": "強化クエスト",
+  "longName": "強化クエスト",
+  "flags": [],
+  "eventId": 0,
+  "eventName": ""
+ },
+ {
+  "id": 1002,
+  "coordinates": [
+   [],
+   []
+  ],
+  "age": "-",
+  "name": "曜日クエスト",
+  "longName": "曜日クエスト",
+  "flags": [],
+  "eventId": 0,
+  "eventName": ""
+ },
+ {
+  "id": 1003,
+  "coordinates": [
+   [],
+   []
+  ],
+  "age": "-",
+  "name": "幕間の物語",
+  "longName": "幕間の物語",
+  "flags": [
+   "storyShortcut"
+  ],
+  "eventId": 0,
+  "eventName": ""
+ },
+ {
+  "id": 1004,
+  "coordinates": [
+   [],
+   []
+  ],
+  "age": "-",
+  "name": "メインインタールード",
+  "longName": "メインインタールード",
+  "flags": [],
+  "eventId": 0,
+  "eventName": ""
+ },
+ {
+  "id": 1006,
+  "coordinates": [
+   [],
+   []
+  ],
+  "age": "-",
+  "name": "アドバンスドクエスト",
+  "longName": "アドバンスドクエスト",
+  "flags": [],
+  "eventId": 0,
+  "eventName": ""
+ },
+ {
+  "id": 1007,
+  "coordinates": [
+   [],
+   []
+  ],
+  "age": "-",
+  "name": "アズライールの廟",
+  "longName": "アズライールの廟",
+  "flags": [],
+  "eventId": 0,
+  "eventName": ""
+ },
+ {
+  "id": 8088,
+  "coordinates": [
+   [],
+   []
+  ],
+  "age": "-",
+  "name": "復刻：ほぼ週間 サンタオルタさん ライト版",
+  "longName": "復刻：ほぼ週間 サンタオルタさん ライト版",
+  "flags": [
+   "isEvent"
+  ],
+  "eventId": 80034,
+  "eventName": "復刻：ほぼ週間 サンタオルタさん ライト版"
+ },
+ {
+  "id": 8091,
+  "coordinates": [
+   [],
+   []
+  ],
+  "age": "-",
+  "name": "二代目はオルタちゃん ～2016クリスマス～",
+  "longName": "二代目はオルタちゃん ～2016クリスマス～",
+  "flags": [
+   "isEvent"
+  ],
+  "eventId": 80035,
+  "eventName": "二代目はオルタちゃん ～2016クリスマス～"
+ },
+ {
+  "id": 8096,
+  "coordinates": [
+   [],
+   []
+  ],
+  "age": "-",
+  "name": "復刻：月の女神はお団子の夢を見るか？ ライト版",
+  "longName": "復刻：月の女神はお団子の夢を見るか？ ライト版",
+  "flags": [
+   "isEvent"
+  ],
+  "eventId": 80040,
+  "eventName": "復刻：月の女神はお団子の夢を見るか？\nライト版"
+ },
+ {
+  "id": 8097,
+  "coordinates": [
+   [],
+   []
+  ],
+  "age": "-",
+  "name": "復刻：監獄塔に復讐鬼は哭く",
+  "longName": "復刻：監獄塔に復讐鬼は哭く",
+  "flags": [
+   "isEvent"
+  ],
+  "eventId": 80041,
+  "eventName": "復刻：監獄塔に復讐鬼は哭く"
+ },
+ {
+  "id": 8098,
+  "coordinates": [
+   [],
+   []
+  ],
+  "age": "-",
+  "name": "復刻：チョコレート・レディの空騒ぎ -Valentine 2016- 拡大版",
+  "longName": "復刻：チョコレート・レディの空騒ぎ -Valentine 2016- 拡大版",
+  "flags": [
+   "isEvent"
+  ],
+  "eventId": 80043,
+  "eventName": "復刻：チョコレート・レディの空騒ぎ\n-Valentine 2016-  拡大版"
+ },
+ {
+  "id": 8109,
+  "coordinates": [
+   [],
+   []
+  ],
+  "age": "-",
+  "name": "復刻：ぐだぐだ本能寺",
+  "longName": "復刻：ぐだぐだ本能寺",
+  "flags": [
+   "isEvent"
+  ],
+  "eventId": 80046,
+  "eventName": "復刻:ぐだぐだ本能寺 ライト版"
+ },
+ {
+  "id": 8113,
+  "coordinates": [
+   [],
+   []
+  ],
+  "age": "-",
+  "name": "ぐだぐだ明治維新",
+  "longName": "ぐだぐだ明治維新",
+  "flags": [
+   "isEvent"
+  ],
+  "eventId": 80050,
+  "eventName": "ぐだぐだ明治維新"
+ },
+ {
+  "id": 8123,
+  "coordinates": [
+   [],
+   []
+  ],
+  "age": "-",
+  "name": "復刻羅生門",
+  "longName": "復刻羅生門",
+  "flags": [
+   "isEvent"
+  ],
+  "eventId": 80055,
+  "eventName": "復刻:鬼哭酔夢魔京 羅生門 ショート版"
+ },
+ {
+  "id": 8156,
+  "coordinates": [
+   [],
+   []
+  ],
+  "age": "-",
+  "name": "リヨイベ",
+  "longName": "リヨイベ",
+  "flags": [
+   "isEvent"
+  ],
+  "eventId": 80063,
+  "eventName": "オール・ザ・ステイツメン!\n～マンガで分かる合衆国開拓史～"
+ },
+ {
+  "id": 8161,
+  "coordinates": [
+   [],
+   []
+  ],
+  "age": "",
+  "name": "ネロ祭2017",
+  "longName": "ネロ祭2017",
+  "flags": [
+   "isEvent"
+  ],
+  "eventId": 80067,
+  "eventName": "ネロ祭再び ～2017 Autumn～"
+ },
+ {
+  "id": 8183,
+  "coordinates": [
+   [],
+   []
+  ],
+  "age": "-",
+  "name": "復刻：二代目はオルタちゃん ～2016クリスマス～ ライト版",
+  "longName": "復刻：二代目はオルタちゃん ～2016クリスマス～ ライト版",
+  "flags": [
+   "isEvent"
+  ],
+  "eventId": 80075,
+  "eventName": "復刻：二代目はオルタちゃん \n～2016クリスマス～ ライト版"
+ },
+ {
+  "id": 8188,
+  "coordinates": [
+   [],
+   []
+  ],
+  "age": "-",
+  "name": "クリスマス2017",
+  "longName": "クリスマス2017",
+  "flags": [
+   "isEvent"
+  ],
+  "eventId": 80084,
+  "eventName": "冥界のメリークリスマス"
+ },
+ {
+  "id": 8196,
+  "coordinates": [
+   [],
+   []
+  ],
+  "age": "-",
+  "name": "復刻贋作英霊",
+  "longName": "復刻：ダ・ヴィンチと七人の贋作英霊 ライト版",
+  "flags": [
+   "isEvent"
+  ],
+  "eventId": 80087,
+  "eventName": "復刻:ダ・ヴィンチと七人の贋作英霊\n　ライト版"
+ },
+ {
+  "id": 8200,
+  "coordinates": [
+   [],
+   []
+  ],
+  "age": "-",
+  "name": "鬼楽百重塔",
+  "longName": "節分酒宴絵巻　鬼楽百重塔",
+  "flags": [
+   "isEvent"
+  ],
+  "eventId": 80088,
+  "eventName": "節分酒宴絵巻 鬼楽百重塔"
+ },
+ {
+  "id": 8208,
+  "coordinates": [
+   [],
+   []
+  ],
+  "age": "-",
+  "name": "バレンタイン2018　～繁栄のチョコレートガーデンズ・オブ・バレンタイン～",
+  "longName": "バレンタイン2018　～繁栄のチョコレートガーデンズ・オブ・バレンタイン～",
+  "flags": [
+   "isEvent"
+  ],
+  "eventId": 80089,
+  "eventName": "バレンタイン2018 ～繁栄のチョコレート\nガーデンズ・オブ・バレンタイン～"
+ },
+ {
+  "id": 8225,
+  "coordinates": [
+   [],
+   []
+  ],
+  "age": "-",
+  "name": "復刻:セイバーウォーズ",
+  "longName": "復刻:セイバーウォーズ",
+  "flags": [
+   "isEvent"
+  ],
+  "eventId": 80095,
+  "eventName": "復刻:セイバーウォーズ\n～リリィのコスモ武者修行～ ライト版"
+ },
+ {
+  "id": 8230,
+  "coordinates": [
+   [],
+   []
+  ],
+  "age": "-",
+  "name": "星の三蔵ちゃん、天竺に行く",
+  "longName": "復刻：星の三蔵ちゃん、天竺に行く ライト版",
+  "flags": [
+   "isEvent"
+  ],
+  "eventId": 80099,
+  "eventName": "復刻:星の三蔵ちゃん、天竺に行く ライト版"
+ },
+ {
+  "id": 8238,
+  "coordinates": [
+   [],
+   []
+  ],
+  "age": "-",
+  "name": "-",
+  "longName": "-",
+  "flags": [
+   "isEvent",
+   "isWarIconLeft"
+  ],
+  "eventId": 80103,
+  "eventName": "虚月館殺人事件"
+ },
+ {
+  "id": 8240,
+  "coordinates": [
+   [],
+   []
+  ],
+  "age": "-",
+  "name": "復刻:ぐだぐだ明治維新",
+  "longName": "復刻:ぐだぐだ明治維新",
+  "flags": [
+   "isEvent",
+   "isWarIconLeft"
+  ],
+  "eventId": 80104,
+  "eventName": "復刻:ぐだぐだ明治維新 ライト版"
+ },
+ {
+  "id": 8273,
+  "coordinates": [
+   [],
+   []
+  ],
+  "age": "-",
+  "name": "リヨイベ",
+  "longName": "リヨイベ",
+  "flags": [
+   "isEvent",
+   "isWarIconLeft"
+  ],
+  "eventId": 80113,
+  "eventName": "復刻:オール・ザ・ステイツメン!\n～マンガで分かる合衆国開拓史～"
+ },
+ {
+  "id": 8290,
+  "coordinates": [],
+  "age": "",
+  "name": "バトル・イン・ニューヨーク 2018",
+  "longName": "バトル・イン・ニューヨーク 2018",
+  "flags": [
+   "isEvent",
+   "noClearMarkWithComplete"
+  ],
+  "eventId": 80116,
+  "eventName": "バトル・イン・ニューヨーク 2018"
+ },
+ {
+  "id": 8308,
+  "coordinates": [
+   [],
+   []
+  ],
+  "age": "-",
+  "name": "クリスマス2017",
+  "longName": "クリスマス2017",
+  "flags": [
+   "isEvent",
+   "noClearMarkWithComplete"
+  ],
+  "eventId": 80221,
+  "eventName": "復刻:冥界のメリークリスマス ライト版"
+ },
+ {
+  "id": 8313,
+  "coordinates": [
+   [],
+   []
+  ],
+  "age": "-",
+  "name": "クリスマス2018",
+  "longName": "クリスマス2018",
+  "flags": [
+   "isEvent",
+   "noClearMarkWithComplete"
+  ],
+  "eventId": 80223,
+  "eventName": "クリスマス2018 ホーリー・サンバ・ナイト\n～雪降る遺跡と少女騎士～"
+ },
+ {
+  "id": 8335,
+  "coordinates": [
+   [],
+   []
+  ],
+  "age": "-",
+  "name": "バレンタイン2019",
+  "longName": "バレンタイン2019",
+  "flags": [
+   "isEvent",
+   "noClearMarkWithComplete"
+  ],
+  "eventId": 80233,
+  "eventName": "バレンタイン2019 ボイス＆レター・これく\nしょん！～紫式部と７つの呪本～"
+ },
+ {
+  "id": 8346,
+  "coordinates": [
+   [],
+   []
+  ],
+  "age": "-",
+  "name": "ホワイトデー2019",
+  "longName": "ホワイトデー2019",
+  "flags": [
+   "isEvent",
+   "noClearMarkWithComplete"
+  ],
+  "eventId": 80237,
+  "eventName": "旧き蜘蛛は懐古と共に糸を紡ぐ"
+ },
+ {
+  "id": 8347,
+  "coordinates": [
+   [],
+   []
+  ],
+  "age": "-",
+  "name": "惑う鳴鳳荘の考察",
+  "longName": "惑う鳴鳳荘の考察",
+  "flags": [
+   "isEvent",
+   "closeAfterClear",
+   "noClearMarkWithClear"
+  ],
+  "eventId": 80245,
+  "eventName": "惑う鳴鳳荘の考察"
+ },
+ {
+  "id": 8348,
+  "coordinates": [
+   [],
+   []
+  ],
+  "age": "-",
+  "name": "監獄塔に復讐鬼は哭く",
+  "longName": "監獄塔に復讐鬼は哭く",
+  "flags": [
+   "isEvent",
+   "shop"
+  ],
+  "eventId": 80249,
+  "eventName": "監獄塔に復讐鬼は哭く"
+ },
+ {
+  "id": 8349,
+  "coordinates": [
+   [],
+   []
+  ],
+  "age": "-",
+  "name": "",
+  "longName": "",
+  "flags": [],
+  "eventId": 80257,
+  "eventName": "Fate/Grand Order Fes. 2019"
+ },
+ {
+  "id": 8350,
+  "coordinates": [],
+  "age": "",
+  "name": "バトル・イン・ニューヨーク 2019",
+  "longName": "バトル・イン・ニューヨーク 2019",
+  "flags": [
+   "isEvent",
+   "noClearMarkWithComplete"
+  ],
+  "eventId": 80259,
+  "eventName": "バトル・イン・ニューヨーク 2019"
+ },
+ {
+  "id": 8351,
+  "coordinates": [
+   [],
+   []
+  ],
+  "age": "-",
+  "name": "クリスマス2019",
+  "longName": "クリスマス2019",
+  "flags": [
+   "isEvent",
+   "noClearMarkWithComplete"
+  ],
+  "eventId": 80264,
+  "eventName": "クリスマス2019\nナイチンゲールのクリスマス･キャロル"
+ },
+ {
+  "id": 8352,
+  "coordinates": [],
+  "age": "-",
+  "name": "ペンテシレイアイベント",
+  "longName": "ペンテシレイアイベント",
+  "flags": [
+   "isEvent",
+   "noClearMarkWithComplete"
+  ],
+  "eventId": 80273,
+  "eventName": "救え！ アマゾネス・ドットコム\n～CEOクライシス2020～"
+ },
+ {
+  "id": 8353,
+  "coordinates": [
+   [],
+   []
+  ],
+  "age": "-",
+  "name": "バレンタイン2020",
+  "longName": "バレンタイン2020",
+  "flags": [
+   "isEvent",
+   "noClearMarkWithComplete"
+  ],
+  "eventId": 80276,
+  "eventName": "バレンタイン2020 いみじかりしバレンタイ\nン ～紫式部と５人のパリピギャル軍団～"
+ },
+ {
+  "id": 8354,
+  "coordinates": [
+   [],
+   []
+  ],
+  "age": "-",
+  "name": "クリスマス2017",
+  "longName": "クリスマス2017",
+  "flags": [
+   "isEvent",
+   "closeAfterClear",
+   "shop"
+  ],
+  "eventId": 80280,
+  "eventName": "メイン・インタールード\n冥界のメリークリスマス"
+ },
+ {
+  "id": 8355,
+  "coordinates": [
+   [],
+   []
+  ],
+  "age": "-",
+  "name": "ホワイトデー2020",
+  "longName": "ホワイトデー2020",
+  "flags": [
+   "isEvent",
+   "noClearMarkWithComplete"
+  ],
+  "eventId": 80278,
+  "eventName": "アイアイエーの春風\n～魔女と愉快な仲間と新しい冒険～"
+ },
+ {
+  "id": 8356,
+  "coordinates": [
+   [],
+   []
+  ],
+  "age": "-",
+  "name": "カルデアゲート",
+  "longName": "カルデアゲート",
+  "flags": [
+   "isEvent",
+   "noClearMarkWithComplete"
+  ],
+  "eventId": 80301,
+  "eventName": "影の国の舞闘会 ～ネコとバニーと聖杯戦争～"
+ },
+ {
+  "id": 8357,
+  "coordinates": [
+   [],
+   []
+  ],
+  "age": "-",
+  "name": "クリスマス2019",
+  "longName": "クリスマス2019",
+  "flags": [
+   "isEvent",
+   "noClearMarkWithComplete"
+  ],
+  "eventId": 80303,
+  "eventName": "復刻:クリスマス2019\nナイチンゲールのクリスマス･キャロル ライト版"
+ },
+ {
+  "id": 8358,
+  "coordinates": [
+   [],
+   []
+  ],
+  "age": "-",
+  "name": "カルデアゲート",
+  "longName": "カルデアゲート",
+  "flags": [
+   "isEvent",
+   "noClearMarkWithComplete"
+  ],
+  "eventId": 80306,
+  "eventName": "栄光のサンタクロース・ロード\n～封じられたクリスマスプレゼント～"
+ },
+ {
+  "id": 8359,
+  "coordinates": [
+   [],
+   []
+  ],
+  "age": "-",
+  "name": "カルデアゲート",
+  "longName": "カルデアゲート",
+  "flags": [
+   "isEvent",
+   "noClearMarkWithComplete"
+  ],
+  "eventId": 80312,
+  "eventName": "聖杯戦線 ～ブルータスよ、おまえもか～"
+ },
+ {
+  "id": 8360,
+  "coordinates": [
+   [],
+   []
+  ],
+  "age": "-",
+  "name": "バレンタイン2021",
+  "longName": "バレンタイン2021",
+  "flags": [
+   "isEvent",
+   "noClearMarkWithComplete"
+  ],
+  "eventId": 80313,
+  "eventName": "愛の伝道師アムールちゃんのサン・バレン\nティーノ！ ～カルデア・ビター・バレンタイン2021～"
+ },
+ {
+  "id": 8361,
+  "coordinates": [
+   [],
+   []
+  ],
+  "age": "-",
+  "name": "ホワイトデー2021",
+  "longName": "ホワイトデー2021",
+  "flags": [
+   "isEvent",
+   "noClearMarkWithComplete"
+  ],
+  "eventId": 80314,
+  "eventName": "聖杯怪盗天草四郎\n～スラップスティック・ミュージアム～"
+ },
+ {
+  "id": 8362,
+  "coordinates": [
+   [],
+   []
+  ],
+  "age": "-",
+  "name": "秋葉原塔イベント",
+  "longName": "秋葉原塔イベント",
+  "flags": [
+   "isEvent",
+   "noClearMarkWithComplete"
+  ],
+  "eventId": 80318,
+  "eventName": "アキハバラ・エクスプロージョン！\n～願いの街と愛を刻まれた彫像たち～"
+ },
+ {
+  "id": 8363,
+  "coordinates": [
+   [],
+   []
+  ],
+  "age": "-",
+  "name": "",
+  "longName": "",
+  "flags": [],
+  "eventId": 80327,
+  "eventName": "「劇場版 Fate/Grand Order -神聖円卓領域キャメロット- Paladin; Agateram」公開記念 本編冒頭シーン"
+ },
+ {
+  "id": 8364,
+  "coordinates": [
+   [],
+   []
+  ],
+  "age": "-",
+  "name": "復刻:Grandネロ祭",
+  "longName": "復刻:Grandネロ祭 ～2021 Early Summer～",
+  "flags": [
+   "isEvent",
+   "noClearMarkWithComplete"
+  ],
+  "eventId": 80328,
+  "eventName": "復刻:Grandネロ祭\n～2021 Early Summer～"
+ },
+ {
+  "id": 8365,
+  "coordinates": [
+   [],
+   []
+  ],
+  "age": "-",
+  "name": "クリスマス2021",
+  "longName": "クリスマス2021",
+  "flags": [
+   "isEvent",
+   "noClearMarkWithComplete"
+  ],
+  "eventId": 80347,
+  "eventName": "メイキング・クリスマス・パーティー！"
+ },
+ {
+  "id": 8366,
+  "coordinates": [
+   [],
+   []
+  ],
+  "age": "-",
+  "name": "バレンタイン2022",
+  "longName": "バレンタイン2022",
+  "flags": [
+   "isEvent",
+   "noClearMarkWithComplete"
+  ],
+  "eventId": 80356,
+  "eventName": "マナナン・スーベニア・バレンタイン\n～チョコの樹と女神の選択～"
+ },
+ {
+  "id": 8367,
+  "coordinates": [
+   [],
+   []
+  ],
+  "age": "-",
+  "name": "15人の理知的なメガネたち",
+  "longName": "15人の理知的なメガネたち",
+  "flags": [
+   "isEvent",
+   "noClearMarkWithComplete"
+  ],
+  "eventId": 80359,
+  "eventName": "15人の理知的なメガネたち"
+ },
+ {
+  "id": 8368,
+  "coordinates": [
+   [],
+   []
+  ],
+  "age": "",
+  "name": "バトル・イン・ニューヨーク2022 ～スペース・オデュッセウス対ニコラ・テスラ～",
+  "longName": "バトル・イン・ニューヨーク2022 ～スペース・オデュッセウス対ニコラ・テスラ～",
+  "flags": [
+   "isEvent",
+   "noClearMarkWithComplete"
+  ],
+  "eventId": 80363,
+  "eventName": "バトル・イン・ニューヨーク 2022\n～スペース・オデュッセウス対ニコラ・テスラ～"
+ },
+ {
+  "id": 8369,
+  "coordinates": [
+   [],
+   []
+  ],
+  "age": "",
+  "name": "テスラ・カップ メガコイル級",
+  "longName": "バトル・イン・ニューヨーク2022 ～スペース・オデュッセウス対ニコラ・テスラ～",
+  "flags": [
+   "isEvent",
+   "isWarIconLeft",
+   "subFolder"
+  ],
+  "eventId": 80363,
+  "eventName": "バトル・イン・ニューヨーク 2022\n～スペース・オデュッセウス対ニコラ・テスラ～"
+ },
+ {
+  "id": 8370,
+  "coordinates": [
+   [],
+   []
+  ],
+  "age": "",
+  "name": "テスラ・カップ ギガコイル級",
+  "longName": "バトル・イン・ニューヨーク2022 ～スペース・オデュッセウス対ニコラ・テスラ～",
+  "flags": [
+   "isEvent",
+   "isWarIconLeft",
+   "subFolder"
+  ],
+  "eventId": 80363,
+  "eventName": "バトル・イン・ニューヨーク 2022\n～スペース・オデュッセウス対ニコラ・テスラ～"
+ },
+ {
+  "id": 8371,
+  "coordinates": [
+   [],
+   []
+  ],
+  "age": "",
+  "name": "復刻クエスト2018",
+  "longName": "バトル・イン・ニューヨーク2022 ～スペース・オデュッセウス対ニコラ・テスラ～",
+  "flags": [
+   "isEvent",
+   "isWarIconLeft",
+   "subFolder"
+  ],
+  "eventId": 80363,
+  "eventName": "バトル・イン・ニューヨーク 2022\n～スペース・オデュッセウス対ニコラ・テスラ～"
+ },
+ {
+  "id": 8372,
+  "coordinates": [
+   [],
+   []
+  ],
+  "age": "",
+  "name": "復刻クエスト2019",
+  "longName": "バトル・イン・ニューヨーク2022 ～スペース・オデュッセウス対ニコラ・テスラ～",
+  "flags": [
+   "isEvent",
+   "isWarIconLeft",
+   "subFolder"
+  ],
+  "eventId": 80363,
+  "eventName": "バトル・イン・ニューヨーク 2022\n～スペース・オデュッセウス対ニコラ・テスラ～"
+ },
+ {
+  "id": 8373,
+  "coordinates": [
+   [],
+   []
+  ],
+  "age": "-",
+  "name": "南溟弓張八犬伝",
+  "longName": "南溟弓張八犬伝",
+  "flags": [
+   "isEvent",
+   "noClearMarkWithComplete"
+  ],
+  "eventId": 80381,
+  "eventName": "南溟弓張八犬伝"
+ },
+ {
+  "id": 8374,
+  "coordinates": [
+   [],
+   []
+  ],
+  "age": "-",
+  "name": "Road To 7",
+  "longName": "Road To 7",
+  "flags": [
+   "isEvent",
+   "noClearMarkWithComplete"
+  ],
+  "eventId": 80385,
+  "eventName": "リコレクションクエスト"
+ },
+ {
+  "id": 8375,
+  "coordinates": [
+   [],
+   []
+  ],
+  "age": "-",
+  "name": "Road To 7",
+  "longName": "Road To 7",
+  "flags": [
+   "isEvent",
+   "noClearMarkWithComplete"
+  ],
+  "eventId": 80399,
+  "eventName": "リコレクションクエスト"
+ },
+ {
+  "id": 8376,
+  "coordinates": [
+   [],
+   []
+  ],
+  "age": "-",
+  "name": "好漢酒宴要塞　チェイテ・リャンシャンボー",
+  "longName": "好漢酒宴要塞　チェイテ・リャンシャンボー",
+  "flags": [
+   "isEvent",
+   "noClearMarkWithComplete"
+  ],
+  "eventId": 80400,
+  "eventName": "108人のハロウィン・リベリオン！\n～小竜娘水滸演義～ "
+ },
+ {
+  "id": 8377,
+  "coordinates": [
+   [],
+   []
+  ],
+  "age": "-",
+  "name": "Road To 7",
+  "longName": "Road To 7",
+  "flags": [
+   "isEvent",
+   "noClearMarkWithComplete"
+  ],
+  "eventId": 80403,
+  "eventName": "リコレクションクエスト"
+ },
+ {
+  "id": 8378,
+  "coordinates": [
+   [],
+   []
+  ],
+  "age": "-",
+  "name": "Road To 7",
+  "longName": "Road To 7",
+  "flags": [
+   "isEvent",
+   "noClearMarkWithComplete"
+  ],
+  "eventId": 80406,
+  "eventName": "リコレクションクエスト"
+ },
+ {
+  "id": 8379,
+  "coordinates": [
+   [],
+   []
+  ],
+  "age": "-",
+  "name": "カルデア妖精騎士杯 ～二代目の凱旋～",
+  "longName": "カルデア妖精騎士杯 ～二代目の凱旋～",
+  "flags": [
+   "isEvent",
+   "noClearMarkWithComplete"
+  ],
+  "eventId": 80405,
+  "eventName": "カルデア妖精騎士杯 ～二代目の凱旋～"
+ },
+ {
+  "id": 8380,
+  "coordinates": [
+   [],
+   []
+  ],
+  "age": "-",
+  "name": "カルデアゲート",
+  "longName": "カルデアゲート",
+  "flags": [
+   "isEvent",
+   "noClearMarkWithComplete"
+  ],
+  "eventId": 80409,
+  "eventName": "復刻:栄光のサンタクロース・ロード\n～封じられたクリスマスプレゼント～ ライト版"
+ },
+ {
+  "id": 8381,
+  "coordinates": [
+   [],
+   []
+  ],
+  "age": "-",
+  "name": "Road To 7",
+  "longName": "Road To 7",
+  "flags": [
+   "isEvent",
+   "noClearMarkWithComplete"
+  ],
+  "eventId": 80412,
+  "eventName": "リコレクションクエスト"
+ },
+ {
+  "id": 8382,
+  "coordinates": [
+   [],
+   []
+  ],
+  "age": "-",
+  "name": "ヨハンナさんと未確認の愛 ぶっ壊せ☆らぶらぶはぁと大石像",
+  "longName": "ヨハンナさんと未確認の愛 ぶっ壊せ☆らぶらぶはぁと大石像",
+  "flags": [
+   "isEvent",
+   "noClearMarkWithComplete"
+  ],
+  "eventId": 80414,
+  "eventName": "ヨハンナさんと未確認の愛\nぶっ壊せ☆らぶらぶはぁと大石像"
+ },
+ {
+  "id": 8383,
+  "coordinates": [
+   [
+    35.893803,
+    139.63374
+   ],
+   [
+    22.616783,
+    131.62119
+   ]
+  ],
+  "age": "-",
+  "name": "CBC2023 カルデア重工物語 ～君と僕のBtoB～",
+  "longName": "CBC2023 カルデア重工物語 ～君と僕のBtoB～",
+  "flags": [
+   "isEvent",
+   "noClearMarkWithComplete",
+   "dispEarthPointWithoutMap"
+  ],
+  "eventId": 80422,
+  "eventName": "CBC2023 カルデア重工物語\n～君と僕のBtoB～"
+ },
+ {
+  "id": 8384,
+  "coordinates": [
+   [],
+   []
+  ],
+  "age": "-",
+  "name": "風雲からくりイリヤ城 ～果心居士のささやかな野望～",
+  "longName": "風雲からくりイリヤ城 ～果心居士のささやかな野望～",
+  "flags": [
+   "isEvent",
+   "noClearMarkWithComplete"
+  ],
+  "eventId": 80429,
+  "eventName": "風雲からくりイリヤ城\n～果心居士のささやかな野望～"
+ },
+ {
+  "id": 8385,
+  "coordinates": [
+   [],
+   []
+  ],
+  "age": "-",
+  "name": "ミスティックアイズ・シンフォニー",
+  "longName": "ミスティックアイズ・シンフォニー",
+  "flags": [
+   "isEvent",
+   "noClearMarkWithComplete"
+  ],
+  "eventId": 80432,
+  "eventName": "ミスティックアイズ・シンフォニー\n～妖しの森と麗しの足跡～"
+ },
+ {
+  "id": 8386,
+  "coordinates": [
+   [
+    -33.87587,
+    151.19261
+   ],
+   [
+    -53.421135,
+    140.18533
+   ]
+  ],
+  "age": "-",
+  "name": "ワンジナ・ワールドツアー！",
+  "longName": "ワンジナ・ワールドツアー！",
+  "flags": [
+   "isEvent",
+   "noClearMarkWithComplete",
+   "dispEarthPointWithoutMap"
+  ],
+  "eventId": 80448,
+  "eventName": "ワンジナ・ワールドツアー！\n～大精霊と巡る世界一周～"
+ },
+ {
+  "id": 8387,
+  "coordinates": [
+   [],
+   []
+  ],
+  "age": "-",
+  "name": "クリスマス2023",
+  "longName": "クリスマス2023",
+  "flags": [
+   "isEvent",
+   "noClearMarkWithComplete"
+  ],
+  "eventId": 80455,
+  "eventName": "雪原のメリー・クリスマス2023\n～7days / 8years Snow Carol～"
+ },
+ {
+  "id": 8388,
+  "coordinates": [
+   [],
+   []
+  ],
+  "age": "-",
+  "name": "バレンタイン2024 ～チョコレート・リバーのその先に～",
+  "longName": "バレンタイン2024 ～チョコレート・リバーのその先に～",
+  "flags": [
+   "isEvent",
+   "noClearMarkWithComplete"
+  ],
+  "eventId": 80460,
+  "eventName": "バレンタイン2024\n～チョコレート・リバーのその先に～"
+ },
+ {
+  "id": 8389,
+  "coordinates": [
+   [],
+   []
+  ],
+  "age": "-",
+  "name": "CBC2024 シャルルマーニュのモンジョワ・騎士道！",
+  "longName": "CBC2024 シャルルマーニュのモンジョワ・騎士道！",
+  "flags": [
+   "isEvent",
+   "noClearMarkWithComplete",
+   "changeDispClosedMessage"
+  ],
+  "eventId": 80462,
+  "eventName": "CBC2024 \nシャルルマーニュのモンジョワ・騎士道！"
+ },
+ {
+  "id": 8390,
+  "coordinates": [
+   [],
+   []
+  ],
+  "age": "-",
+  "name": "クリスマス2024",
+  "longName": "ポホヨラのクリスマス・イブ 夢見るサンタとくるみ割り人形",
+  "flags": [
+   "isEvent",
+   "noClearMarkWithComplete",
+   "changeDispClosedMessage"
+  ],
+  "eventId": 80506,
+  "eventName": "ポホヨラのクリスマス・イブ \n夢見るサンタとくるみ割り人形"
+ },
+ {
+  "id": 8391,
+  "coordinates": [
+   [],
+   []
+  ],
+  "age": "-",
+  "name": "スペース・ファンタズムーン　アナザー・クリスマス",
+  "longName": "スペース・ファンタズムーン　アナザー・クリスマス",
+  "flags": [
+   "isEvent",
+   "noClearMarkWithComplete",
+   "changeDispClosedMessage"
+  ],
+  "eventId": 80507,
+  "eventName": "スペース・ファンタズムーン \nアナザー・クリスマス 真夜中のこんふぁんた"
+ },
+ {
+  "id": 8392,
+  "coordinates": [
+   [],
+   []
+  ],
+  "age": "-",
+  "name": "小野小町古今抄",
+  "longName": "小野小町古今抄 ～雪消月のキラキラ蓮華～",
+  "flags": [
+   "isEvent",
+   "noClearMarkWithComplete"
+  ],
+  "eventId": 80514,
+  "eventName": "小野小町古今抄 ～雪消月のキラキラ蓮華～"
+ },
+ {
+  "id": 8393,
+  "coordinates": [
+   [],
+   []
+  ],
+  "age": "-",
+  "name": "CBC2025 彼の名はダンテ",
+  "longName": "CBC2025 彼の名はダンテ ～ホテル・デノヴォのコンシェルジュ～",
+  "flags": [
+   "isEvent",
+   "noClearMarkWithComplete"
+  ],
+  "eventId": 80520,
+  "eventName": "CBC2025 彼の名はダンテ　\n～ホテル・デノヴォのコンシェルジュ～"
+ },
+ {
+  "id": 8394,
+  "coordinates": [
+   [],
+   []
+  ],
+  "age": "-",
+  "name": "落涙の翼",
+  "longName": "落涙の翼",
+  "flags": [
+   "isEvent",
+   "noClearMarkWithComplete",
+   "changeDispClosedMessage"
+  ],
+  "eventId": 80540,
+  "eventName": "落涙の翼"
+ },
+ {
+  "id": 8395,
+  "coordinates": [
+   [],
+   []
+  ],
+  "age": "-",
+  "name": "冠位戴冠戦",
+  "longName": "冠位戴冠戦",
+  "flags": [
+   "changeDispClosedMessage"
+  ],
+  "eventId": 0,
+  "eventName": ""
+ },
+ {
+  "id": 8396,
+  "coordinates": [
+   [],
+   []
+  ],
+  "age": "-",
+  "name": "冠位戴冠戦\nセイバー",
+  "longName": "冠位戴冠戦\nセイバー",
+  "flags": [
+   "changeDispClosedMessage"
+  ],
+  "eventId": 0,
+  "eventName": ""
+ },
+ {
+  "id": 8397,
+  "coordinates": [
+   [],
+   []
+  ],
+  "age": "-",
+  "name": "インドラの大試練",
+  "longName": "インドラの大試練　～巡るブロークン・スカイ～",
+  "flags": [
+   "isEvent",
+   "noClearMarkWithComplete",
+   "changeDispClosedMessage"
+  ],
+  "eventId": 80549,
+  "eventName": "インドラの大試練 \n～巡るブロークン・スカイ～"
+ },
+ {
+  "id": 8398,
+  "coordinates": [
+   [],
+   []
+  ],
+  "age": "-",
+  "name": "冠位戴冠戦\nバーサーカー",
+  "longName": "冠位戴冠戦\nバーサーカー",
+  "flags": [
+   "changeDispClosedMessage"
+  ],
+  "eventId": 0,
+  "eventName": ""
+ },
+ {
+  "id": 8399,
+  "coordinates": [
+   [],
+   []
+  ],
+  "age": "-",
+  "name": "冠位戴冠戦\nランサー",
+  "longName": "冠位戴冠戦\nランサー",
+  "flags": [
+   "changeDispClosedMessage"
+  ],
+  "eventId": 0,
+  "eventName": ""
+ },
+ {
+  "id": 8400,
+  "coordinates": [
+   [],
+   []
+  ],
+  "age": "-",
+  "name": "失われた創世 未来からの方舟",
+  "longName": "失われた創世 未来からの方舟",
+  "flags": [
+   "isEvent",
+   "noClearMarkWithComplete"
+  ],
+  "eventId": 80559,
+  "eventName": "失われた創世 未来からの方舟"
+ },
+ {
+  "id": 8401,
+  "coordinates": [
+   [],
+   []
+  ],
+  "age": "-",
+  "name": "冠位戴冠戦\nエクストラ",
+  "longName": "冠位戴冠戦\nエクストラ",
+  "flags": [
+   "changeDispClosedMessage"
+  ],
+  "eventId": 0,
+  "eventName": ""
+ },
+ {
+  "id": 8402,
+  "coordinates": [
+   [],
+   []
+  ],
+  "age": "-",
+  "name": "冠位戴冠戦\nエクストラⅠ",
+  "longName": "冠位戴冠戦\nエクストラⅠ",
+  "flags": [
+   "changeDispClosedMessage"
+  ],
+  "eventId": 0,
+  "eventName": ""
+ },
+ {
+  "id": 8403,
+  "coordinates": [
+   [],
+   []
+  ],
+  "age": "-",
+  "name": "冠位戴冠戦\nエクストラⅡ",
+  "longName": "冠位戴冠戦\nエクストラⅡ",
+  "flags": [
+   "changeDispClosedMessage"
+  ],
+  "eventId": 0,
+  "eventName": ""
+ },
+ {
+  "id": 8404,
+  "coordinates": [
+   [],
+   []
+  ],
+  "age": "-",
+  "name": "冠位戴冠戦\nライダー",
+  "longName": "冠位戴冠戦\nライダー",
+  "flags": [
+   "changeDispClosedMessage"
+  ],
+  "eventId": 0,
+  "eventName": ""
+ },
+ {
+  "id": 8405,
+  "coordinates": [
+   [],
+   []
+  ],
+  "age": "-",
+  "name": "冠位戴冠戦\nアサシン",
+  "longName": "冠位戴冠戦\nアサシン",
+  "flags": [
+   "changeDispClosedMessage"
+  ],
+  "eventId": 0,
+  "eventName": ""
+ },
+ {
+  "id": 8406,
+  "coordinates": [
+   [],
+   []
+  ],
+  "age": "-",
+  "name": "冠位戴冠戦\nアーチャー",
+  "longName": "冠位戴冠戦\nアーチャー",
+  "flags": [
+   "changeDispClosedMessage"
+  ],
+  "eventId": 0,
+  "eventName": ""
+ },
+ {
+  "id": 8407,
+  "coordinates": [
+   [],
+   []
+  ],
+  "age": "-",
+  "name": "冠位戴冠戦\nキャスター",
+  "longName": "冠位戴冠戦\nキャスター",
+  "flags": [
+   "changeDispClosedMessage"
+  ],
+  "eventId": 0,
+  "eventName": ""
+ },
+ {
+  "id": 8408,
+  "coordinates": [
+   [],
+   []
+  ],
+  "age": "-",
+  "name": "最終物資補給作戦",
+  "longName": "最終物資補給作戦",
+  "flags": [
+   "isEvent",
+   "noClearMarkWithComplete",
+   "changeDispClosedMessage"
+  ],
+  "eventId": 80586,
+  "eventName": "最終物資補給作戦"
+ },
+ {
+  "id": 8409,
+  "coordinates": [
+   [],
+   []
+  ],
+  "age": "-",
+  "name": "カルデアン・フロラリア",
+  "longName": "カルデアン・フロラリア あなたの花が咲く頃に",
+  "flags": [
+   "isEvent",
+   "noClearMarkWithComplete",
+   "dispFirstQuest",
+   "changeDispClosedMessage"
+  ],
+  "eventId": 80599,
+  "eventName": "カルデアン・フロラリア\nあなたの花が咲く頃に"
+ },
+ {
+  "id": 8410,
+  "coordinates": [
+   [],
+   []
+  ],
+  "age": "-",
+  "name": "アフタータイム・バレンタイン2026",
+  "longName": "アフタータイム・バレンタイン2026 ～お母さんチョコの謎～",
+  "flags": [
+   "isEvent",
+   "noClearMarkWithComplete",
+   "dispFirstQuest",
+   "changeDispClosedMessage"
+  ],
+  "eventId": 80603,
+  "eventName": "アフタータイム・バレンタイン2026 \n～お母さんチョコの謎～"
+ },
+ {
+  "id": 8411,
+  "coordinates": [
+   [],
+   []
+  ],
+  "age": "-",
+  "name": "CBC2026 マイ・カインド・オブ・アブダクション",
+  "longName": "CBC2026 マイ・カインド・オブ・アブダクション ～ふたりのモレーと果てなき遺産～",
+  "flags": [
+   "isEvent",
+   "noClearMarkWithComplete",
+   "changeDispClosedMessage"
+  ],
+  "eventId": 80604,
+  "eventName": "CBC2026 マイ・カインド・オブ・アブダクション\n～ふたりのモレーと果てなき遺産～"
+ },
+ {
+  "id": 8412,
+  "coordinates": [
+   [],
+   []
+  ],
+  "age": "-",
+  "name": "くたばれ！ パンプキンファーム・スローター",
+  "longName": "くたばれ！ パンプキンファーム・スローター",
+  "flags": [
+   "isEvent",
+   "noClearMarkWithComplete",
+   "dispFirstQuest",
+   "changeDispClosedMessage"
+  ],
+  "eventId": 80627,
+  "eventName": "くたばれ！ パンプキンファーム・スローター"
+ },
+ {
+  "id": 8413,
+  "coordinates": [
+   [],
+   []
+  ],
+  "age": "-",
+  "name": "冠位名代戦\nエクストラ",
+  "longName": "冠位名代戦\nエクストラ",
+  "flags": [
+   "changeDispClosedMessage"
+  ],
+  "eventId": 80637,
+  "eventName": "冠位名代戦"
+ },
+ {
+  "id": 9001,
+  "coordinates": [
+   [
+    48.17095,
+    14.98668
+   ],
+   []
+  ],
+  "age": "-",
+  "name": "歓楽監獄城 チェイテ",
+  "longName": "歓楽監獄城 チェイテ",
+  "flags": [
+   "withMap",
+   "isEvent"
+  ],
+  "eventId": 80002,
+  "eventName": "歌うカボチャ城の冒険\n～マッドパーティー2015～"
+ },
+ {
+  "id": 9002,
+  "coordinates": [
+   [
+    35.91839,
+    139.2079
+   ],
+   []
+  ],
+  "age": "-",
+  "name": "オガワハイム",
+  "longName": "克螺旋境界式\nオガワハイム",
+  "flags": [
+   "withMap",
+   "isEvent"
+  ],
+  "eventId": 80011,
+  "eventName": "空の境界/the Garden of Order"
+ },
+ {
+  "id": 9003,
+  "coordinates": [
+   [
+    33.01147,
+    130.6486
+   ],
+   []
+  ],
+  "age": "-",
+  "name": "第四次異聞録 冬木",
+  "longName": "第四次異聞録 冬木",
+  "flags": [
+   "withMap",
+   "isEvent"
+  ],
+  "eventId": 80017,
+  "eventName": "Fate/Accel Zero Order"
+ },
+ {
+  "id": 9004,
+  "coordinates": [
+   [
+    34.11444,
+    134.6352
+   ],
+   []
+  ],
+  "age": "-",
+  "name": "人外跋扈怪界",
+  "longName": "人外跋扈怪界",
+  "flags": [
+   "withMap",
+   "isEvent"
+  ],
+  "eventId": 80022,
+  "eventName": "天魔御伽草子 鬼ヶ島"
+ },
+ {
+  "id": 9005,
+  "coordinates": [
+   [],
+   []
+  ],
+  "age": "-",
+  "name": "ブルースカイランド",
+  "longName": "開拓漂流日誌\nブルースカイランド",
+  "flags": [
+   "withMap",
+   "isEvent"
+  ],
+  "eventId": 80023,
+  "eventName": "夏だ! 海だ! 開拓だ! FGO 2016 Summer\nカルデアサマーメモリー\n～癒やしのホワイトビーチ～"
+ },
+ {
+  "id": 9006,
+  "coordinates": [
+   [],
+   []
+  ],
+  "age": "-",
+  "name": "シャドウアイランド",
+  "longName": "世紀末女神伝\nシャドウアイランド",
+  "flags": [
+   "withMap",
+   "isEvent"
+  ],
+  "eventId": 80024,
+  "eventName": "夏だ! 海だ! 開拓だ! FGO 2016 Summer\nカルデアヒートオデッセイ\n～進化のシヴィライゼーション～"
+ },
+ {
+  "id": 9007,
+  "coordinates": [
+   [],
+   []
+  ],
+  "age": "-",
+  "name": "廃棄少女幻想 エンド・サクリファイス",
+  "longName": "廃棄少女幻想 エンド・サクリファイス",
+  "flags": [
+   "withMap",
+   "isEvent"
+  ],
+  "eventId": 80026,
+  "eventName": "魔法少女紀行 ～プリズマ・コーズ～"
+ },
+ {
+  "id": 9008,
+  "coordinates": [
+   [
+    48.17095,
+    14.98668
+   ],
+   []
+  ],
+  "age": "-",
+  "name": "歓楽監獄城 チェイテ",
+  "longName": "歓楽監獄城 チェイテ",
+  "flags": [
+   "withMap",
+   "isEvent"
+  ],
+  "eventId": 80030,
+  "eventName": "復刻：歌うカボチャ城の冒険\n～マッドパーティー2015～ ライト版"
+ },
+ {
+  "id": 9009,
+  "coordinates": [
+   [
+    48.17095,
+    14.98668
+   ],
+   []
+  ],
+  "age": "-",
+  "name": "超極大魔城ベルトチェイテ",
+  "longName": "超極大魔城ベルトチェイテ",
+  "flags": [
+   "withMap",
+   "isEvent"
+  ],
+  "eventId": 80031,
+  "eventName": "ハロウィン・カムバック！\n超極☆大かぼちゃ村 ～そして冒険へ……～"
+ },
+ {
+  "id": 9010,
+  "coordinates": [
+   [
+    11.21,
+    142.12
+   ],
+   []
+  ],
+  "age": "AD:2030",
+  "name": "亜種特異点",
+  "longName": "深海電脳楽土 SE.RA.PH",
+  "flags": [
+   "withMap",
+   "isEvent"
+  ],
+  "eventId": 80054,
+  "eventName": "深海電脳楽土 SE.RA.PH"
+ },
+ {
+  "id": 9013,
+  "coordinates": [
+   [
+    34.11444,
+    134.6352
+   ],
+   []
+  ],
+  "age": "-",
+  "name": "人外跋扈怪界",
+  "longName": "人外跋扈怪界",
+  "flags": [
+   "withMap",
+   "isEvent"
+  ],
+  "eventId": 80057,
+  "eventName": "復刻:天魔御伽草子 鬼ヶ島 ライト版"
+ },
+ {
+  "id": 9014,
+  "coordinates": [
+   [],
+   []
+  ],
+  "age": "-",
+  "name": "ブルースカイランド",
+  "longName": "開拓漂流日誌\nブルースカイランド",
+  "flags": [
+   "withMap",
+   "isEvent"
+  ],
+  "eventId": 80060,
+  "eventName": "復刻:夏だ! 海だ! 開拓だ! \nFGO 2016 Summer カルデアサマーメモリー \n～癒やしのホワイトビーチ～ ライト版"
+ },
+ {
+  "id": 9015,
+  "coordinates": [
+   [],
+   []
+  ],
+  "age": "-",
+  "name": "シャドウアイランド",
+  "longName": "世紀末女神伝\nシャドウアイランド",
+  "flags": [
+   "withMap",
+   "isEvent"
+  ],
+  "eventId": 80061,
+  "eventName": "復刻:夏だ! 海だ! 開拓だ! \nFGO 2016 Summer\nカルデアヒートオデッセイ \n～進化のシヴィライゼーション～ ライト版"
+ },
+ {
+  "id": 9018,
+  "coordinates": [
+   [
+    54.242596,
+    -7.728516
+   ],
+   []
+  ],
+  "age": "-",
+  "name": "イシュタルカップ",
+  "longName": "盛夏爆走祭典\nイシュタルカップ",
+  "flags": [
+   "isEvent"
+  ],
+  "eventId": 80064,
+  "eventName": "デッドヒート・サマーレース！\n～夢と希望のイシュタルカップ2017～"
+ },
+ {
+  "id": 9021,
+  "coordinates": [
+   [
+    54.242596,
+    -7.728516
+   ],
+   []
+  ],
+  "age": "-",
+  "name": "強襲牛車監獄",
+  "longName": "強襲牛車監獄\nケルティックプリズン",
+  "flags": [
+   "isEvent"
+  ],
+  "eventId": 80065,
+  "eventName": "デスジェイル・サマーエスケイプ\n～罪と絶望のメイヴ大監獄2017～"
+ },
+ {
+  "id": 9022,
+  "coordinates": [
+   [
+    48.17095,
+    14.98668
+   ],
+   []
+  ],
+  "age": "-",
+  "name": "超極大魔城ベルトチェイテ",
+  "longName": "超極大魔城ベルトチェイテ",
+  "flags": [
+   "withMap",
+   "isEvent"
+  ],
+  "eventId": 80069,
+  "eventName": "復刻:ハロウィン・カムバック！\n超極☆大かぼちゃ村 ～そして冒険へ……～\nライト版"
+ },
+ {
+  "id": 9029,
+  "coordinates": [
+   [
+    48.17095,
+    14.98668
+   ],
+   []
+  ],
+  "age": "-",
+  "name": "チェイテピラミッド姫路城",
+  "longName": "超絶縦長魔城\nチェイテピラミッド姫路城",
+  "flags": [
+   "isEvent"
+  ],
+  "eventId": 80073,
+  "eventName": "ハロウィン・ストライク！ \n魔のビルドクライマー／姫路城大決戦"
+ },
+ {
+  "id": 9031,
+  "coordinates": [
+   [
+    35.91839,
+    139.2079
+   ],
+   []
+  ],
+  "age": "-",
+  "name": "オガワハイム",
+  "longName": "克螺旋境界式\nオガワハイム",
+  "flags": [
+   "withMap",
+   "isEvent"
+  ],
+  "eventId": 80090,
+  "eventName": "復刻版:空の境界/the Garden of Order\n -Revival-"
+ },
+ {
+  "id": 9032,
+  "coordinates": [
+   [
+    45.5149,
+    25.367165
+   ],
+   [
+    35.224976,
+    23.390635
+   ]
+  ],
+  "age": "-",
+  "name": "Apocrypha/Inheritance of Glory",
+  "longName": "Apocrypha/Inheritance of Glory",
+  "flags": [
+   "withMap",
+   "isEvent"
+  ],
+  "eventId": 80102,
+  "eventName": "Apocrypha/Inheritance of Glory"
+ },
+ {
+  "id": 9033,
+  "coordinates": [
+   [
+    35.9748,
+    139.34534
+   ],
+   [
+    22.280663,
+    131.78015
+   ]
+  ],
+  "age": "-",
+  "name": "極東乖離結界「帝都」",
+  "longName": "極東乖離結界「帝都」",
+  "flags": [
+   "isEvent",
+   "noClearMarkWithComplete"
+  ],
+  "eventId": 80107,
+  "eventName": "ぐだぐだ帝都聖杯奇譚\n～極東魔戦線1945～"
+ },
+ {
+  "id": 9035,
+  "coordinates": [
+   [
+    54.242596,
+    -7.728516
+   ],
+   [
+    47.428776,
+    -6.888866
+   ]
+  ],
+  "age": "-",
+  "name": "イシュタルカップ",
+  "longName": "盛夏爆走祭典\nイシュタルカップ",
+  "flags": [
+   "isEvent"
+  ],
+  "eventId": 80108,
+  "eventName": "復刻:デッドヒート・サマーレース！\n～夢と希望のイシュタルカップ2017～\nライト版"
+ },
+ {
+  "id": 9040,
+  "coordinates": [
+   [
+    54.242596,
+    -7.728516
+   ],
+   [
+    47.428776,
+    -6.888866
+   ]
+  ],
+  "age": "-",
+  "name": "強襲牛車監獄",
+  "longName": "強襲牛車監獄\nケルティックプリズン",
+  "flags": [
+   "isEvent",
+   "noClearMarkWithComplete"
+  ],
+  "eventId": 80109,
+  "eventName": "復刻:デスジェイル・サマーエスケイプ\n～罪と絶望のメイヴ大監獄2017～ ライト版"
+ },
+ {
+  "id": 9046,
+  "coordinates": [
+   [
+    21.318611,
+    -157.92223
+   ],
+   [
+    6.4474,
+    -169.99678
+   ]
+  ],
+  "age": "-",
+  "name": "ルルハワ",
+  "longName": "永久常夏祭壇 ルルハワ",
+  "flags": [
+   "isEvent"
+  ],
+  "eventId": 80112,
+  "eventName": "サーヴァント・サマー・フェスティバル！"
+ },
+ {
+  "id": 9048,
+  "coordinates": [
+   [
+    33.01146,
+    130.6486
+   ],
+   [
+    18.425354,
+    124.02028
+   ]
+  ],
+  "age": "-",
+  "name": "第四次異聞録 冬木",
+  "longName": "第四次異聞録 冬木",
+  "flags": [
+   "withMap",
+   "isEvent"
+  ],
+  "eventId": 80115,
+  "eventName": "復刻版:Fate/Accel Zero Order -LAP_2-"
+ },
+ {
+  "id": 9049,
+  "coordinates": [
+   [
+    48.17095,
+    14.98668
+   ],
+   [
+    39.386868,
+    16.114786
+   ]
+  ],
+  "age": "-",
+  "name": "チェイテピラミッド姫路城",
+  "longName": "超絶縦長魔城\nチェイテピラミッド姫路城",
+  "flags": [
+   "isEvent"
+  ],
+  "eventId": 80118,
+  "eventName": "復刻:ハロウィン･ストライク！\n魔のビルドクライマー／姫路城大決戦 ライト版"
+ },
+ {
+  "id": 9050,
+  "coordinates": [
+   [],
+   [
+    32.030006,
+    133.3504
+   ]
+  ],
+  "age": "-",
+  "name": "週末北方遊園 ONI♡LAND",
+  "longName": "週末北方遊園 ONI♡LAND",
+  "flags": [
+   "isEvent",
+   "noClearMarkWithComplete"
+  ],
+  "eventId": 80119,
+  "eventName": "神秘の国のＯＮＩＬＡＮＤ!! \n～鬼の王とカムイの黄金～"
+ },
+ {
+  "id": 9051,
+  "coordinates": [
+   [],
+   [
+    22.77391,
+    129.06323
+   ]
+  ],
+  "age": "-",
+  "name": "深山温泉大社・大割烹閻魔亭",
+  "longName": "深山温泉大社・大割烹閻魔亭",
+  "flags": [
+   "withMap",
+   "isEvent",
+   "noClearMarkWithComplete"
+  ],
+  "eventId": 80225,
+  "eventName": "雀のお宿の活動日誌～閻魔亭繁盛記～"
+ },
+ {
+  "id": 9052,
+  "coordinates": [
+   [],
+   []
+  ],
+  "age": "-",
+  "name": "廃棄少女幻想 エンド・サクリファイス",
+  "longName": "廃棄少女幻想 エンド・サクリファイス",
+  "flags": [
+   "withMap",
+   "isEvent",
+   "noClearMarkWithComplete"
+  ],
+  "eventId": 80232,
+  "eventName": "復刻版:魔法少女紀行 ～プリズマ・コーズ～\n-Re-install-"
+ },
+ {
+  "id": 9053,
+  "coordinates": [
+   [
+    11.21,
+    142.12
+   ],
+   [
+    -3.939612,
+    134.533
+   ]
+  ],
+  "age": "AD:2030",
+  "name": "亜種特異点",
+  "longName": "深海電脳楽土 SE.RA.PH",
+  "flags": [
+   "withMap",
+   "isEvent",
+   "noClearMarkWithClear",
+   "noClearMarkWithComplete"
+  ],
+  "eventId": 80236,
+  "eventName": "復刻版:深海電脳楽土 SE.RA.PH\n-Second Ballet-"
+ },
+ {
+  "id": 9056,
+  "coordinates": [
+   [],
+   [
+    22.29618,
+    131.77074
+   ]
+  ],
+  "age": "-",
+  "name": "徳川廻天迷宮　大奥",
+  "longName": "徳川廻天迷宮　大奥",
+  "flags": [
+   "isEvent"
+  ],
+  "eventId": 80239,
+  "eventName": "徳川廻天迷宮 大奥"
+ },
+ {
+  "id": 9057,
+  "coordinates": [
+   [
+    35.9748,
+    139.34534
+   ],
+   [
+    22.280663,
+    131.78015
+   ]
+  ],
+  "age": "-",
+  "name": "極東乖離結界「帝都」",
+  "longName": "極東乖離結界「帝都」",
+  "flags": [
+   "isEvent",
+   "noClearMarkWithComplete"
+  ],
+  "eventId": 80242,
+  "eventName": "復刻:ぐだぐだ帝都聖杯奇譚\n～極東魔戦線1945～ ライト版"
+ },
+ {
+  "id": 9058,
+  "coordinates": [
+   [],
+   [
+    43.928722,
+    0.041748
+   ]
+  ],
+  "age": "-",
+  "name": "幻想蒐集領域パッチワーク・ロンドン",
+  "longName": "幻想蒐集領域\nパッチワーク・ロンドン",
+  "flags": [
+   "withMap",
+   "isEvent",
+   "noClearMarkWithComplete"
+  ],
+  "eventId": 80244,
+  "eventName": "レディ・ライネスの事件簿"
+ },
+ {
+  "id": 9068,
+  "coordinates": [
+   [
+    37.170193,
+    139.0573
+   ],
+   [
+    24.045034,
+    131.03424
+   ]
+  ],
+  "age": "-",
+  "name": "三千信長世界 デ・アルカ",
+  "longName": "三千信長世界 デ・アルカ",
+  "flags": [
+   "isEvent",
+   "noClearMarkWithComplete"
+  ],
+  "eventId": 80250,
+  "eventName": "オール信長総進撃 ぐだぐだファイナル本能寺2019"
+ },
+ {
+  "id": 9069,
+  "coordinates": [
+   [
+    21.318611,
+    -157.92223
+   ],
+   [
+    6.4474,
+    -169.99678
+   ]
+  ],
+  "age": "-",
+  "name": "ルルハワ",
+  "longName": "永久常夏祭壇 ルルハワ",
+  "flags": [
+   "isEvent"
+  ],
+  "eventId": 80251,
+  "eventName": "復刻:サーヴァント・サマー・フェスティバル！ ライト版"
+ },
+ {
+  "id": 9071,
+  "coordinates": [
+   [
+    36.005684,
+    -112.732925
+   ],
+   [
+    22.578485,
+    -118.214066
+   ]
+  ],
+  "age": "-",
+  "name": "西部絢爛賭場ラスベガス",
+  "longName": "西部絢爛賭場ラスベガス",
+  "flags": [
+   "isEvent",
+   "noClearMarkWithComplete"
+  ],
+  "eventId": 80254,
+  "eventName": "見参！ ラスベガス御前試合\n～水着剣豪七色勝負！"
+ },
+ {
+  "id": 9072,
+  "coordinates": [
+   [],
+   [
+    32.030006,
+    133.3504
+   ]
+  ],
+  "age": "-",
+  "name": "週末北方遊園 ONI♡LAND",
+  "longName": "週末北方遊園 ONI♡LAND",
+  "flags": [
+   "isEvent",
+   "noClearMarkWithComplete"
+  ],
+  "eventId": 80262,
+  "eventName": "復刻:神秘の国のＯＮＩＬＡＮＤ!! \n～鬼の王とカムイの黄金～ ライト版"
+ },
+ {
+  "id": 9073,
+  "coordinates": [
+   [],
+   []
+  ],
+  "age": "-",
+  "name": "蒼輝銀河番組　セイバーウォーズ4.8",
+  "longName": "蒼輝銀河番組　セイバーウォーズ4.8",
+  "flags": [
+   "isEvent",
+   "noClearMarkWithComplete"
+  ],
+  "eventId": 80260,
+  "eventName": "セイバーウォーズ２ ～始まりの宇宙へ～"
+ },
+ {
+  "id": 9074,
+  "coordinates": [
+   [],
+   [
+    22.77391,
+    129.06323
+   ]
+  ],
+  "age": "-",
+  "name": "深山温泉大社・大割烹閻魔亭",
+  "longName": "深山温泉大社・大割烹閻魔亭",
+  "flags": [
+   "withMap",
+   "isEvent",
+   "noClearMarkWithComplete"
+  ],
+  "eventId": 80271,
+  "eventName": "復刻:雀のお宿の活動日誌～閻魔亭繁盛記～ ライト版"
+ },
+ {
+  "id": 9075,
+  "coordinates": [
+   [
+    45.5149,
+    25.367165
+   ],
+   [
+    35.224976,
+    23.390635
+   ]
+  ],
+  "age": "-",
+  "name": "Apocrypha/Inheritance of Glory",
+  "longName": "Apocrypha/Inheritance of Glory",
+  "flags": [
+   "withMap",
+   "isEvent"
+  ],
+  "eventId": 80283,
+  "eventName": "復刻版:Apocrypha/Inheritance of Glory -Triumphal-"
+ },
+ {
+  "id": 9076,
+  "coordinates": [
+   [
+    35.698383,
+    139.77307
+   ],
+   [
+    22.251608,
+    131.9021
+   ]
+  ],
+  "age": "-",
+  "name": "星屑盤上冥路 アステロ・アキハバラ",
+  "longName": "星屑盤上冥路 アステロ・アキハバラ",
+  "flags": [
+   "isEvent",
+   "noClearMarkWithComplete"
+  ],
+  "eventId": 80285,
+  "eventName": "『Fate/Requiem』盤上遊戯黙示録"
+ },
+ {
+  "id": 9077,
+  "coordinates": [
+   [
+    37.170193,
+    139.0573
+   ],
+   [
+    24.045034,
+    131.03424
+   ]
+  ],
+  "age": "-",
+  "name": "三千信長世界 デ・アルカ",
+  "longName": "三千信長世界 デ・アルカ",
+  "flags": [
+   "isEvent",
+   "noClearMarkWithComplete"
+  ],
+  "eventId": 80286,
+  "eventName": "復刻:オール信長総進撃 ぐだぐだファイナル本能寺2019 ライト版"
+ },
+ {
+  "id": 9080,
+  "coordinates": [
+   [],
+   [
+    22.29618,
+    131.77074
+   ]
+  ],
+  "age": "-",
+  "name": "徳川廻天迷宮　大奥",
+  "longName": "徳川廻天迷宮　大奥",
+  "flags": [
+   "isEvent"
+  ],
+  "eventId": 80290,
+  "eventName": "復刻:徳川廻天迷宮 大奥"
+ },
+ {
+  "id": 9087,
+  "coordinates": [
+   [
+    36.005684,
+    -112.732925
+   ],
+   [
+    22.578485,
+    -118.214066
+   ]
+  ],
+  "age": "-",
+  "name": "西部絢爛賭場ラスベガス",
+  "longName": "西部絢爛賭場ラスベガス",
+  "flags": [
+   "isEvent",
+   "noClearMarkWithComplete"
+  ],
+  "eventId": 80291,
+  "eventName": "復刻:見参！ ラスベガス御前試合\n～水着剣豪七色勝負！ ライト版"
+ },
+ {
+  "id": 9088,
+  "coordinates": [
+   [
+    11.21,
+    142.12
+   ],
+   [
+    -3.939612,
+    134.533
+   ]
+  ],
+  "age": "AD:2030",
+  "name": "亜種特異点",
+  "longName": "深海電脳楽土 SE.RA.PH",
+  "flags": [
+   "withMap",
+   "isEvent",
+   "noClearMarkWithClear",
+   "shop"
+  ],
+  "eventId": 80292,
+  "eventName": "メイン・インタールード\n深海電脳楽土 SE.RA.PH"
+ },
+ {
+  "id": 9091,
+  "coordinates": [
+   [],
+   []
+  ],
+  "age": "-",
+  "name": "納涼夢幻冥峰　パラダイスレイク",
+  "longName": "納涼夢幻冥峰　パラダイスレイク",
+  "flags": [
+   "isEvent",
+   "noClearMarkWithComplete",
+   "dispFirstQuest"
+  ],
+  "eventId": 80294,
+  "eventName": "サーヴァント・サマーキャンプ！ \n～カルデア・スリラーナイト～"
+ },
+ {
+  "id": 9097,
+  "coordinates": [
+   [],
+   []
+  ],
+  "age": "-",
+  "name": "リヨイベ",
+  "longName": "リヨイベ",
+  "flags": [
+   "isEvent",
+   "isWarIconLeft",
+   "noClearMarkWithComplete"
+  ],
+  "eventId": 80299,
+  "eventName": "オール・ザ・ステイツメン! ～マンガで分かる合衆国開拓史～"
+ },
+ {
+  "id": 9098,
+  "coordinates": [
+   [],
+   []
+  ],
+  "age": "-",
+  "name": "リヨイベ",
+  "longName": "リヨイベ",
+  "flags": [
+   "isEvent",
+   "closeAfterClear",
+   "shop"
+  ],
+  "eventId": 80300,
+  "eventName": "オール・ザ・ステイツメン!\n～マンガで分かる合衆国開拓史～"
+ },
+ {
+  "id": 9099,
+  "coordinates": [
+   [],
+   []
+  ],
+  "age": "-",
+  "name": "古代埴輪時空 邪馬台国",
+  "longName": "古代埴輪時空 邪馬台国",
+  "flags": [
+   "isEvent",
+   "noClearMarkWithComplete"
+  ],
+  "eventId": 80289,
+  "eventName": "超古代新選組列伝 ぐだぐだ邪馬台国2020"
+ },
+ {
+  "id": 9101,
+  "coordinates": [
+   [],
+   []
+  ],
+  "age": "-",
+  "name": "凹型虚数怪理 イマジナリ・トレンチ",
+  "longName": "凹型虚数怪理 イマジナリ・トレンチ",
+  "flags": [
+   "isEvent",
+   "noClearMarkWithComplete"
+  ],
+  "eventId": 80305,
+  "eventName": "虚数大海戦イマジナリ・スクランブル \n～ノーチラス浮上せよ～"
+ },
+ {
+  "id": 9107,
+  "coordinates": [
+   [],
+   []
+  ],
+  "age": "-",
+  "name": "蒼輝銀河番組　セイバーウォーズ4.8",
+  "longName": "蒼輝銀河番組　セイバーウォーズ4.8",
+  "flags": [
+   "isEvent",
+   "noClearMarkWithComplete"
+  ],
+  "eventId": 80308,
+  "eventName": "復刻:セイバーウォーズ２ ～始まりの宇宙へ～ ライト版"
+ },
+ {
+  "id": 9109,
+  "coordinates": [
+   [],
+   []
+  ],
+  "age": "-",
+  "name": "いざ鎌倉にさよならを ～Little Big Tengu～",
+  "longName": "いざ鎌倉にさよならを ～Little Big Tengu～",
+  "flags": [
+   "isEvent",
+   "noClearMarkWithComplete"
+  ],
+  "eventId": 80309,
+  "eventName": "いざ鎌倉にさよならを ～Little Big Tengu～"
+ },
+ {
+  "id": 9111,
+  "coordinates": [
+   [
+    35.705658,
+    139.7519
+   ],
+   [
+    22.43761,
+    131.54468
+   ]
+  ],
+  "age": "-",
+  "name": "輝け！ グレイルライブ！！ ～鶴のアイドル恩返し～",
+  "longName": "輝け！ グレイルライブ！！ ～鶴のアイドル恩返し～",
+  "flags": [
+   "isEvent",
+   "noClearMarkWithComplete"
+  ],
+  "eventId": 80319,
+  "eventName": "輝け！ グレイルライブ！！\n～鶴のアイドル恩返し～"
+ },
+ {
+  "id": 9112,
+  "coordinates": [
+   [],
+   []
+  ],
+  "age": "-",
+  "name": "カルデアゲート",
+  "longName": "カルデアゲート",
+  "flags": [
+   "isEvent",
+   "noClearMarkWithComplete"
+  ],
+  "eventId": 80324,
+  "eventName": "聖杯戦線 ～僕のスーパー・キャメロット2021～"
+ },
+ {
+  "id": 9113,
+  "coordinates": [
+   [],
+   []
+  ],
+  "age": "-",
+  "name": "納涼夢幻冥峰　パラダイスレイク",
+  "longName": "納涼夢幻冥峰　パラダイスレイク",
+  "flags": [
+   "isEvent",
+   "noClearMarkWithComplete",
+   "dispFirstQuest"
+  ],
+  "eventId": 80326,
+  "eventName": "復刻:サーヴァント・サマーキャンプ！ \n～カルデア・スリラーナイト～ ライト版"
+ },
+ {
+  "id": 9119,
+  "coordinates": [
+   [],
+   []
+  ],
+  "age": "-",
+  "name": "カルデア・サマーアドベンチャー！ ～夢追う少年と夢見る少女～",
+  "longName": "カルデア・サマーアドベンチャー！ ～夢追う少年と夢見る少女～",
+  "flags": [
+   "isEvent",
+   "noClearMarkWithComplete"
+  ],
+  "eventId": 80331,
+  "eventName": "カルデア・サマーアドベンチャー！ \n～夢追う少年と夢見る少女～"
+ },
+ {
+  "id": 9120,
+  "coordinates": [
+   [],
+   []
+  ],
+  "age": "-",
+  "name": "伝説再来魔城チェイテ",
+  "longName": "伝説再来魔城チェイテ",
+  "flags": [
+   "isEvent",
+   "noClearMarkWithComplete"
+  ],
+  "eventId": 80340,
+  "eventName": "チェイテ・ハロウィン・トリロジー\nウルトラデラックス総集編！"
+ },
+ {
+  "id": 9124,
+  "coordinates": [
+   [],
+   []
+  ],
+  "age": "-",
+  "name": "古代埴輪時空 邪馬台国",
+  "longName": "古代埴輪時空 邪馬台国",
+  "flags": [
+   "isEvent",
+   "noClearMarkWithComplete"
+  ],
+  "eventId": 80341,
+  "eventName": "復刻:超古代新選組列伝\nぐだぐだ邪馬台国2020 ライト版"
+ },
+ {
+  "id": 9125,
+  "coordinates": [
+   [
+    34.566998,
+    38.289734
+   ],
+   [
+    21.03776,
+    34.844456
+   ]
+  ],
+  "age": "-",
+  "name": "砂漠童話儀式チェイテ・シンデレラ",
+  "longName": "砂漠童話儀式チェイテ・シンデレラ",
+  "flags": [
+   "isEvent",
+   "noClearMarkWithComplete"
+  ],
+  "eventId": 80343,
+  "eventName": "ハロウィン・ライジング！\n～砂塵の女王と暗黒の使徒～"
+ },
+ {
+  "id": 9127,
+  "coordinates": [
+   [],
+   [
+    22.616783,
+    131.62119
+   ]
+  ],
+  "age": "-",
+  "name": "キ械維新都市SAITAMA",
+  "longName": "キ械維新都市SAITAMA",
+  "flags": [
+   "isEvent",
+   "noClearMarkWithComplete"
+  ],
+  "eventId": 80346,
+  "eventName": "昭和キ神計画 ぐだぐだ龍馬危機一髪！\n消えたノッブヘッドの謎"
+ },
+ {
+  "id": 9128,
+  "coordinates": [
+   [
+    60.916668,
+    101.95
+   ],
+   [
+    56.31135,
+    97.30284
+   ]
+  ],
+  "age": "-",
+  "name": "非霊長生存圏 ツングースカ・サンクチュアリ",
+  "longName": "非霊長生存圏 ツングースカ・サンクチュアリ",
+  "flags": [
+   "withMap",
+   "isEvent",
+   "noClearMarkWithComplete",
+   "dispFirstQuest"
+  ],
+  "eventId": 80349,
+  "eventName": "非霊長生存圏 ツングースカ・サンクチュアリ"
+ },
+ {
+  "id": 9130,
+  "coordinates": [
+   [],
+   [
+    43.928722,
+    0.041748
+   ]
+  ],
+  "age": "-",
+  "name": "幻想蒐集領域パッチワーク・ロンドン",
+  "longName": "幻想蒐集領域\nパッチワーク・ロンドン",
+  "flags": [
+   "withMap",
+   "isEvent",
+   "noClearMarkWithComplete"
+  ],
+  "eventId": 80352,
+  "eventName": "復刻版:レディ・ライネスの事件簿 -Plus Episode-"
+ },
+ {
+  "id": 9131,
+  "coordinates": [
+   [],
+   []
+  ],
+  "age": "-",
+  "name": "所在不明水域タートルアイランド",
+  "longName": "所在不明水域タートルアイランド",
+  "flags": [
+   "isEvent",
+   "noClearMarkWithComplete"
+  ],
+  "eventId": 80364,
+  "eventName": "水怪クライシス 無垢なる者たちの浮島"
+ },
+ {
+  "id": 9133,
+  "coordinates": [
+   [
+    29.275185,
+    -89.35306
+   ],
+   [
+    14.054547,
+    -98.13481
+   ]
+  ],
+  "age": "-",
+  "name": "連続活劇神話 ミシシッピ・ミササイザーズ",
+  "longName": "連続活劇神話 ミシシッピ・ミササイザーズ",
+  "flags": [
+   "isEvent",
+   "noClearMarkWithComplete"
+  ],
+  "eventId": 80367,
+  "eventName": "連続活劇神話 ミシシッピ・ミササイザーズ"
+ },
+ {
+  "id": 9134,
+  "coordinates": [
+   [],
+   []
+  ],
+  "age": "-",
+  "name": "カルデアゲート",
+  "longName": "カルデアゲート",
+  "flags": [
+   "isEvent",
+   "noClearMarkWithComplete"
+  ],
+  "eventId": 80373,
+  "eventName": "聖杯戦線 ～ムーンサルト・オペレーション～"
+ },
+ {
+  "id": 9135,
+  "coordinates": [
+   [
+    60.916668,
+    101.95
+   ],
+   [
+    56.31135,
+    97.30284
+   ]
+  ],
+  "age": "-",
+  "name": "非霊長生存圏 ツングースカ・サンクチュアリ",
+  "longName": "非霊長生存圏 ツングースカ・サンクチュアリ",
+  "flags": [
+   "withMap",
+   "isEvent",
+   "noClearMarkWithClear",
+   "shop",
+   "dispFirstQuest"
+  ],
+  "eventId": 80372,
+  "eventName": "メイン・インタールード\n非霊長生存圏 ツングースカ・サンクチュアリ"
+ },
+ {
+  "id": 9136,
+  "coordinates": [
+   [],
+   [
+    22.29618,
+    131.77074
+   ]
+  ],
+  "age": "-",
+  "name": "徳川廻天迷宮　大奥",
+  "longName": "徳川廻天迷宮　大奥",
+  "flags": [
+   "isEvent",
+   "noClearMarkWithClear",
+   "shop"
+  ],
+  "eventId": 80379,
+  "eventName": "メイン・インタールード\n徳川廻天迷宮 大奥"
+ },
+ {
+  "id": 9143,
+  "coordinates": [
+   [
+    83.695,
+    18.62
+   ],
+   [
+    73.71725,
+    17.062782
+   ]
+  ],
+  "age": "-",
+  "name": "北極魔園観光アークティック・サマーワールド",
+  "longName": "北極魔園観光アークティック・サマーワールド",
+  "flags": [
+   "isEvent",
+   "noClearMarkWithComplete"
+  ],
+  "eventId": 80384,
+  "eventName": "アークティック・サマーワールド！\n～カルデア真夏の魔園観光～"
+ },
+ {
+  "id": 9144,
+  "coordinates": [
+   [],
+   []
+  ],
+  "age": "-",
+  "name": "幻邪馬台時空サカイ",
+  "longName": "幻邪馬台時空サカイ",
+  "flags": [
+   "isEvent",
+   "noClearMarkWithComplete"
+  ],
+  "eventId": 80391,
+  "eventName": "ぶっちぎり茶の湯バトル \nぐだぐだ新邪馬台国 地獄から帰ってきた男"
+ },
+ {
+  "id": 9145,
+  "coordinates": [
+   [],
+   []
+  ],
+  "age": "-",
+  "name": "凹型虚数怪理 イマジナリ・トレンチ",
+  "longName": "凹型虚数怪理 イマジナリ・トレンチ",
+  "flags": [
+   "isEvent",
+   "noClearMarkWithClear",
+   "shop"
+  ],
+  "eventId": 80393,
+  "eventName": "メイン・インタールード 虚数大海戦"
+ },
+ {
+  "id": 9151,
+  "coordinates": [
+   [],
+   []
+  ],
+  "age": "-",
+  "name": "螺旋証明世界 リリムハーロット",
+  "longName": "螺旋証明世界 リリムハーロット",
+  "flags": [
+   "isEvent",
+   "noClearMarkWithComplete"
+  ],
+  "eventId": 80424,
+  "eventName": "螺旋証明世界 リリムハーロット\n～喝采なき薔薇～"
+ },
+ {
+  "id": 9152,
+  "coordinates": [
+   [],
+   []
+  ],
+  "age": "-",
+  "name": "聖杯戦線",
+  "longName": "聖杯戦線 ～白天の城、黒夜の城～",
+  "flags": [
+   "isEvent",
+   "noClearMarkWithComplete",
+   "dispFirstQuest"
+  ],
+  "eventId": 80439,
+  "eventName": "聖杯戦線 ～白天の城、黒夜の城～"
+ },
+ {
+  "id": 9160,
+  "coordinates": [
+   [
+    21.318611,
+    -157.92223
+   ],
+   [
+    6.4474,
+    -169.99678
+   ]
+  ],
+  "age": "-",
+  "name": "永久常夏祭壇　ルルハワ　ver.2.0",
+  "longName": "永久常夏祭壇　ルルハワ　ver.2.0",
+  "flags": [
+   "isEvent",
+   "noClearMarkWithComplete"
+  ],
+  "eventId": 80442,
+  "eventName": "サーヴァント・サマー・フェスティバル2023！"
+ },
+ {
+  "id": 9163,
+  "coordinates": [
+   [
+    35.051693,
+    136.97261
+   ],
+   [
+    21.200916,
+    129.42914
+   ]
+  ],
+  "age": "-",
+  "name": "戦国暴走高道・MAKAI",
+  "longName": "戦国暴走高道・MAKAI",
+  "flags": [
+   "isEvent",
+   "noClearMarkWithComplete"
+  ],
+  "eventId": 80451,
+  "eventName": "激走！川中島24時 ぐだぐだ超五稜郭\n殺しのサインはM51"
+ },
+ {
+  "id": 9164,
+  "coordinates": [
+   [
+    35.68703,
+    139.7556
+   ],
+   [
+    22.422075,
+    131.84337
+   ]
+  ],
+  "age": "慶安四年",
+  "name": "夢幻泡影盈月",
+  "longName": "夢幻泡影盈月",
+  "flags": [
+   "isEvent",
+   "noClearMarkWithComplete"
+  ],
+  "eventId": 80457,
+  "eventName": "盈月剣風帖"
+ },
+ {
+  "id": 9166,
+  "coordinates": [
+   [
+    36.575832,
+    137.61972
+   ],
+   [
+    23.184155,
+    130.47403
+   ]
+  ],
+  "age": "-",
+  "name": "五月連休温泉　隈乃",
+  "longName": "五月連休温泉　隈乃",
+  "flags": [
+   "isEvent",
+   "noClearMarkWithComplete",
+   "changeDispClosedMessage"
+  ],
+  "eventId": 80472,
+  "eventName": "魔法使いの夜アフターナイト／隈乃温泉殺人事件\n～駒鳥は見た！ 魔法使いは二度死ぬ～"
+ },
+ {
+  "id": 9168,
+  "coordinates": [
+   [],
+   []
+  ],
+  "age": "-",
+  "name": "カルデア・サマーアドベンチャー！ ～夢追う少年と夢見る少女～ アンケート復刻版",
+  "longName": "カルデア・サマーアドベンチャー！ ～夢追う少年と夢見る少女～ アンケート復刻版",
+  "flags": [
+   "isEvent",
+   "noClearMarkWithComplete",
+   "changeDispClosedMessage"
+  ],
+  "eventId": 80474,
+  "eventName": "カルデア・サマーアドベンチャー！\n～夢追う少年と夢見る少女～ アンケート復刻版"
+ },
+ {
+  "id": 9169,
+  "coordinates": [
+   [],
+   []
+  ],
+  "age": "-",
+  "name": "螺旋証明世界 リリムハーロット",
+  "longName": "螺旋証明世界 リリムハーロット",
+  "flags": [
+   "isEvent",
+   "noClearMarkWithComplete",
+   "changeDispClosedMessage"
+  ],
+  "eventId": 80476,
+  "eventName": "螺旋証明世界 リリムハーロット\n～喝采なき薔薇～ アンケート復刻版"
+ },
+ {
+  "id": 9170,
+  "coordinates": [
+   [
+    32.74381,
+    129.87286
+   ],
+   [
+    18.545803,
+    122.95359
+   ]
+  ],
+  "age": "-",
+  "name": "超絶鎖国御領 ナガサキ",
+  "longName": "超絶鎖国御領 ナガサキ",
+  "flags": [
+   "isEvent",
+   "noClearMarkWithComplete",
+   "dispFirstQuest"
+  ],
+  "eventId": 80480,
+  "eventName": "踊るドラゴン・キャッスル！ \n～深海の姫君とふたつの宝玉～"
+ },
+ {
+  "id": 9171,
+  "coordinates": [
+   [],
+   []
+  ],
+  "age": "-",
+  "name": "幸福累計都市 ドバイ",
+  "longName": "幸福累計都市 ドバイ",
+  "flags": [
+   "isEvent",
+   "noClearMarkWithComplete",
+   "dispFirstQuest"
+  ],
+  "eventId": 80485,
+  "eventName": "ＢＢプレゼンツ☆セレブサマー・\nエクスペリエンス！ ～逆襲のドバイ～"
+ },
+ {
+  "id": 9172,
+  "coordinates": [
+   [],
+   []
+  ],
+  "age": "-",
+  "name": "双六盤虫空間 ガリトラップハウス",
+  "longName": "双六盤虫空間 ガリトラップハウス",
+  "flags": [
+   "isEvent",
+   "noClearMarkWithComplete",
+   "dispFirstQuest"
+  ],
+  "eventId": 80490,
+  "eventName": "妖精双六虫籠遊戯 \nまだ見ぬ完璧なあなたへ"
+ },
+ {
+  "id": 9173,
+  "coordinates": [
+   [],
+   []
+  ],
+  "age": "-",
+  "name": "Road To 7",
+  "longName": "Road To 7",
+  "flags": [
+   "isEvent",
+   "noClearMarkWithComplete",
+   "changeDispClosedMessage"
+  ],
+  "eventId": 80492,
+  "eventName": "リコレクションクエスト"
+ },
+ {
+  "id": 9174,
+  "coordinates": [
+   [],
+   []
+  ],
+  "age": "-",
+  "name": "-",
+  "longName": "-",
+  "flags": [
+   "isEvent",
+   "noClearMarkWithComplete",
+   "changeDispClosedMessage"
+  ],
+  "eventId": 80493,
+  "eventName": "リコレクションクエスト"
+ },
+ {
+  "id": 9175,
+  "coordinates": [
+   [
+    37.318333,
+    -121.950836
+   ],
+   [
+    24.631039,
+    -126.04622
+   ]
+  ],
+  "age": "-",
+  "name": "極大霊障建築A.C.L.",
+  "longName": "極大霊障建築A.C.L.",
+  "flags": [
+   "isEvent",
+   "noClearMarkWithComplete",
+   "dispFirstQuest"
+  ],
+  "eventId": 80494,
+  "eventName": "ぶち壊せ！ ミステリーハウス・クラフターズ \n～星の鉱員と日の出の翼～"
+ },
+ {
+  "id": 9182,
+  "coordinates": [
+   [],
+   []
+  ],
+  "age": "-",
+  "name": "-",
+  "longName": "-",
+  "flags": [
+   "isEvent",
+   "noClearMarkWithComplete",
+   "changeDispClosedMessage"
+  ],
+  "eventId": 80502,
+  "eventName": "リコレクションクエスト"
+ },
+ {
+  "id": 9184,
+  "coordinates": [
+   [],
+   []
+  ],
+  "age": "-",
+  "name": "-",
+  "longName": "-",
+  "flags": [
+   "isEvent",
+   "noClearMarkWithComplete",
+   "changeDispClosedMessage"
+  ],
+  "eventId": 80509,
+  "eventName": "リコレクションクエスト"
+ },
+ {
+  "id": 9185,
+  "coordinates": [
+   [],
+   []
+  ],
+  "age": "-",
+  "name": "蛇竜這行大地ランドサーペント",
+  "longName": "蛇竜這行大地ランドサーペント",
+  "flags": [
+   "isEvent",
+   "noClearMarkWithComplete",
+   "dispFirstQuest"
+  ],
+  "eventId": 80511,
+  "eventName": "育て！ マイ・リトル・ドラゴン ～鱗ある者たちの見る幻想～"
+ },
+ {
+  "id": 9188,
+  "coordinates": [
+   [],
+   []
+  ],
+  "age": "-",
+  "name": "",
+  "longName": "",
+  "flags": [
+   "isEvent",
+   "noClearMarkWithComplete",
+   "changeDispClosedMessage"
+  ],
+  "eventId": 80515,
+  "eventName": "リコレクションクエスト"
+ },
+ {
+  "id": 9189,
+  "coordinates": [
+   [],
+   []
+  ],
+  "age": "-",
+  "name": "幸福累計都市 ドバイ",
+  "longName": "幸福累計都市 ドバイ",
+  "flags": [
+   "isEvent",
+   "noClearMarkWithComplete",
+   "shop",
+   "dispFirstQuest"
+  ],
+  "eventId": 80518,
+  "eventName": "メイン・インタールード\nＢＢプレゼンツ☆セレブサマー・エクスペリエンス！"
+ },
+ {
+  "id": 9190,
+  "coordinates": [
+   [],
+   []
+  ],
+  "age": "",
+  "name": "",
+  "longName": "",
+  "flags": [
+   "isEvent",
+   "noClearMarkWithComplete",
+   "changeDispClosedMessage"
+  ],
+  "eventId": 80523,
+  "eventName": "リコレクションクエスト"
+ },
+ {
+  "id": 9191,
+  "coordinates": [
+   [],
+   []
+  ],
+  "age": "-",
+  "name": "-",
+  "longName": "-",
+  "flags": [
+   "isEvent",
+   "noClearMarkWithComplete",
+   "changeDispClosedMessage"
+  ],
+  "eventId": 80530,
+  "eventName": "リコレクションクエスト"
+ },
+ {
+  "id": 9192,
+  "coordinates": [
+   [
+    35.893803,
+    139.63374
+   ],
+   [
+    22.616783,
+    131.62119
+   ]
+  ],
+  "age": "-",
+  "name": "キ械維新都市SAITAMA",
+  "longName": "キ械維新都市SAITAMA",
+  "flags": [
+   "isEvent",
+   "noClearMarkWithComplete",
+   "changeDispClosedMessage"
+  ],
+  "eventId": 80534,
+  "eventName": "復刻:昭和キ神計画 ぐだぐだ龍馬危機一髪！ \n消えたノッブヘッドの謎 ライト版"
+ },
+ {
+  "id": 9193,
+  "coordinates": [
+   [
+    37.70667,
+    -23.80361
+   ],
+   [
+    19.939405,
+    -40.61676
+   ]
+  ],
+  "age": "-",
+  "name": "盛夏堪能王国 Ｕオルガマリーアイランド",
+  "longName": "盛夏堪能王国 Ｕオルガマリーアイランド",
+  "flags": [
+   "isEvent",
+   "noClearMarkWithComplete",
+   "dispFirstQuest"
+  ],
+  "eventId": 80558,
+  "eventName": "カルデア・Ｕ－サマーアイランド \n～大統領は夏の夢を見るか？～"
+ },
+ {
+  "id": 9194,
+  "coordinates": [
+   [
+    35.008945,
+    135.76988
+   ],
+   [
+    21.227306,
+    128.22058
+   ]
+  ],
+  "age": "-",
+  "name": "ぐだぐだ新選組・ジ・エンド",
+  "longName": "幕末チャンバラ神話　ぐだぐだ新選組・ジ・エンド　REVENGE　OF　MAKOTO",
+  "flags": [
+   "isEvent",
+   "noClearMarkWithComplete",
+   "dispFirstQuest"
+  ],
+  "eventId": 80576,
+  "eventName": "幕末チャンバラ神話 ぐだぐだ新選組・ジ・エンド \nREVENGE OF MAKOTO"
+ },
+ {
+  "id": 9195,
+  "coordinates": [
+   [],
+   []
+  ],
+  "age": "-",
+  "name": "完結南瓜惑星ハロウィンプラネット",
+  "longName": "完結南瓜惑星ハロウィンプラネット",
+  "flags": [
+   "isEvent",
+   "noClearMarkWithComplete",
+   "dispFirstQuest"
+  ],
+  "eventId": 80580,
+  "eventName": "ファイナル・ハロウィン2025\n～パンプキンプラネットに輝く歌姫～"
+ },
+ {
+  "id": 9196,
+  "coordinates": [
+   [],
+   []
+  ],
+  "age": "-",
+  "name": "所在不明水域タートルアイランド",
+  "longName": "所在不明水域タートルアイランド",
+  "flags": [
+   "isEvent",
+   "noClearMarkWithComplete"
+  ],
+  "eventId": 80606,
+  "eventName": "復刻:水怪クライシス 無垢なる者たちの浮島 ライト版"
+ },
+ {
+  "id": 9198,
+  "coordinates": [
+   [],
+   []
+  ],
+  "age": "-",
+  "name": "第六特異点？",
+  "longName": "第六特異点？",
+  "flags": [
+   "isEvent",
+   "noClearMarkWithComplete",
+   "dispFirstQuest",
+   "changeDispClosedMessage"
+  ],
+  "eventId": 80608,
+  "eventName": "剽滅十字前線 アンティオキア"
+ },
+ {
+  "id": 9201,
+  "coordinates": [
+   [
+    36.25195,
+    136.3743
+   ],
+   [
+    22.77391,
+    129.06323
+   ]
+  ],
+  "age": "-",
+  "name": "深山温泉大社・大割烹閻魔亭",
+  "longName": "深山温泉大社・大割烹閻魔亭",
+  "flags": [
+   "withMap",
+   "isEvent",
+   "noClearMarkWithComplete",
+   "changeDispClosedMessage"
+  ],
+  "eventId": 80611,
+  "eventName": "夏予習版:雀のお宿の活動日誌～閻魔亭繁盛記～"
+ },
+ {
+  "id": 9202,
+  "coordinates": [
+   [],
+   []
+  ],
+  "age": "-",
+  "name": "春の終わりに君を待つ",
+  "longName": "春の終わりに君を待つ",
+  "flags": [
+   "isEvent",
+   "noClearMarkWithComplete",
+   "dispFirstQuest",
+   "changeDispClosedMessage"
+  ],
+  "eventId": 80612,
+  "eventName": "春の終わりに君を待つ"
+ },
+ {
+  "id": 9204,
+  "coordinates": [
+   [],
+   []
+  ],
+  "age": "-",
+  "name": "カルデア学園祭",
+  "longName": "カルデア学園祭",
+  "flags": [
+   "isEvent",
+   "noClearMarkWithComplete",
+   "dispFirstQuest",
+   "changeDispClosedMessage"
+  ],
+  "eventId": 80613,
+  "eventName": "Fate/Grand Order ～11th Anniversary～"
+ },
+ {
+  "id": 9205,
+  "coordinates": [
+   [
+    26.304188,
+    127.75856
+   ],
+   [
+    11.108012,
+    120.98101
+   ]
+  ],
+  "age": "-",
+  "name": "カルデア南海大決戦！　～マジムンアイランドに謎の巨人の影を見た～",
+  "longName": "カルデア南海大決戦！　～マジムンアイランドに謎の巨人の影を見た～",
+  "flags": [
+   "isEvent",
+   "noClearMarkWithComplete",
+   "dispFirstQuest",
+   "changeDispClosedMessage"
+  ],
+  "eventId": 80614,
+  "eventName": "カルデア南海大決戦！ ～マジムンアイランドに謎の巨人の影を見た～"
+ },
+ {
+  "id": 9206,
+  "coordinates": [
+   [
+    35.68703,
+    139.7556
+   ],
+   [
+    22.422075,
+    131.84337
+   ]
+  ],
+  "age": "慶安四年",
+  "name": "夢幻泡影盈月",
+  "longName": "夢幻泡影盈月",
+  "flags": [
+   "isEvent",
+   "noClearMarkWithComplete",
+   "changeDispClosedMessage"
+  ],
+  "eventId": 80632,
+  "eventName": "復刻版:盈月剣風帖"
+ },
+ {
+  "id": 9208,
+  "coordinates": [
+   [
+    36.399746,
+    139.2696
+   ],
+   []
+  ],
+  "age": "-",
+  "name": "特N型生命圏 GUNMA",
+  "longName": "特N型生命圏 GUNMA",
+  "flags": [
+   "isEvent",
+   "noClearMarkWithComplete",
+   "dispFirstQuest",
+   "changeDispClosedMessage"
+  ],
+  "eventId": 80639,
+  "eventName": "真冬の水着スペシャル ぐだぐだぷにぷにウォーズ！\n～史上最低の爆弾娘～"
+ },
+ {
+  "id": 9999,
+  "coordinates": [
+   [],
+   []
+  ],
+  "age": "-",
+  "name": "カルデアゲート",
+  "longName": "カルデアゲート",
+  "flags": [],
+  "eventId": 0,
+  "eventName": ""
+ },
+ {
+  "id": 11000,
+  "coordinates": [
+   [],
+   []
+  ],
+  "age": "-",
+  "name": "メインレコード １",
+  "longName": "１／Observer on Timeless Temple",
+  "flags": [
+   "mainScenario"
+  ],
+  "eventId": 0,
+  "eventName": ""
+ },
+ {
+  "id": 12000,
+  "coordinates": [
+   [],
+   []
+  ],
+  "age": "-",
+  "name": "メインレコード 1.5",
+  "longName": "1.5／Epic of Remnant",
+  "flags": [
+   "mainScenario"
+  ],
+  "eventId": 0,
+  "eventName": ""
+ },
+ {
+  "id": 13000,
+  "coordinates": [
+   [],
+   []
+  ],
+  "age": "-",
+  "name": "メインレコード 2",
+  "longName": "２／Cosmos in the Lostbelt",
+  "flags": [
+   "mainScenario"
+  ],
+  "eventId": 0,
+  "eventName": ""
+ },
+ {
+  "id": 14000,
+  "coordinates": [
+   [],
+   []
+  ],
+  "age": "-",
+  "name": "-",
+  "longName": "奏章／Ordeal Call",
+  "flags": [
+   "mainScenario"
+  ],
+  "eventId": 0,
+  "eventName": ""
+ },
+ {
+  "id": 15000,
+  "coordinates": [
+   [],
+   []
+  ],
+  "age": "-",
+  "name": "-",
+  "longName": "終章",
+  "flags": [
+   "mainScenario"
+  ],
+  "eventId": 0,
+  "eventName": ""
+ },
+ {
+  "id": 16000,
+  "coordinates": [
+   [],
+   []
+  ],
+  "age": "-",
+  "name": "？？？",
+  "longName": "？？？",
+  "flags": [
+   "mainScenario"
+  ],
+  "eventId": 0,
+  "eventName": ""
+ },
+ {
+  "id": 40201,
+  "coordinates": [
+   [],
+   []
+  ],
+  "age": "-",
+  "name": "奏章Ⅰ",
+  "longName": "奏章Ⅰ 虚数羅針内界 ペーパームーン",
+  "flags": [
+   "mainScenario",
+   "dispFirstQuest",
+   "areaBoardShortcut"
+  ],
+  "eventId": 0,
+  "eventName": ""
+ },
+ {
+  "id": 40301,
+  "coordinates": [
+   [],
+   []
+  ],
+  "age": "-",
+  "name": "奏章Ⅱ",
+  "longName": "奏章Ⅱ 不可逆廃棄孔 イド",
+  "flags": [
+   "mainScenario",
+   "isWarIconLeft",
+   "dispFirstQuest",
+   "chapterSubIdJapaneseNumeralsNormal",
+   "areaBoardShortcut"
+  ],
+  "eventId": 0,
+  "eventName": ""
+ },
+ {
+  "id": 40401,
+  "coordinates": [
+   [],
+   []
+  ],
+  "age": "-",
+  "name": "奏章Ⅲ",
+  "longName": "奏章Ⅲ 新霊長後継戦 アーキタイプ・インセプション",
+  "flags": [
+   "mainScenario",
+   "dispFirstQuest",
+   "areaBoardShortcut"
+  ],
+  "eventId": 0,
+  "eventName": ""
+ },
+ {
+  "id": 40501,
+  "coordinates": [
+   [],
+   []
+  ],
+  "age": "-",
+  "name": "奏章Ⅳ",
+  "longName": "奏章Ⅳ 人類裁決法廷 トリニティ・メタトロニオス",
+  "flags": [
+   "mainScenario",
+   "isWarIconLeft",
+   "dispFirstQuest",
+   "changeDispClosedMessage",
+   "areaBoardShortcut"
+  ],
+  "eventId": 0,
+  "eventName": ""
+ },
+ {
+  "id": 40601,
+  "coordinates": [
+   [],
+   []
+  ],
+  "age": "-",
+  "name": "終章_序",
+  "longName": "終章_序",
+  "flags": [
+   "mainScenario",
+   "isWarIconLeft",
+   "dispFirstQuest",
+   "changeDispClosedMessage",
+   "areaBoardShortcut"
+  ],
+  "eventId": 0,
+  "eventName": ""
+ },
+ {
+  "id": 40701,
+  "coordinates": [
+   [],
+   []
+  ],
+  "age": "-",
+  "name": "終章",
+  "longName": "終章",
+  "flags": [
+   "mainScenario",
+   "isWarIconLeft",
+   "dispFirstQuest",
+   "changeDispClosedMessage",
+   "areaBoardShortcut"
+  ],
+  "eventId": 0,
+  "eventName": ""
+ },
+ {
+  "id": 841301,
+  "coordinates": [
+   [],
+   []
+  ],
+  "age": "-",
+  "name": "冠位名代戦\nエクストラ",
+  "longName": "冠位名代戦\nエクストラ",
+  "flags": [
+   "changeDispClosedMessage",
+   "areaBoardShortcut"
+  ],
+  "eventId": 0,
+  "eventName": ""
+ }
+]

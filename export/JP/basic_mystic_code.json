@@ -1,0 +1,226 @@
+[
+ {
+  "id": 1,
+  "name": "魔術礼装･カルデア",
+  "item": {
+   "male": "https://static.atlasacademy.io/JP/Items/masterequip00001.png",
+   "female": "https://static.atlasacademy.io/JP/Items/masterequip00002.png"
+  }
+ },
+ {
+  "id": 20,
+  "name": "魔術礼装･カルデア戦闘服",
+  "item": {
+   "male": "https://static.atlasacademy.io/JP/Items/masterequip00021.png",
+   "female": "https://static.atlasacademy.io/JP/Items/masterequip00022.png"
+  }
+ },
+ {
+  "id": 30,
+  "name": "魔術礼装･魔術協会制服",
+  "item": {
+   "male": "https://static.atlasacademy.io/JP/Items/masterequip00031.png",
+   "female": "https://static.atlasacademy.io/JP/Items/masterequip00032.png"
+  }
+ },
+ {
+  "id": 40,
+  "name": "魔術礼装･アトラス院制服",
+  "item": {
+   "male": "https://static.atlasacademy.io/JP/Items/masterequip00041.png",
+   "female": "https://static.atlasacademy.io/JP/Items/masterequip00042.png"
+  }
+ },
+ {
+  "id": 50,
+  "name": "アニバーサリー・ブロンド",
+  "item": {
+   "male": "https://static.atlasacademy.io/JP/Items/masterequip00051.png",
+   "female": "https://static.atlasacademy.io/JP/Items/masterequip00052.png"
+  }
+ },
+ {
+  "id": 60,
+  "name": "ロイヤルブランド",
+  "item": {
+   "male": "https://static.atlasacademy.io/JP/Items/masterequip00061.png",
+   "female": "https://static.atlasacademy.io/JP/Items/masterequip00062.png"
+  }
+ },
+ {
+  "id": 70,
+  "name": "ブリリアントサマー",
+  "item": {
+   "male": "https://static.atlasacademy.io/JP/Items/masterequip00071.png",
+   "female": "https://static.atlasacademy.io/JP/Items/masterequip00072.png"
+  }
+ },
+ {
+  "id": 80,
+  "name": "月の海の記憶",
+  "item": {
+   "male": "https://static.atlasacademy.io/JP/Items/masterequip00081.png",
+   "female": "https://static.atlasacademy.io/JP/Items/masterequip00082.png"
+  }
+ },
+ {
+  "id": 90,
+  "name": "月の裏側の記憶",
+  "item": {
+   "male": "https://static.atlasacademy.io/JP/Items/masterequip00091.png",
+   "female": "https://static.atlasacademy.io/JP/Items/masterequip00092.png"
+  }
+ },
+ {
+  "id": 100,
+  "name": "2004年の断片",
+  "item": {
+   "male": "https://static.atlasacademy.io/JP/Items/masterequip00101.png",
+   "female": "https://static.atlasacademy.io/JP/Items/masterequip00102.png"
+  }
+ },
+ {
+  "id": 110,
+  "name": "魔術礼装･極地用カルデア制服",
+  "item": {
+   "male": "https://static.atlasacademy.io/JP/Items/masterequip00111.png",
+   "female": "https://static.atlasacademy.io/JP/Items/masterequip00112.png"
+  }
+ },
+ {
+  "id": 120,
+  "name": "トロピカルサマー",
+  "item": {
+   "male": "https://static.atlasacademy.io/JP/Items/masterequip00121.png",
+   "female": "https://static.atlasacademy.io/JP/Items/masterequip00122.png"
+  }
+ },
+ {
+  "id": 130,
+  "name": "晴れの新年",
+  "item": {
+   "male": "https://static.atlasacademy.io/JP/Items/masterequip00131.png",
+   "female": "https://static.atlasacademy.io/JP/Items/masterequip00132.png"
+  }
+ },
+ {
+  "id": 150,
+  "name": "キャプテン・カルデア",
+  "item": {
+   "male": "https://static.atlasacademy.io/JP/Items/masterequip00151.png",
+   "female": "https://static.atlasacademy.io/JP/Items/masterequip00152.png"
+  }
+ },
+ {
+  "id": 160,
+  "name": "第五真説要素環境用カルデア制服",
+  "item": {
+   "male": "https://static.atlasacademy.io/JP/Items/masterequip00161.png",
+   "female": "https://static.atlasacademy.io/JP/Items/masterequip00162.png"
+  }
+ },
+ {
+  "id": 170,
+  "name": "カルデア・パスファインダー",
+  "item": {
+   "male": "https://static.atlasacademy.io/JP/Items/masterequip00171.png",
+   "female": "https://static.atlasacademy.io/JP/Items/masterequip00172.png"
+  }
+ },
+ {
+  "id": 190,
+  "name": "ハロウィン・ロイヤリティ",
+  "item": {
+   "male": "https://static.atlasacademy.io/JP/Items/masterequip00191.png",
+   "female": "https://static.atlasacademy.io/JP/Items/masterequip00192.png"
+  }
+ },
+ {
+  "id": 210,
+  "name": "決戦用カルデア制服",
+  "item": {
+   "male": "https://static.atlasacademy.io/JP/Items/masterequip00211.png",
+   "female": "https://static.atlasacademy.io/JP/Items/masterequip00212.png"
+  }
+ },
+ {
+  "id": 240,
+  "name": "総耶高校学生服",
+  "item": {
+   "male": "https://static.atlasacademy.io/JP/Items/masterequip00241.png",
+   "female": "https://static.atlasacademy.io/JP/Items/masterequip00242.png"
+  }
+ },
+ {
+  "id": 260,
+  "name": "新春の装い",
+  "item": {
+   "male": "https://static.atlasacademy.io/JP/Items/masterequip00261.png",
+   "female": "https://static.atlasacademy.io/JP/Items/masterequip00262.png"
+  }
+ },
+ {
+  "id": 330,
+  "name": "サマー・ストリート",
+  "item": {
+   "male": "https://static.atlasacademy.io/JP/Items/masterequip00331.png",
+   "female": "https://static.atlasacademy.io/JP/Items/masterequip00332.png"
+  }
+ },
+ {
+  "id": 340,
+  "name": "ホワイトクリスマス",
+  "item": {
+   "male": "https://static.atlasacademy.io/JP/Items/masterequip00341.png",
+   "female": "https://static.atlasacademy.io/JP/Items/masterequip00342.png"
+  }
+ },
+ {
+  "id": 360,
+  "name": "三咲高校学生服",
+  "item": {
+   "male": "https://static.atlasacademy.io/JP/Items/masterequip00361.png",
+   "female": "https://static.atlasacademy.io/JP/Items/masterequip00362.png"
+  }
+ },
+ {
+  "id": 410,
+  "name": "ウィンターカジュアル",
+  "item": {
+   "male": "https://static.atlasacademy.io/JP/Items/masterequip00411.png",
+   "female": "https://static.atlasacademy.io/JP/Items/masterequip00412.png"
+  }
+ },
+ {
+  "id": 430,
+  "name": "浅葱の隊服",
+  "item": {
+   "male": "https://static.atlasacademy.io/JP/Items/masterequip00431.png",
+   "female": "https://static.atlasacademy.io/JP/Items/masterequip00432.png"
+  }
+ },
+ {
+  "id": 440,
+  "name": "ノーマル・カルデア制服",
+  "item": {
+   "male": "https://static.atlasacademy.io/JP/Items/masterequip00441.png",
+   "female": "https://static.atlasacademy.io/JP/Items/masterequip00442.png"
+  }
+ },
+ {
+  "id": 460,
+  "name": "クラン・カラティン",
+  "item": {
+   "male": "https://static.atlasacademy.io/JP/Items/masterequip00461.png",
+   "female": "https://static.atlasacademy.io/JP/Items/masterequip00462.png"
+  }
+ },
+ {
+  "id": 470,
+  "name": "カルデア学園制服",
+  "item": {
+   "male": "https://static.atlasacademy.io/JP/Items/masterequip00471.png",
+   "female": "https://static.atlasacademy.io/JP/Items/masterequip00472.png"
+  }
+ }
+]
