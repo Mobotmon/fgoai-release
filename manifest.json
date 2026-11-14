@@ -1,110 +1,110 @@
 {
  "schema": 1,
- "built": "2026-11-14T01:31:15+09:00",
+ "built": "2026-11-14T14:28:29+09:00",
  "atlas": {
   "JP": 1794560472.0,
   "TW": 1794208834.0
  },
  "files": {
   "export/JP/basic_equip.json": {
-   "sha256": "b607964bc07cf9ad49bf1c23d654fb5a5637028c5b22886be17554010fd34268",
-   "size": 1003339
+   "sha256": "1585b51a4f80390ca537b0bb4668fc3069faad3a5f9166fd9fa9e40c093c967a",
+   "size": 962024
   },
   "export/JP/basic_event.json": {
-   "sha256": "9673394c5cc69ad1a7c8046d854a8e23abbfe751ba790a56a8990ed5944faf75",
-   "size": 414201
+   "sha256": "9ea3e9bb1f555fef096cce5f4ff73691e2f51ceecb1ef99412f5b1860a910b33",
+   "size": 397133
   },
   "export/JP/basic_mystic_code.json": {
-   "sha256": "7548e0e5bce5f65c583ff797251e11c51c86091e807b7328c4694b3b9435f9f9",
-   "size": 6619
+   "sha256": "d2180c6bcaceeadbe2f77c6664af17be0f443c3d5a65390faf84338a538729a8",
+   "size": 6393
   },
   "export/JP/basic_servant.json": {
-   "sha256": "9adb534bce4068022f78af81323c07300ac93c6d9e5f0c0513180727ab1d2d09",
-   "size": 826175
+   "sha256": "0fb780e83b860f775aad16750c5d404828f7a41ee50cb392eea6887dbf6885c4",
+   "size": 776977
   },
   "export/JP/basic_war.json": {
-   "sha256": "d6636d2d57b378fe12c17c6ab6fe89aa99c3d12832c688d7e69fed3157f56250",
-   "size": 89415
+   "sha256": "3e59f53d5bcd42d9b0d1df904aeebb622b25befdb56ef67607ea50ffda2447e9",
+   "size": 84990
   },
   "export/JP/nice_equip.json": {
-   "sha256": "7ac176c41a84809f2447467fd518bd9b477a1a2e6c2adbb4ff62460dc9ab5a8b",
-   "size": 35369466
+   "sha256": "9a4d5846cc7a8d56e47c6ba88dd155f6bc3c9c8319d19945be46a909fc50e417",
+   "size": 33367533
   },
   "export/JP/nice_item.json": {
-   "sha256": "52093c31f0e2fd7e18691d9569290e7b3e8f7096472544f311f2685eab5b9b88",
-   "size": 1530600
+   "sha256": "8d5388447d711ab93f32792f6bf27db84ec56c596856685649ae112bf5aa5a3a",
+   "size": 1475737
   },
   "export/JP/nice_mystic_code.json": {
-   "sha256": "e126e12a7772be3afe03870791d3011661fce2dd3f72ac98b6cb4e62a942c714",
-   "size": 383922
+   "sha256": "4deb5adcb9768974a60bdd5fb6a4c44c448dd596f71905ea7440f314daa99cb9",
+   "size": 366449
   },
   "export/JP/nice_trait.json": {
-   "sha256": "58e027a606702809349ec831387fd48c9d078dbe256cff4d5c48379166f63317",
-   "size": 10517
+   "sha256": "80c921de938ce002ff623db2ffe80995a85bc4be4482987858776716a4f2bef9",
+   "size": 10155
   },
   "export/JP/nice_war.json": {
-   "sha256": "34b9f1dbee904cedb8407c27740548ad91ccd1ebfcc8a906c9b66f2dac74b2e6",
-   "size": 39244189
+   "sha256": "0b2c15a106bb4a05ba3361701cf54667816240b218ed9d26b776a710df3e267a",
+   "size": 37681639
   },
   "export/JP/NiceAttributeRelation.json": {
-   "sha256": "a7e69fce5a79bdc2f6a0b02184a9319f875a67da6881cd81cee63c92f38ef033",
-   "size": 519
+   "sha256": "15fe879013b2fc092ec5549ab4396f93de09bf923d5ccda15b9bb8ed5c23a68f",
+   "size": 482
   },
   "export/JP/NiceClassAttackRate.json": {
-   "sha256": "58589f39b830ab69eec75a7b12a6392ec16f10a21ea097be0e98e2aa4d209d28",
-   "size": 1915
+   "sha256": "ea21c4716e36751cb6049ce1e238232991f7c67dcee432ac09d9fb9231b64212",
+   "size": 1829
   },
   "export/JP/NiceClassRelation.json": {
-   "sha256": "4c55551a7386233c4f4c290e81f061a07f44a02e07f4c1caacc0acdeac89da64",
-   "size": 115733
+   "sha256": "e77709b0d9ac71f7e84eac487480c8fbea67275d47efb545f0447e0b125ed86e",
+   "size": 111104
   },
   "export/TW/basic_equip.json": {
-   "sha256": "d4bb718b0e1d7db8a001669d9e7f5713c42263f0c1e476de1de59f80c67834fe",
-   "size": 788714
+   "sha256": "f970fabcb330f10c30c1d42266ffad8df2be5e51a85ce264dcb8cb5fad744dca",
+   "size": 754961
   },
   "export/TW/basic_event.json": {
-   "sha256": "43dec86a14247dbfddc8c9694cdccb61b6e66898f0d73a351d8aab75e1e543ce",
-   "size": 337518
+   "sha256": "9ff99ce86a434d21265189eecfb50d2df79b7e4d22fdc703259bcae25093c193",
+   "size": 323747
   },
   "export/TW/basic_mystic_code.json": {
-   "sha256": "de668d32af2b55cc1aae5fc1d845db0a6b2e83de4cdd73ccbf2414662bd2fbe5",
-   "size": 5504
+   "sha256": "6bc7380bed75502e00e4fbcc8677a0c148ae5ce119edc6b62dabd306cff65edd",
+   "size": 5310
   },
   "export/TW/basic_servant.json": {
-   "sha256": "cd23249103d6cb9a46de9503f07c30a0aaf7ada4176b885bef8c692f9ac13538",
-   "size": 718336
+   "sha256": "5000b9b99f4a41f8a8acfbffc6da41699aadc293f25d16ff34b122c565c4ad2f",
+   "size": 675143
   },
   "export/TW/basic_war.json": {
-   "sha256": "0a66716ce9bdbbc582f0122c4da4f6ef4ee54587443a5bf93eab9d596ac07f8a",
-   "size": 69315
+   "sha256": "caf159545109349ef1c79b61dcf8e4361824b2b766a1a8c0e2f2351bd4362120",
+   "size": 65607
   },
   "export/TW/nice_equip.json": {
-   "sha256": "019a29b2bdc5594704052a7e878f0572bb8ffdaf05b87f8a117826a2cbfc9801",
-   "size": 28557491
+   "sha256": "c48e79c5805c0c26495729cd53c19804f887386e71e12ae436de0835abb46ca4",
+   "size": 26907309
   },
   "export/TW/nice_item.json": {
-   "sha256": "b93848e43a115b003dae78d778239650d96f2a1e995ac4a3e3853879dfc3e06f",
-   "size": 1236796
+   "sha256": "af60fbedb1988652e045aa65f57ca0d835f7fa6b0d84180016a0d7fe58892c51",
+   "size": 1188602
   },
   "export/TW/nice_mystic_code.json": {
-   "sha256": "637ef4750e89631422395a22c76dd8aa0fd609b393cd3925341791692a102211",
-   "size": 303804
+   "sha256": "313a33eab638f5400393506f1006fa77fc6f96de786a2c4e0498439957345e5f",
+   "size": 289846
   },
   "export/TW/nice_war.json": {
-   "sha256": "a8859661d0d5740133885dd685c9c581e7b34c69a5b10aa74977bc87fc955d17",
-   "size": 34427927
+   "sha256": "6803626f247a3d39539bd06074053aa56aea5170c457cffec65ea7cc310c9db2",
+   "size": 33038298
   },
   "export/TW/NiceAttributeRelation.json": {
-   "sha256": "a7e69fce5a79bdc2f6a0b02184a9319f875a67da6881cd81cee63c92f38ef033",
-   "size": 519
+   "sha256": "15fe879013b2fc092ec5549ab4396f93de09bf923d5ccda15b9bb8ed5c23a68f",
+   "size": 482
   },
   "export/TW/NiceClassAttackRate.json": {
-   "sha256": "d627156684c386e95df279964405735c8e1c7f7d2e6989413979fdf364578ece",
-   "size": 1461
+   "sha256": "0bd4d8a130c8f9388c94785d5f8d4d4f8e56d9382c8473ef088bcab36b09e23d",
+   "size": 1394
   },
   "export/TW/NiceClassRelation.json": {
-   "sha256": "61df13f90ff1f330ca068bae4f4cf753019fbc791bc37bced5242528d7f32724",
-   "size": 73715
+   "sha256": "a6604fea8767f8f1bcbd5b5117f582e6d0870298f00ab8763f4dbbd1e88e77d2",
+   "size": 70672
   },
   "faces/f_10001000.png": {
    "sha256": "bbdf9f6433520916a4fff013703c6bf8ea731cc04c45df5a7c340de9304d151f",
@@ -19199,20 +19199,20 @@
    "size": 32299
   },
   "faces/JP/index.json": {
-   "sha256": "7efbb9e42186ecd468952de58b156822110e0952a799103e9c7c05b84bccd2be",
-   "size": 40231
+   "sha256": "e5882a3edcc24e3d17183c9854aaaaada64acd7bb3457869c8da7cfb8e5ff580",
+   "size": 37229
   },
   "faces/JP/missing.json": {
-   "sha256": "38ffd51db836dbbc936ae01f4d12280684a351607f21d2392b8068476d2d254b",
-   "size": 20
+   "sha256": "dec8c06e945afd74d4535f86795761eb93a7f04c1c5d950aaf9a5578fdadc97a",
+   "size": 17
   },
   "faces/TW/index.json": {
-   "sha256": "5274c09c934af92d20db8fc88c3e6f3bd3979f922f0e09396b65a22a6bda50f2",
-   "size": 35885
+   "sha256": "9c1979f0be65ac1d85f90f66b1545404a1e4eaa919ef18d4a782b2b4809224ad",
+   "size": 33200
   },
   "faces/TW/missing.json": {
-   "sha256": "a5338d955b09046ec0b16f3a9625b7955c763aae07dc722e474e6078745f932f",
-   "size": 4
+   "sha256": "37517e5f3dc66819f61f5a7bb8ace1921282415f10551d2defa5c3eb0985b570",
+   "size": 3
   },
   "servant_table/servants_JP.json": {
    "sha256": "4066c361a2a5a2c690bbfcccfed5ebc2941a6114afbf01f31bebe507b7e9668d",
