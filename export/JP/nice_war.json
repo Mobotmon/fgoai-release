@@ -217462,7 +217462,11 @@
        2,
        3
       ],
-      "phasesWithEnemies": [],
+      "phasesWithEnemies": [
+       1,
+       2,
+       3
+      ],
       "phasesNoBattle": [],
       "phaseScripts": [],
       "priority": 94164501,
@@ -1503527,6 +1503531,384 @@
       "actionEffectId": 0,
       "startedAt": 946652400,
       "endedAt": 1893423600
+     },
+     {
+      "id": 920818,
+      "image": "https://static.atlasacademy.io/JP/Terminal/QuestMap/Capter9208/QMap_Cap9208_Atlas/gimmick_920818.png",
+      "x": 1366,
+      "y": 1600,
+      "depthOffset": -1,
+      "scale": 1000,
+      "dispCondType": "itemGet",
+      "dispTargetId": 94164009,
+      "dispTargetValue": 1,
+      "dispCondType2": "useItemEternity",
+      "dispTargetId2": 94164009,
+      "dispTargetValue2": 1,
+      "actionAnimTime": -1,
+      "actionEffectId": 0,
+      "startedAt": 946652400,
+      "endedAt": 1893423600
+     },
+     {
+      "id": 920819,
+      "image": "https://static.atlasacademy.io/JP/Terminal/QuestMap/Capter9208/QMap_Cap9208_Atlas/gimmick_920819.png",
+      "x": 988,
+      "y": 1650,
+      "depthOffset": -1,
+      "scale": 1000,
+      "dispCondType": "itemGet",
+      "dispTargetId": 94164009,
+      "dispTargetValue": 1,
+      "dispCondType2": "useItemEternity",
+      "dispTargetId2": 94164009,
+      "dispTargetValue2": 1,
+      "actionAnimTime": -1,
+      "actionEffectId": 0,
+      "startedAt": 946652400,
+      "endedAt": 1893423600
+     },
+     {
+      "id": 920820,
+      "image": "https://static.atlasacademy.io/JP/Terminal/QuestMap/Capter9208/QMap_Cap9208_Atlas/gimmick_920820.png",
+      "x": 424,
+      "y": 1379,
+      "depthOffset": -1,
+      "scale": 1000,
+      "dispCondType": "itemGet",
+      "dispTargetId": 94164009,
+      "dispTargetValue": 1,
+      "dispCondType2": "useItemEternity",
+      "dispTargetId2": 94164009,
+      "dispTargetValue2": 1,
+      "actionAnimTime": -1,
+      "actionEffectId": 0,
+      "startedAt": 946652400,
+      "endedAt": 1893423600
+     },
+     {
+      "id": 920821,
+      "image": "https://static.atlasacademy.io/JP/Terminal/QuestMap/Capter9208/QMap_Cap9208_Atlas/gimmick_920821.png",
+      "x": 1278,
+      "y": 1263,
+      "depthOffset": -1,
+      "scale": 1000,
+      "dispCondType": "masterMission",
+      "dispTargetId": 10164002,
+      "dispTargetValue": 1,
+      "dispCondType2": "questClear",
+      "dispTargetId2": 0,
+      "dispTargetValue2": 0,
+      "actionAnimTime": -1,
+      "actionEffectId": 0,
+      "startedAt": 946652400,
+      "endedAt": 1893423600
+     },
+     {
+      "id": 920822,
+      "image": "https://static.atlasacademy.io/JP/Terminal/QuestMap/Capter9208/QMap_Cap9208_Atlas/gimmick_920822.png",
+      "x": 822,
+      "y": 1452,
+      "depthOffset": -1,
+      "scale": 1000,
+      "dispCondType": "itemGet",
+      "dispTargetId": 94164009,
+      "dispTargetValue": 1,
+      "dispCondType2": "useItemEternity",
+      "dispTargetId2": 94164009,
+      "dispTargetValue2": 1,
+      "actionAnimTime": -1,
+      "actionEffectId": 0,
+      "startedAt": 946652400,
+      "endedAt": 1893423600
+     },
+     {
+      "id": 920823,
+      "image": "https://static.atlasacademy.io/JP/Terminal/QuestMap/Capter9208/QMap_Cap9208_Atlas/gimmick_920823.png",
+      "x": 830,
+      "y": 1150,
+      "depthOffset": -1,
+      "scale": 1000,
+      "dispCondType": "itemGet",
+      "dispTargetId": 94164009,
+      "dispTargetValue": 1,
+      "dispCondType2": "useItemEternity",
+      "dispTargetId2": 94164009,
+      "dispTargetValue2": 1,
+      "actionAnimTime": -1,
+      "actionEffectId": 0,
+      "startedAt": 946652400,
+      "endedAt": 1893423600
+     },
+     {
+      "id": 920824,
+      "image": "https://static.atlasacademy.io/JP/Terminal/QuestMap/Capter9208/QMap_Cap9208_Atlas/gimmick_920824.png",
+      "x": 648,
+      "y": 1750,
+      "depthOffset": -1,
+      "scale": 1000,
+      "dispCondType": "itemGet",
+      "dispTargetId": 94164009,
+      "dispTargetValue": 1,
+      "dispCondType2": "useItemEternity",
+      "dispTargetId2": 94164009,
+      "dispTargetValue2": 1,
+      "actionAnimTime": -1,
+      "actionEffectId": 0,
+      "startedAt": 946652400,
+      "endedAt": 1893423600
+     },
+     {
+      "id": 920826,
+      "image": "https://static.atlasacademy.io/JP/Terminal/QuestMap/Capter9208/QMap_Cap9208_Atlas/gimmick_920826.png",
+      "x": 1366,
+      "y": 1600,
+      "depthOffset": -1,
+      "scale": 1000,
+      "dispCondType": "masterMission",
+      "dispTargetId": 10164003,
+      "dispTargetValue": 1,
+      "dispCondType2": "questClear",
+      "dispTargetId2": 0,
+      "dispTargetValue2": 0,
+      "actionAnimTime": -1,
+      "actionEffectId": 0,
+      "startedAt": 946652400,
+      "endedAt": 1893423600
+     },
+     {
+      "id": 920827,
+      "image": "https://static.atlasacademy.io/JP/Terminal/QuestMap/Capter9208/QMap_Cap9208_Atlas/gimmick_920827.png",
+      "x": 988,
+      "y": 1650,
+      "depthOffset": -1,
+      "scale": 1000,
+      "dispCondType": "masterMission",
+      "dispTargetId": 10164004,
+      "dispTargetValue": 1,
+      "dispCondType2": "questClear",
+      "dispTargetId2": 0,
+      "dispTargetValue2": 0,
+      "actionAnimTime": -1,
+      "actionEffectId": 0,
+      "startedAt": 946652400,
+      "endedAt": 1893423600
+     },
+     {
+      "id": 920828,
+      "image": "https://static.atlasacademy.io/JP/Terminal/QuestMap/Capter9208/QMap_Cap9208_Atlas/gimmick_920828.png",
+      "x": 424,
+      "y": 1379,
+      "depthOffset": -1,
+      "scale": 1000,
+      "dispCondType": "masterMission",
+      "dispTargetId": 10164005,
+      "dispTargetValue": 1,
+      "dispCondType2": "questClear",
+      "dispTargetId2": 0,
+      "dispTargetValue2": 0,
+      "actionAnimTime": -1,
+      "actionEffectId": 0,
+      "startedAt": 946652400,
+      "endedAt": 1893423600
+     },
+     {
+      "id": 920829,
+      "image": "https://static.atlasacademy.io/JP/Terminal/QuestMap/Capter9208/QMap_Cap9208_Atlas/gimmick_920829.png",
+      "x": 1278,
+      "y": 1263,
+      "depthOffset": -1,
+      "scale": 1000,
+      "dispCondType": "masterMission",
+      "dispTargetId": 10164006,
+      "dispTargetValue": 1,
+      "dispCondType2": "questClear",
+      "dispTargetId2": 0,
+      "dispTargetValue2": 0,
+      "actionAnimTime": -1,
+      "actionEffectId": 0,
+      "startedAt": 946652400,
+      "endedAt": 1893423600
+     },
+     {
+      "id": 920830,
+      "image": "https://static.atlasacademy.io/JP/Terminal/QuestMap/Capter9208/QMap_Cap9208_Atlas/gimmick_920830.png",
+      "x": 822,
+      "y": 1452,
+      "depthOffset": -1,
+      "scale": 1000,
+      "dispCondType": "masterMission",
+      "dispTargetId": 10164007,
+      "dispTargetValue": 1,
+      "dispCondType2": "questClear",
+      "dispTargetId2": 0,
+      "dispTargetValue2": 0,
+      "actionAnimTime": -1,
+      "actionEffectId": 0,
+      "startedAt": 946652400,
+      "endedAt": 1893423600
+     },
+     {
+      "id": 920831,
+      "image": "https://static.atlasacademy.io/JP/Terminal/QuestMap/Capter9208/QMap_Cap9208_Atlas/gimmick_920831.png",
+      "x": 830,
+      "y": 1150,
+      "depthOffset": -1,
+      "scale": 1000,
+      "dispCondType": "masterMission",
+      "dispTargetId": 10164008,
+      "dispTargetValue": 1,
+      "dispCondType2": "questClear",
+      "dispTargetId2": 0,
+      "dispTargetValue2": 0,
+      "actionAnimTime": -1,
+      "actionEffectId": 0,
+      "startedAt": 946652400,
+      "endedAt": 1893423600
+     },
+     {
+      "id": 920832,
+      "image": "https://static.atlasacademy.io/JP/Terminal/QuestMap/Capter9208/QMap_Cap9208_Atlas/gimmick_920832.png",
+      "x": 648,
+      "y": 1750,
+      "depthOffset": -1,
+      "scale": 1000,
+      "dispCondType": "masterMission",
+      "dispTargetId": 10164009,
+      "dispTargetValue": 1,
+      "dispCondType2": "questClear",
+      "dispTargetId2": 0,
+      "dispTargetValue2": 0,
+      "actionAnimTime": -1,
+      "actionEffectId": 0,
+      "startedAt": 946652400,
+      "endedAt": 1893423600
+     },
+     {
+      "id": 920833,
+      "image": "https://static.atlasacademy.io/JP/Terminal/QuestMap/Capter9208/QMap_Cap9208_Atlas/gimmick_920833.png",
+      "x": 1366,
+      "y": 1600,
+      "depthOffset": -1,
+      "scale": 1000,
+      "dispCondType": "itemGet",
+      "dispTargetId": 94164600,
+      "dispTargetValue": 1,
+      "dispCondType2": "useItemEternity",
+      "dispTargetId2": 94164600,
+      "dispTargetValue2": 1,
+      "actionAnimTime": -1,
+      "actionEffectId": 0,
+      "startedAt": 946652400,
+      "endedAt": 1893423600
+     },
+     {
+      "id": 920834,
+      "image": "https://static.atlasacademy.io/JP/Terminal/QuestMap/Capter9208/QMap_Cap9208_Atlas/gimmick_920834.png",
+      "x": 988,
+      "y": 1650,
+      "depthOffset": -1,
+      "scale": 1000,
+      "dispCondType": "itemGet",
+      "dispTargetId": 94164601,
+      "dispTargetValue": 1,
+      "dispCondType2": "useItemEternity",
+      "dispTargetId2": 94164601,
+      "dispTargetValue2": 1,
+      "actionAnimTime": -1,
+      "actionEffectId": 0,
+      "startedAt": 946652400,
+      "endedAt": 1893423600
+     },
+     {
+      "id": 920835,
+      "image": "https://static.atlasacademy.io/JP/Terminal/QuestMap/Capter9208/QMap_Cap9208_Atlas/gimmick_920835.png",
+      "x": 424,
+      "y": 1379,
+      "depthOffset": -1,
+      "scale": 1000,
+      "dispCondType": "itemGet",
+      "dispTargetId": 94164602,
+      "dispTargetValue": 1,
+      "dispCondType2": "useItemEternity",
+      "dispTargetId2": 94164602,
+      "dispTargetValue2": 1,
+      "actionAnimTime": -1,
+      "actionEffectId": 0,
+      "startedAt": 946652400,
+      "endedAt": 1893423600
+     },
+     {
+      "id": 920836,
+      "image": "https://static.atlasacademy.io/JP/Terminal/QuestMap/Capter9208/QMap_Cap9208_Atlas/gimmick_920836.png",
+      "x": 1278,
+      "y": 1263,
+      "depthOffset": -1,
+      "scale": 1000,
+      "dispCondType": "itemGet",
+      "dispTargetId": 94164606,
+      "dispTargetValue": 1,
+      "dispCondType2": "useItemEternity",
+      "dispTargetId2": 94164606,
+      "dispTargetValue2": 1,
+      "actionAnimTime": -1,
+      "actionEffectId": 0,
+      "startedAt": 946652400,
+      "endedAt": 1893423600
+     },
+     {
+      "id": 920837,
+      "image": "https://static.atlasacademy.io/JP/Terminal/QuestMap/Capter9208/QMap_Cap9208_Atlas/gimmick_920837.png",
+      "x": 822,
+      "y": 1452,
+      "depthOffset": -1,
+      "scale": 1000,
+      "dispCondType": "itemGet",
+      "dispTargetId": 94164603,
+      "dispTargetValue": 1,
+      "dispCondType2": "useItemEternity",
+      "dispTargetId2": 94164603,
+      "dispTargetValue2": 1,
+      "actionAnimTime": -1,
+      "actionEffectId": 0,
+      "startedAt": 946652400,
+      "endedAt": 1893423600
+     },
+     {
+      "id": 920838,
+      "image": "https://static.atlasacademy.io/JP/Terminal/QuestMap/Capter9208/QMap_Cap9208_Atlas/gimmick_920838.png",
+      "x": 830,
+      "y": 1150,
+      "depthOffset": -1,
+      "scale": 1000,
+      "dispCondType": "itemGet",
+      "dispTargetId": 94164604,
+      "dispTargetValue": 1,
+      "dispCondType2": "useItemEternity",
+      "dispTargetId2": 94164604,
+      "dispTargetValue2": 1,
+      "actionAnimTime": -1,
+      "actionEffectId": 0,
+      "startedAt": 946652400,
+      "endedAt": 1893423600
+     },
+     {
+      "id": 920839,
+      "image": "https://static.atlasacademy.io/JP/Terminal/QuestMap/Capter9208/QMap_Cap9208_Atlas/gimmick_920839.png",
+      "x": 648,
+      "y": 1750,
+      "depthOffset": -1,
+      "scale": 1000,
+      "dispCondType": "itemGet",
+      "dispTargetId": 94164605,
+      "dispTargetValue": 1,
+      "dispCondType2": "useItemEternity",
+      "dispTargetId2": 94164605,
+      "dispTargetValue2": 1,
+      "actionAnimTime": -1,
+      "actionEffectId": 0,
+      "startedAt": 946652400,
+      "endedAt": 1893423600
      }
     ],
     "bgm": {
@@ -1504575,7 +1504957,9 @@
       "phases": [
        1
       ],
-      "phasesWithEnemies": [],
+      "phasesWithEnemies": [
+       1
+      ],
       "phasesNoBattle": [],
       "phaseScripts": [],
       "priority": 94164024,
@@ -1504814,7 +1505198,9 @@
        1,
        2
       ],
-      "phasesWithEnemies": [],
+      "phasesWithEnemies": [
+       2
+      ],
       "phasesNoBattle": [
        1
       ],
@@ -1504845,6 +1505231,2896 @@
       "priority": 94164092,
       "noticeAt": 1794560400,
       "openedAt": 1794560400,
+      "closedAt": 1796183999
+     }
+    ]
+   },
+   {
+    "id": 920710,
+    "blankEarth": false,
+    "joinSpotIds": [],
+    "mapId": 9209,
+    "name": "スラノッブの群れ",
+    "originalName": "スラノッブの群れ",
+    "image": "https://static.atlasacademy.io/JP/Terminal/QuestMap/Capter9208/QMap_Cap9208_Atlas/spot_920710.png",
+    "x": 1366.0,
+    "y": 1600.0,
+    "imageOfsX": 0,
+    "imageOfsY": 0,
+    "nameOfsX": 0,
+    "nameOfsY": -13,
+    "questOfsX": 37,
+    "questOfsY": -91,
+    "nextOfsX": 0,
+    "nextOfsY": 0,
+    "closedMessage": "",
+    "spotAdds": [],
+    "quests": [
+     {
+      "id": 94164200,
+      "name": "スラノッブの群れ ぷにぷに戦〔さらさら級〕",
+      "originalName": "スラノッブの群れ ぷにぷに戦〔さらさら級〕",
+      "type": "event",
+      "flags": [
+       "raid",
+       "raidConnection",
+       "noDisplayRaidRemain"
+      ],
+      "consumeType": "ap",
+      "consume": 40,
+      "consumeItem": [],
+      "afterClear": "repeatLast",
+      "recommendLv": "70",
+      "spotId": 920710,
+      "spotName": "スラノッブの群れ",
+      "warId": 9208,
+      "warLongName": "特N型生命圏 GUNMA",
+      "chapterId": 0,
+      "chapterSubId": 0,
+      "chapterSubStr": "",
+      "gifts": [],
+      "groups": [
+       {
+        "type": "eventQuest",
+        "groupId": 80639
+       }
+      ],
+      "releaseConditions": [
+       {
+        "type": "questClear",
+        "targetId": 94164009,
+        "value": 0,
+        "closedMessage": ""
+       },
+       {
+        "type": "date",
+        "targetId": 0,
+        "value": 0,
+        "closedMessage": "{0}月{1}日{2:D2}時{3:D2}分に開放"
+       },
+       {
+        "type": "raidAlive",
+        "targetId": 80639,
+        "value": 1,
+        "closedMessage": ""
+       }
+      ],
+      "releaseOverwrites": [],
+      "presents": [],
+      "phases": [
+       1
+      ],
+      "phasesWithEnemies": [],
+      "phasesNoBattle": [],
+      "phaseScripts": [],
+      "priority": 94164064,
+      "noticeAt": 1794646800,
+      "openedAt": 1794650400,
+      "closedAt": 1796183999
+     },
+     {
+      "id": 94164201,
+      "name": "スラノッブの群れ ぷにぷに戦〔とろとろ級〕",
+      "originalName": "スラノッブの群れ ぷにぷに戦〔とろとろ級〕",
+      "type": "event",
+      "flags": [
+       "raid",
+       "raidConnection",
+       "noDisplayRaidRemain"
+      ],
+      "consumeType": "ap",
+      "consume": 40,
+      "consumeItem": [],
+      "afterClear": "repeatLast",
+      "recommendLv": "90",
+      "spotId": 920710,
+      "spotName": "スラノッブの群れ",
+      "warId": 9208,
+      "warLongName": "特N型生命圏 GUNMA",
+      "chapterId": 0,
+      "chapterSubId": 0,
+      "chapterSubStr": "",
+      "gifts": [],
+      "groups": [
+       {
+        "type": "eventQuest",
+        "groupId": 80639
+       }
+      ],
+      "releaseConditions": [
+       {
+        "type": "questClear",
+        "targetId": 94164009,
+        "value": 0,
+        "closedMessage": ""
+       },
+       {
+        "type": "date",
+        "targetId": 0,
+        "value": 0,
+        "closedMessage": "{0}月{1}日{2:D2}時{3:D2}分に開放"
+       },
+       {
+        "type": "raidAlive",
+        "targetId": 80639,
+        "value": 1,
+        "closedMessage": ""
+       }
+      ],
+      "releaseOverwrites": [],
+      "presents": [],
+      "phases": [
+       1
+      ],
+      "phasesWithEnemies": [],
+      "phasesNoBattle": [],
+      "phaseScripts": [],
+      "priority": 94164063,
+      "noticeAt": 1794646800,
+      "openedAt": 1794650400,
+      "closedAt": 1796183999
+     },
+     {
+      "id": 94164202,
+      "name": "スラノッブの群れ ぷにぷに戦〔ぬるぬる級〕",
+      "originalName": "スラノッブの群れ ぷにぷに戦〔ぬるぬる級〕",
+      "type": "event",
+      "flags": [
+       "raid",
+       "raidConnection",
+       "noDisplayRaidRemain"
+      ],
+      "consumeType": "ap",
+      "consume": 40,
+      "consumeItem": [],
+      "afterClear": "repeatLast",
+      "recommendLv": "90+",
+      "spotId": 920710,
+      "spotName": "スラノッブの群れ",
+      "warId": 9208,
+      "warLongName": "特N型生命圏 GUNMA",
+      "chapterId": 0,
+      "chapterSubId": 0,
+      "chapterSubStr": "",
+      "gifts": [],
+      "groups": [
+       {
+        "type": "eventQuest",
+        "groupId": 80639
+       }
+      ],
+      "releaseConditions": [
+       {
+        "type": "questClear",
+        "targetId": 94164009,
+        "value": 0,
+        "closedMessage": ""
+       },
+       {
+        "type": "date",
+        "targetId": 0,
+        "value": 0,
+        "closedMessage": "{0}月{1}日{2:D2}時{3:D2}分に開放"
+       },
+       {
+        "type": "raidAlive",
+        "targetId": 80639,
+        "value": 1,
+        "closedMessage": ""
+       }
+      ],
+      "releaseOverwrites": [],
+      "presents": [],
+      "phases": [
+       1
+      ],
+      "phasesWithEnemies": [],
+      "phasesNoBattle": [],
+      "phaseScripts": [],
+      "priority": 94164062,
+      "noticeAt": 1794646800,
+      "openedAt": 1794650400,
+      "closedAt": 1796183999
+     },
+     {
+      "id": 94164203,
+      "name": "スラノッブの群れ ぷにぷに戦〔ぺたぺた級〕",
+      "originalName": "スラノッブの群れ ぷにぷに戦〔ぺたぺた級〕",
+      "type": "event",
+      "flags": [
+       "raid",
+       "raidConnection",
+       "noDisplayRaidRemain"
+      ],
+      "consumeType": "ap",
+      "consume": 40,
+      "consumeItem": [],
+      "afterClear": "repeatLast",
+      "recommendLv": "90++",
+      "spotId": 920710,
+      "spotName": "スラノッブの群れ",
+      "warId": 9208,
+      "warLongName": "特N型生命圏 GUNMA",
+      "chapterId": 0,
+      "chapterSubId": 0,
+      "chapterSubStr": "",
+      "gifts": [],
+      "groups": [
+       {
+        "type": "eventQuest",
+        "groupId": 80639
+       }
+      ],
+      "releaseConditions": [
+       {
+        "type": "questClear",
+        "targetId": 94164009,
+        "value": 0,
+        "closedMessage": ""
+       },
+       {
+        "type": "date",
+        "targetId": 0,
+        "value": 0,
+        "closedMessage": "{0}月{1}日{2:D2}時{3:D2}分に開放"
+       },
+       {
+        "type": "raidAlive",
+        "targetId": 80639,
+        "value": 1,
+        "closedMessage": ""
+       }
+      ],
+      "releaseOverwrites": [],
+      "presents": [],
+      "phases": [
+       1
+      ],
+      "phasesWithEnemies": [],
+      "phasesNoBattle": [],
+      "phaseScripts": [],
+      "priority": 94164061,
+      "noticeAt": 1794646800,
+      "openedAt": 1794650400,
+      "closedAt": 1796183999
+     },
+     {
+      "id": 94164204,
+      "name": "スラノッブの群れ ぷにぷに戦〔ねばねば級〕",
+      "originalName": "スラノッブの群れ ぷにぷに戦〔ねばねば級〕",
+      "type": "event",
+      "flags": [
+       "raid",
+       "raidConnection",
+       "noDisplayRaidRemain"
+      ],
+      "consumeType": "ap",
+      "consume": 40,
+      "consumeItem": [],
+      "afterClear": "repeatLast",
+      "recommendLv": "90+++",
+      "spotId": 920710,
+      "spotName": "スラノッブの群れ",
+      "warId": 9208,
+      "warLongName": "特N型生命圏 GUNMA",
+      "chapterId": 0,
+      "chapterSubId": 0,
+      "chapterSubStr": "",
+      "gifts": [],
+      "groups": [
+       {
+        "type": "eventQuest",
+        "groupId": 80639
+       }
+      ],
+      "releaseConditions": [
+       {
+        "type": "questClear",
+        "targetId": 94164009,
+        "value": 0,
+        "closedMessage": ""
+       },
+       {
+        "type": "date",
+        "targetId": 0,
+        "value": 0,
+        "closedMessage": "{0}月{1}日{2:D2}時{3:D2}分に開放"
+       },
+       {
+        "type": "raidAlive",
+        "targetId": 80639,
+        "value": 1,
+        "closedMessage": ""
+       }
+      ],
+      "releaseOverwrites": [],
+      "presents": [],
+      "phases": [
+       1
+      ],
+      "phasesWithEnemies": [
+       1
+      ],
+      "phasesNoBattle": [],
+      "phaseScripts": [],
+      "priority": 94164060,
+      "noticeAt": 1794646800,
+      "openedAt": 1794650400,
+      "closedAt": 1796183999
+     },
+     {
+      "id": 94164600,
+      "name": "スラノッブの群れ ぷに滅戦",
+      "originalName": "スラノッブの群れ ぷに滅戦",
+      "type": "main",
+      "flags": [
+       "notDisplayResultGetPoint"
+      ],
+      "consumeType": "ap",
+      "consume": 40,
+      "consumeItem": [],
+      "afterClear": "close",
+      "recommendLv": "80",
+      "spotId": 920710,
+      "spotName": "スラノッブの群れ",
+      "warId": 9208,
+      "warLongName": "特N型生命圏 GUNMA",
+      "chapterId": 0,
+      "chapterSubId": 0,
+      "chapterSubStr": "",
+      "gifts": [
+       {
+        "id": 94164018,
+        "type": "servant",
+        "objectId": 9809900,
+        "priority": 0,
+        "num": 1,
+        "giftAdds": []
+       }
+      ],
+      "groups": [
+       {
+        "type": "eventQuest",
+        "groupId": 80639
+       },
+       {
+        "type": "questRelease",
+        "groupId": 94163900
+       }
+      ],
+      "releaseConditions": [
+       {
+        "type": "questClear",
+        "targetId": 94164009,
+        "value": 0,
+        "closedMessage": ""
+       },
+       {
+        "type": "date",
+        "targetId": 0,
+        "value": 0,
+        "closedMessage": ""
+       },
+       {
+        "type": "raidDead",
+        "targetId": 80639,
+        "value": 1,
+        "closedMessage": ""
+       }
+      ],
+      "releaseOverwrites": [],
+      "presents": [],
+      "phases": [
+       1
+      ],
+      "phasesWithEnemies": [],
+      "phasesNoBattle": [],
+      "phaseScripts": [],
+      "priority": 94164087,
+      "noticeAt": 1794650400,
+      "openedAt": 1794650400,
+      "closedAt": 1796183999
+     }
+    ]
+   },
+   {
+    "id": 920711,
+    "blankEarth": false,
+    "joinSpotIds": [],
+    "mapId": 9209,
+    "name": "アカスラノッブの群れ",
+    "originalName": "アカスラノッブの群れ",
+    "image": "https://static.atlasacademy.io/JP/Terminal/QuestMap/Capter9208/QMap_Cap9208_Atlas/spot_920711.png",
+    "x": 988.0,
+    "y": 1650.0,
+    "imageOfsX": 0,
+    "imageOfsY": 0,
+    "nameOfsX": 0,
+    "nameOfsY": -13,
+    "questOfsX": 37,
+    "questOfsY": -91,
+    "nextOfsX": 0,
+    "nextOfsY": 0,
+    "closedMessage": "",
+    "spotAdds": [],
+    "quests": [
+     {
+      "id": 94164205,
+      "name": "アカスラノッブの群れ ぷにぷに戦〔さらさら級〕",
+      "originalName": "アカスラノッブの群れ ぷにぷに戦〔さらさら級〕",
+      "type": "event",
+      "flags": [
+       "raid",
+       "raidConnection",
+       "noDisplayRaidRemain"
+      ],
+      "consumeType": "ap",
+      "consume": 40,
+      "consumeItem": [],
+      "afterClear": "repeatLast",
+      "recommendLv": "70",
+      "spotId": 920711,
+      "spotName": "アカスラノッブの群れ",
+      "warId": 9208,
+      "warLongName": "特N型生命圏 GUNMA",
+      "chapterId": 0,
+      "chapterSubId": 0,
+      "chapterSubStr": "",
+      "gifts": [],
+      "groups": [
+       {
+        "type": "eventQuest",
+        "groupId": 80639
+       }
+      ],
+      "releaseConditions": [
+       {
+        "type": "questClear",
+        "targetId": 94164009,
+        "value": 0,
+        "closedMessage": ""
+       },
+       {
+        "type": "date",
+        "targetId": 0,
+        "value": 0,
+        "closedMessage": "{0}月{1}日{2:D2}時{3:D2}分に開放"
+       },
+       {
+        "type": "raidAlive",
+        "targetId": 80639,
+        "value": 2,
+        "closedMessage": ""
+       }
+      ],
+      "releaseOverwrites": [],
+      "presents": [],
+      "phases": [
+       1
+      ],
+      "phasesWithEnemies": [],
+      "phasesNoBattle": [],
+      "phaseScripts": [],
+      "priority": 94164059,
+      "noticeAt": 1794646800,
+      "openedAt": 1794650400,
+      "closedAt": 1796183999
+     },
+     {
+      "id": 94164206,
+      "name": "アカスラノッブの群れ ぷにぷに戦〔とろとろ級〕",
+      "originalName": "アカスラノッブの群れ ぷにぷに戦〔とろとろ級〕",
+      "type": "event",
+      "flags": [
+       "raid",
+       "raidConnection",
+       "noDisplayRaidRemain"
+      ],
+      "consumeType": "ap",
+      "consume": 40,
+      "consumeItem": [],
+      "afterClear": "repeatLast",
+      "recommendLv": "90",
+      "spotId": 920711,
+      "spotName": "アカスラノッブの群れ",
+      "warId": 9208,
+      "warLongName": "特N型生命圏 GUNMA",
+      "chapterId": 0,
+      "chapterSubId": 0,
+      "chapterSubStr": "",
+      "gifts": [],
+      "groups": [
+       {
+        "type": "eventQuest",
+        "groupId": 80639
+       }
+      ],
+      "releaseConditions": [
+       {
+        "type": "questClear",
+        "targetId": 94164009,
+        "value": 0,
+        "closedMessage": ""
+       },
+       {
+        "type": "date",
+        "targetId": 0,
+        "value": 0,
+        "closedMessage": "{0}月{1}日{2:D2}時{3:D2}分に開放"
+       },
+       {
+        "type": "raidAlive",
+        "targetId": 80639,
+        "value": 2,
+        "closedMessage": ""
+       }
+      ],
+      "releaseOverwrites": [],
+      "presents": [],
+      "phases": [
+       1
+      ],
+      "phasesWithEnemies": [],
+      "phasesNoBattle": [],
+      "phaseScripts": [],
+      "priority": 94164058,
+      "noticeAt": 1794646800,
+      "openedAt": 1794650400,
+      "closedAt": 1796183999
+     },
+     {
+      "id": 94164207,
+      "name": "アカスラノッブの群れ ぷにぷに戦〔ぬるぬる級〕",
+      "originalName": "アカスラノッブの群れ ぷにぷに戦〔ぬるぬる級〕",
+      "type": "event",
+      "flags": [
+       "raid",
+       "raidConnection",
+       "noDisplayRaidRemain"
+      ],
+      "consumeType": "ap",
+      "consume": 40,
+      "consumeItem": [],
+      "afterClear": "repeatLast",
+      "recommendLv": "90+",
+      "spotId": 920711,
+      "spotName": "アカスラノッブの群れ",
+      "warId": 9208,
+      "warLongName": "特N型生命圏 GUNMA",
+      "chapterId": 0,
+      "chapterSubId": 0,
+      "chapterSubStr": "",
+      "gifts": [],
+      "groups": [
+       {
+        "type": "eventQuest",
+        "groupId": 80639
+       }
+      ],
+      "releaseConditions": [
+       {
+        "type": "questClear",
+        "targetId": 94164009,
+        "value": 0,
+        "closedMessage": ""
+       },
+       {
+        "type": "date",
+        "targetId": 0,
+        "value": 0,
+        "closedMessage": "{0}月{1}日{2:D2}時{3:D2}分に開放"
+       },
+       {
+        "type": "raidAlive",
+        "targetId": 80639,
+        "value": 2,
+        "closedMessage": ""
+       }
+      ],
+      "releaseOverwrites": [],
+      "presents": [],
+      "phases": [
+       1
+      ],
+      "phasesWithEnemies": [],
+      "phasesNoBattle": [],
+      "phaseScripts": [],
+      "priority": 94164057,
+      "noticeAt": 1794646800,
+      "openedAt": 1794650400,
+      "closedAt": 1796183999
+     },
+     {
+      "id": 94164208,
+      "name": "アカスラノッブの群れ ぷにぷに戦〔ぺたぺた級〕",
+      "originalName": "アカスラノッブの群れ ぷにぷに戦〔ぺたぺた級〕",
+      "type": "event",
+      "flags": [
+       "raid",
+       "raidConnection",
+       "noDisplayRaidRemain"
+      ],
+      "consumeType": "ap",
+      "consume": 40,
+      "consumeItem": [],
+      "afterClear": "repeatLast",
+      "recommendLv": "90++",
+      "spotId": 920711,
+      "spotName": "アカスラノッブの群れ",
+      "warId": 9208,
+      "warLongName": "特N型生命圏 GUNMA",
+      "chapterId": 0,
+      "chapterSubId": 0,
+      "chapterSubStr": "",
+      "gifts": [],
+      "groups": [
+       {
+        "type": "eventQuest",
+        "groupId": 80639
+       }
+      ],
+      "releaseConditions": [
+       {
+        "type": "questClear",
+        "targetId": 94164009,
+        "value": 0,
+        "closedMessage": ""
+       },
+       {
+        "type": "date",
+        "targetId": 0,
+        "value": 0,
+        "closedMessage": "{0}月{1}日{2:D2}時{3:D2}分に開放"
+       },
+       {
+        "type": "raidAlive",
+        "targetId": 80639,
+        "value": 2,
+        "closedMessage": ""
+       }
+      ],
+      "releaseOverwrites": [],
+      "presents": [],
+      "phases": [
+       1
+      ],
+      "phasesWithEnemies": [],
+      "phasesNoBattle": [],
+      "phaseScripts": [],
+      "priority": 94164056,
+      "noticeAt": 1794646800,
+      "openedAt": 1794650400,
+      "closedAt": 1796183999
+     },
+     {
+      "id": 94164209,
+      "name": "アカスラノッブの群れ ぷにぷに戦〔ねばねば級〕",
+      "originalName": "アカスラノッブの群れ ぷにぷに戦〔ねばねば級〕",
+      "type": "event",
+      "flags": [
+       "raid",
+       "raidConnection",
+       "noDisplayRaidRemain"
+      ],
+      "consumeType": "ap",
+      "consume": 40,
+      "consumeItem": [],
+      "afterClear": "repeatLast",
+      "recommendLv": "90+++",
+      "spotId": 920711,
+      "spotName": "アカスラノッブの群れ",
+      "warId": 9208,
+      "warLongName": "特N型生命圏 GUNMA",
+      "chapterId": 0,
+      "chapterSubId": 0,
+      "chapterSubStr": "",
+      "gifts": [],
+      "groups": [
+       {
+        "type": "eventQuest",
+        "groupId": 80639
+       }
+      ],
+      "releaseConditions": [
+       {
+        "type": "questClear",
+        "targetId": 94164009,
+        "value": 0,
+        "closedMessage": ""
+       },
+       {
+        "type": "date",
+        "targetId": 0,
+        "value": 0,
+        "closedMessage": "{0}月{1}日{2:D2}時{3:D2}分に開放"
+       },
+       {
+        "type": "raidAlive",
+        "targetId": 80639,
+        "value": 2,
+        "closedMessage": ""
+       }
+      ],
+      "releaseOverwrites": [],
+      "presents": [],
+      "phases": [
+       1
+      ],
+      "phasesWithEnemies": [
+       1
+      ],
+      "phasesNoBattle": [],
+      "phaseScripts": [],
+      "priority": 94164055,
+      "noticeAt": 1794646800,
+      "openedAt": 1794650400,
+      "closedAt": 1796183999
+     },
+     {
+      "id": 94164601,
+      "name": "アカスラノッブの群れ ぷに滅戦",
+      "originalName": "アカスラノッブの群れ ぷに滅戦",
+      "type": "main",
+      "flags": [
+       "notDisplayResultGetPoint"
+      ],
+      "consumeType": "ap",
+      "consume": 40,
+      "consumeItem": [],
+      "afterClear": "close",
+      "recommendLv": "80",
+      "spotId": 920711,
+      "spotName": "アカスラノッブの群れ",
+      "warId": 9208,
+      "warLongName": "特N型生命圏 GUNMA",
+      "chapterId": 0,
+      "chapterSubId": 0,
+      "chapterSubStr": "",
+      "gifts": [
+       {
+        "id": 94164018,
+        "type": "servant",
+        "objectId": 9809900,
+        "priority": 0,
+        "num": 1,
+        "giftAdds": []
+       }
+      ],
+      "groups": [
+       {
+        "type": "eventQuest",
+        "groupId": 80639
+       },
+       {
+        "type": "questRelease",
+        "groupId": 94163900
+       }
+      ],
+      "releaseConditions": [
+       {
+        "type": "questClear",
+        "targetId": 94164009,
+        "value": 0,
+        "closedMessage": ""
+       },
+       {
+        "type": "date",
+        "targetId": 0,
+        "value": 0,
+        "closedMessage": ""
+       },
+       {
+        "type": "raidDead",
+        "targetId": 80639,
+        "value": 2,
+        "closedMessage": ""
+       }
+      ],
+      "releaseOverwrites": [],
+      "presents": [],
+      "phases": [
+       1
+      ],
+      "phasesWithEnemies": [],
+      "phasesNoBattle": [],
+      "phaseScripts": [],
+      "priority": 94164086,
+      "noticeAt": 1794650400,
+      "openedAt": 1794650400,
+      "closedAt": 1796183999
+     }
+    ]
+   },
+   {
+    "id": 920712,
+    "blankEarth": false,
+    "joinSpotIds": [],
+    "mapId": 9209,
+    "name": "ミドスラノッブの群れ",
+    "originalName": "ミドスラノッブの群れ",
+    "image": "https://static.atlasacademy.io/JP/Terminal/QuestMap/Capter9208/QMap_Cap9208_Atlas/spot_920712.png",
+    "x": 424.0,
+    "y": 1379.0,
+    "imageOfsX": 0,
+    "imageOfsY": 0,
+    "nameOfsX": 0,
+    "nameOfsY": -13,
+    "questOfsX": 37,
+    "questOfsY": -91,
+    "nextOfsX": 0,
+    "nextOfsY": 0,
+    "closedMessage": "",
+    "spotAdds": [],
+    "quests": [
+     {
+      "id": 94164210,
+      "name": "ミドスラノッブの群れ ぷにぷに戦〔さらさら級〕",
+      "originalName": "ミドスラノッブの群れ ぷにぷに戦〔さらさら級〕",
+      "type": "event",
+      "flags": [
+       "raid",
+       "raidConnection",
+       "noDisplayRaidRemain"
+      ],
+      "consumeType": "ap",
+      "consume": 40,
+      "consumeItem": [],
+      "afterClear": "repeatLast",
+      "recommendLv": "70",
+      "spotId": 920712,
+      "spotName": "ミドスラノッブの群れ",
+      "warId": 9208,
+      "warLongName": "特N型生命圏 GUNMA",
+      "chapterId": 0,
+      "chapterSubId": 0,
+      "chapterSubStr": "",
+      "gifts": [],
+      "groups": [
+       {
+        "type": "eventQuest",
+        "groupId": 80639
+       }
+      ],
+      "releaseConditions": [
+       {
+        "type": "questClear",
+        "targetId": 94164009,
+        "value": 0,
+        "closedMessage": ""
+       },
+       {
+        "type": "date",
+        "targetId": 0,
+        "value": 0,
+        "closedMessage": "{0}月{1}日{2:D2}時{3:D2}分に開放"
+       },
+       {
+        "type": "raidAlive",
+        "targetId": 80639,
+        "value": 3,
+        "closedMessage": ""
+       }
+      ],
+      "releaseOverwrites": [],
+      "presents": [],
+      "phases": [
+       1
+      ],
+      "phasesWithEnemies": [],
+      "phasesNoBattle": [],
+      "phaseScripts": [],
+      "priority": 94164054,
+      "noticeAt": 1794646800,
+      "openedAt": 1794650400,
+      "closedAt": 1796183999
+     },
+     {
+      "id": 94164211,
+      "name": "ミドスラノッブの群れ ぷにぷに戦〔とろとろ級〕",
+      "originalName": "ミドスラノッブの群れ ぷにぷに戦〔とろとろ級〕",
+      "type": "event",
+      "flags": [
+       "raid",
+       "raidConnection",
+       "noDisplayRaidRemain"
+      ],
+      "consumeType": "ap",
+      "consume": 40,
+      "consumeItem": [],
+      "afterClear": "repeatLast",
+      "recommendLv": "90",
+      "spotId": 920712,
+      "spotName": "ミドスラノッブの群れ",
+      "warId": 9208,
+      "warLongName": "特N型生命圏 GUNMA",
+      "chapterId": 0,
+      "chapterSubId": 0,
+      "chapterSubStr": "",
+      "gifts": [],
+      "groups": [
+       {
+        "type": "eventQuest",
+        "groupId": 80639
+       }
+      ],
+      "releaseConditions": [
+       {
+        "type": "questClear",
+        "targetId": 94164009,
+        "value": 0,
+        "closedMessage": ""
+       },
+       {
+        "type": "date",
+        "targetId": 0,
+        "value": 0,
+        "closedMessage": "{0}月{1}日{2:D2}時{3:D2}分に開放"
+       },
+       {
+        "type": "raidAlive",
+        "targetId": 80639,
+        "value": 3,
+        "closedMessage": ""
+       }
+      ],
+      "releaseOverwrites": [],
+      "presents": [],
+      "phases": [
+       1
+      ],
+      "phasesWithEnemies": [],
+      "phasesNoBattle": [],
+      "phaseScripts": [],
+      "priority": 94164053,
+      "noticeAt": 1794646800,
+      "openedAt": 1794650400,
+      "closedAt": 1796183999
+     },
+     {
+      "id": 94164212,
+      "name": "ミドスラノッブの群れ ぷにぷに戦〔ぬるぬる級〕",
+      "originalName": "ミドスラノッブの群れ ぷにぷに戦〔ぬるぬる級〕",
+      "type": "event",
+      "flags": [
+       "raid",
+       "raidConnection",
+       "noDisplayRaidRemain"
+      ],
+      "consumeType": "ap",
+      "consume": 40,
+      "consumeItem": [],
+      "afterClear": "repeatLast",
+      "recommendLv": "90+",
+      "spotId": 920712,
+      "spotName": "ミドスラノッブの群れ",
+      "warId": 9208,
+      "warLongName": "特N型生命圏 GUNMA",
+      "chapterId": 0,
+      "chapterSubId": 0,
+      "chapterSubStr": "",
+      "gifts": [],
+      "groups": [
+       {
+        "type": "eventQuest",
+        "groupId": 80639
+       }
+      ],
+      "releaseConditions": [
+       {
+        "type": "questClear",
+        "targetId": 94164009,
+        "value": 0,
+        "closedMessage": ""
+       },
+       {
+        "type": "date",
+        "targetId": 0,
+        "value": 0,
+        "closedMessage": "{0}月{1}日{2:D2}時{3:D2}分に開放"
+       },
+       {
+        "type": "raidAlive",
+        "targetId": 80639,
+        "value": 3,
+        "closedMessage": ""
+       }
+      ],
+      "releaseOverwrites": [],
+      "presents": [],
+      "phases": [
+       1
+      ],
+      "phasesWithEnemies": [],
+      "phasesNoBattle": [],
+      "phaseScripts": [],
+      "priority": 94164052,
+      "noticeAt": 1794646800,
+      "openedAt": 1794650400,
+      "closedAt": 1796183999
+     },
+     {
+      "id": 94164213,
+      "name": "ミドスラノッブの群れ ぷにぷに戦〔ぺたぺた級〕",
+      "originalName": "ミドスラノッブの群れ ぷにぷに戦〔ぺたぺた級〕",
+      "type": "event",
+      "flags": [
+       "raid",
+       "raidConnection",
+       "noDisplayRaidRemain"
+      ],
+      "consumeType": "ap",
+      "consume": 40,
+      "consumeItem": [],
+      "afterClear": "repeatLast",
+      "recommendLv": "90++",
+      "spotId": 920712,
+      "spotName": "ミドスラノッブの群れ",
+      "warId": 9208,
+      "warLongName": "特N型生命圏 GUNMA",
+      "chapterId": 0,
+      "chapterSubId": 0,
+      "chapterSubStr": "",
+      "gifts": [],
+      "groups": [
+       {
+        "type": "eventQuest",
+        "groupId": 80639
+       }
+      ],
+      "releaseConditions": [
+       {
+        "type": "questClear",
+        "targetId": 94164009,
+        "value": 0,
+        "closedMessage": ""
+       },
+       {
+        "type": "date",
+        "targetId": 0,
+        "value": 0,
+        "closedMessage": "{0}月{1}日{2:D2}時{3:D2}分に開放"
+       },
+       {
+        "type": "raidAlive",
+        "targetId": 80639,
+        "value": 3,
+        "closedMessage": ""
+       }
+      ],
+      "releaseOverwrites": [],
+      "presents": [],
+      "phases": [
+       1
+      ],
+      "phasesWithEnemies": [
+       1
+      ],
+      "phasesNoBattle": [],
+      "phaseScripts": [],
+      "priority": 94164051,
+      "noticeAt": 1794646800,
+      "openedAt": 1794650400,
+      "closedAt": 1796183999
+     },
+     {
+      "id": 94164214,
+      "name": "ミドスラノッブの群れ ぷにぷに戦〔ねばねば級〕",
+      "originalName": "ミドスラノッブの群れ ぷにぷに戦〔ねばねば級〕",
+      "type": "event",
+      "flags": [
+       "raid",
+       "raidConnection",
+       "noDisplayRaidRemain"
+      ],
+      "consumeType": "ap",
+      "consume": 40,
+      "consumeItem": [],
+      "afterClear": "repeatLast",
+      "recommendLv": "90+++",
+      "spotId": 920712,
+      "spotName": "ミドスラノッブの群れ",
+      "warId": 9208,
+      "warLongName": "特N型生命圏 GUNMA",
+      "chapterId": 0,
+      "chapterSubId": 0,
+      "chapterSubStr": "",
+      "gifts": [],
+      "groups": [
+       {
+        "type": "eventQuest",
+        "groupId": 80639
+       }
+      ],
+      "releaseConditions": [
+       {
+        "type": "questClear",
+        "targetId": 94164009,
+        "value": 0,
+        "closedMessage": ""
+       },
+       {
+        "type": "date",
+        "targetId": 0,
+        "value": 0,
+        "closedMessage": "{0}月{1}日{2:D2}時{3:D2}分に開放"
+       },
+       {
+        "type": "raidAlive",
+        "targetId": 80639,
+        "value": 3,
+        "closedMessage": ""
+       }
+      ],
+      "releaseOverwrites": [],
+      "presents": [],
+      "phases": [
+       1
+      ],
+      "phasesWithEnemies": [
+       1
+      ],
+      "phasesNoBattle": [],
+      "phaseScripts": [],
+      "priority": 94164050,
+      "noticeAt": 1794646800,
+      "openedAt": 1794650400,
+      "closedAt": 1796183999
+     },
+     {
+      "id": 94164602,
+      "name": "ミドスラノッブの群れ ぷに滅戦",
+      "originalName": "ミドスラノッブの群れ ぷに滅戦",
+      "type": "main",
+      "flags": [
+       "notDisplayResultGetPoint"
+      ],
+      "consumeType": "ap",
+      "consume": 40,
+      "consumeItem": [],
+      "afterClear": "close",
+      "recommendLv": "80",
+      "spotId": 920712,
+      "spotName": "ミドスラノッブの群れ",
+      "warId": 9208,
+      "warLongName": "特N型生命圏 GUNMA",
+      "chapterId": 0,
+      "chapterSubId": 0,
+      "chapterSubStr": "",
+      "gifts": [
+       {
+        "id": 94164018,
+        "type": "servant",
+        "objectId": 9809900,
+        "priority": 0,
+        "num": 1,
+        "giftAdds": []
+       }
+      ],
+      "groups": [
+       {
+        "type": "eventQuest",
+        "groupId": 80639
+       },
+       {
+        "type": "questRelease",
+        "groupId": 94163900
+       }
+      ],
+      "releaseConditions": [
+       {
+        "type": "questClear",
+        "targetId": 94164009,
+        "value": 0,
+        "closedMessage": ""
+       },
+       {
+        "type": "date",
+        "targetId": 0,
+        "value": 0,
+        "closedMessage": ""
+       },
+       {
+        "type": "raidDead",
+        "targetId": 80639,
+        "value": 3,
+        "closedMessage": ""
+       }
+      ],
+      "releaseOverwrites": [],
+      "presents": [],
+      "phases": [
+       1
+      ],
+      "phasesWithEnemies": [
+       1
+      ],
+      "phasesNoBattle": [],
+      "phaseScripts": [],
+      "priority": 94164085,
+      "noticeAt": 1794650400,
+      "openedAt": 1794650400,
+      "closedAt": 1796183999
+     }
+    ]
+   },
+   {
+    "id": 920713,
+    "blankEarth": false,
+    "joinSpotIds": [],
+    "mapId": 9209,
+    "name": "キンメガスラノッブ",
+    "originalName": "キンメガスラノッブ",
+    "image": "https://static.atlasacademy.io/JP/Terminal/QuestMap/Capter9208/QMap_Cap9208_Atlas/spot_920713.png",
+    "x": 1278.0,
+    "y": 1263.0,
+    "imageOfsX": 0,
+    "imageOfsY": 0,
+    "nameOfsX": 0,
+    "nameOfsY": -13,
+    "questOfsX": 37,
+    "questOfsY": -91,
+    "nextOfsX": 0,
+    "nextOfsY": 0,
+    "closedMessage": "",
+    "spotAdds": [],
+    "quests": [
+     {
+      "id": 94164230,
+      "name": "キンメガスラノッブ ぷにぷに戦〔さらさら級〕",
+      "originalName": "キンメガスラノッブ ぷにぷに戦〔さらさら級〕",
+      "type": "event",
+      "flags": [
+       "raid",
+       "raidConnection",
+       "noDisplayRaidRemain"
+      ],
+      "consumeType": "ap",
+      "consume": 40,
+      "consumeItem": [],
+      "afterClear": "repeatLast",
+      "recommendLv": "70",
+      "spotId": 920713,
+      "spotName": "キンメガスラノッブ",
+      "warId": 9208,
+      "warLongName": "特N型生命圏 GUNMA",
+      "chapterId": 0,
+      "chapterSubId": 0,
+      "chapterSubStr": "",
+      "gifts": [],
+      "groups": [
+       {
+        "type": "eventQuest",
+        "groupId": 80639
+       }
+      ],
+      "releaseConditions": [
+       {
+        "type": "questClear",
+        "targetId": 94164009,
+        "value": 0,
+        "closedMessage": ""
+       },
+       {
+        "type": "date",
+        "targetId": 0,
+        "value": 0,
+        "closedMessage": ""
+       },
+       {
+        "type": "raidAlive",
+        "targetId": 80639,
+        "value": 7,
+        "closedMessage": ""
+       },
+       {
+        "type": "questGroupClear",
+        "targetId": 94163900,
+        "value": 3,
+        "closedMessage": ""
+       }
+      ],
+      "releaseOverwrites": [],
+      "presents": [],
+      "phases": [
+       1
+      ],
+      "phasesWithEnemies": [],
+      "phasesNoBattle": [],
+      "phaseScripts": [],
+      "priority": 94164034,
+      "noticeAt": 1794650400,
+      "openedAt": 1794650400,
+      "closedAt": 1796183999
+     },
+     {
+      "id": 94164231,
+      "name": "キンメガスラノッブ ぷにぷに戦〔とろとろ級〕",
+      "originalName": "キンメガスラノッブ ぷにぷに戦〔とろとろ級〕",
+      "type": "event",
+      "flags": [
+       "raid",
+       "raidConnection",
+       "noDisplayRaidRemain"
+      ],
+      "consumeType": "ap",
+      "consume": 40,
+      "consumeItem": [],
+      "afterClear": "repeatLast",
+      "recommendLv": "90",
+      "spotId": 920713,
+      "spotName": "キンメガスラノッブ",
+      "warId": 9208,
+      "warLongName": "特N型生命圏 GUNMA",
+      "chapterId": 0,
+      "chapterSubId": 0,
+      "chapterSubStr": "",
+      "gifts": [],
+      "groups": [
+       {
+        "type": "eventQuest",
+        "groupId": 80639
+       }
+      ],
+      "releaseConditions": [
+       {
+        "type": "questClear",
+        "targetId": 94164009,
+        "value": 0,
+        "closedMessage": ""
+       },
+       {
+        "type": "date",
+        "targetId": 0,
+        "value": 0,
+        "closedMessage": ""
+       },
+       {
+        "type": "raidAlive",
+        "targetId": 80639,
+        "value": 7,
+        "closedMessage": ""
+       },
+       {
+        "type": "questGroupClear",
+        "targetId": 94163900,
+        "value": 3,
+        "closedMessage": ""
+       }
+      ],
+      "releaseOverwrites": [],
+      "presents": [],
+      "phases": [
+       1
+      ],
+      "phasesWithEnemies": [],
+      "phasesNoBattle": [],
+      "phaseScripts": [],
+      "priority": 94164033,
+      "noticeAt": 1794650400,
+      "openedAt": 1794650400,
+      "closedAt": 1796183999
+     },
+     {
+      "id": 94164232,
+      "name": "キンメガスラノッブ ぷにぷに戦〔ぬるぬる級〕",
+      "originalName": "キンメガスラノッブ ぷにぷに戦〔ぬるぬる級〕",
+      "type": "event",
+      "flags": [
+       "raid",
+       "raidConnection",
+       "noDisplayRaidRemain"
+      ],
+      "consumeType": "ap",
+      "consume": 40,
+      "consumeItem": [],
+      "afterClear": "repeatLast",
+      "recommendLv": "90+",
+      "spotId": 920713,
+      "spotName": "キンメガスラノッブ",
+      "warId": 9208,
+      "warLongName": "特N型生命圏 GUNMA",
+      "chapterId": 0,
+      "chapterSubId": 0,
+      "chapterSubStr": "",
+      "gifts": [],
+      "groups": [
+       {
+        "type": "eventQuest",
+        "groupId": 80639
+       }
+      ],
+      "releaseConditions": [
+       {
+        "type": "questClear",
+        "targetId": 94164009,
+        "value": 0,
+        "closedMessage": ""
+       },
+       {
+        "type": "date",
+        "targetId": 0,
+        "value": 0,
+        "closedMessage": ""
+       },
+       {
+        "type": "raidAlive",
+        "targetId": 80639,
+        "value": 7,
+        "closedMessage": ""
+       },
+       {
+        "type": "questGroupClear",
+        "targetId": 94163900,
+        "value": 3,
+        "closedMessage": ""
+       }
+      ],
+      "releaseOverwrites": [],
+      "presents": [],
+      "phases": [
+       1
+      ],
+      "phasesWithEnemies": [],
+      "phasesNoBattle": [],
+      "phaseScripts": [],
+      "priority": 94164032,
+      "noticeAt": 1794650400,
+      "openedAt": 1794650400,
+      "closedAt": 1796183999
+     },
+     {
+      "id": 94164233,
+      "name": "キンメガスラノッブ ぷにぷに戦〔ぺたぺた級〕",
+      "originalName": "キンメガスラノッブ ぷにぷに戦〔ぺたぺた級〕",
+      "type": "event",
+      "flags": [
+       "raid",
+       "raidConnection",
+       "noDisplayRaidRemain"
+      ],
+      "consumeType": "ap",
+      "consume": 40,
+      "consumeItem": [],
+      "afterClear": "repeatLast",
+      "recommendLv": "90++",
+      "spotId": 920713,
+      "spotName": "キンメガスラノッブ",
+      "warId": 9208,
+      "warLongName": "特N型生命圏 GUNMA",
+      "chapterId": 0,
+      "chapterSubId": 0,
+      "chapterSubStr": "",
+      "gifts": [],
+      "groups": [
+       {
+        "type": "eventQuest",
+        "groupId": 80639
+       }
+      ],
+      "releaseConditions": [
+       {
+        "type": "questClear",
+        "targetId": 94164009,
+        "value": 0,
+        "closedMessage": ""
+       },
+       {
+        "type": "date",
+        "targetId": 0,
+        "value": 0,
+        "closedMessage": ""
+       },
+       {
+        "type": "raidAlive",
+        "targetId": 80639,
+        "value": 7,
+        "closedMessage": ""
+       },
+       {
+        "type": "questGroupClear",
+        "targetId": 94163900,
+        "value": 3,
+        "closedMessage": ""
+       }
+      ],
+      "releaseOverwrites": [],
+      "presents": [],
+      "phases": [
+       1
+      ],
+      "phasesWithEnemies": [],
+      "phasesNoBattle": [],
+      "phaseScripts": [],
+      "priority": 94164031,
+      "noticeAt": 1794650400,
+      "openedAt": 1794650400,
+      "closedAt": 1796183999
+     },
+     {
+      "id": 94164234,
+      "name": "キンメガスラノッブ ぷにぷに戦〔ねばねば級〕",
+      "originalName": "キンメガスラノッブ ぷにぷに戦〔ねばねば級〕",
+      "type": "event",
+      "flags": [
+       "raid",
+       "raidConnection",
+       "noDisplayRaidRemain"
+      ],
+      "consumeType": "ap",
+      "consume": 40,
+      "consumeItem": [],
+      "afterClear": "repeatLast",
+      "recommendLv": "90+++",
+      "spotId": 920713,
+      "spotName": "キンメガスラノッブ",
+      "warId": 9208,
+      "warLongName": "特N型生命圏 GUNMA",
+      "chapterId": 0,
+      "chapterSubId": 0,
+      "chapterSubStr": "",
+      "gifts": [],
+      "groups": [
+       {
+        "type": "eventQuest",
+        "groupId": 80639
+       }
+      ],
+      "releaseConditions": [
+       {
+        "type": "questClear",
+        "targetId": 94164009,
+        "value": 0,
+        "closedMessage": ""
+       },
+       {
+        "type": "date",
+        "targetId": 0,
+        "value": 0,
+        "closedMessage": ""
+       },
+       {
+        "type": "raidAlive",
+        "targetId": 80639,
+        "value": 7,
+        "closedMessage": ""
+       },
+       {
+        "type": "questGroupClear",
+        "targetId": 94163900,
+        "value": 3,
+        "closedMessage": ""
+       }
+      ],
+      "releaseOverwrites": [],
+      "presents": [],
+      "phases": [
+       1
+      ],
+      "phasesWithEnemies": [],
+      "phasesNoBattle": [],
+      "phaseScripts": [],
+      "priority": 94164030,
+      "noticeAt": 1794650400,
+      "openedAt": 1794650400,
+      "closedAt": 1796183999
+     },
+     {
+      "id": 94164606,
+      "name": "キンメガスラノッブ ぷに滅戦",
+      "originalName": "キンメガスラノッブ ぷに滅戦",
+      "type": "main",
+      "flags": [
+       "notDisplayResultGetPoint"
+      ],
+      "consumeType": "ap",
+      "consume": 40,
+      "consumeItem": [],
+      "afterClear": "close",
+      "recommendLv": "85",
+      "spotId": 920713,
+      "spotName": "キンメガスラノッブ",
+      "warId": 9208,
+      "warLongName": "特N型生命圏 GUNMA",
+      "chapterId": 0,
+      "chapterSubId": 0,
+      "chapterSubStr": "",
+      "gifts": [
+       {
+        "id": 94164018,
+        "type": "servant",
+        "objectId": 9809900,
+        "priority": 0,
+        "num": 1,
+        "giftAdds": []
+       }
+      ],
+      "groups": [
+       {
+        "type": "eventQuest",
+        "groupId": 80639
+       },
+       {
+        "type": "questRelease",
+        "groupId": 94163900
+       }
+      ],
+      "releaseConditions": [
+       {
+        "type": "questClear",
+        "targetId": 94164009,
+        "value": 0,
+        "closedMessage": ""
+       },
+       {
+        "type": "date",
+        "targetId": 0,
+        "value": 0,
+        "closedMessage": ""
+       },
+       {
+        "type": "raidDead",
+        "targetId": 80639,
+        "value": 7,
+        "closedMessage": ""
+       }
+      ],
+      "releaseOverwrites": [],
+      "presents": [],
+      "phases": [
+       1
+      ],
+      "phasesWithEnemies": [],
+      "phasesNoBattle": [],
+      "phaseScripts": [],
+      "priority": 94164081,
+      "noticeAt": 1794650400,
+      "openedAt": 1794650400,
+      "closedAt": 1796183999
+     }
+    ]
+   },
+   {
+    "id": 920714,
+    "blankEarth": false,
+    "joinSpotIds": [],
+    "mapId": 9209,
+    "name": "クローン長慶",
+    "originalName": "クローン長慶",
+    "image": "https://static.atlasacademy.io/JP/Terminal/QuestMap/Capter9208/QMap_Cap9208_Atlas/spot_920714.png",
+    "x": 822.0,
+    "y": 1452.0,
+    "imageOfsX": 0,
+    "imageOfsY": 0,
+    "nameOfsX": 0,
+    "nameOfsY": -27,
+    "questOfsX": 41,
+    "questOfsY": -106,
+    "nextOfsX": 0,
+    "nextOfsY": 0,
+    "closedMessage": "",
+    "spotAdds": [],
+    "quests": [
+     {
+      "id": 94164215,
+      "name": "クローン長慶 ぷにぷに戦〔さらさら級〕",
+      "originalName": "クローン長慶 ぷにぷに戦〔さらさら級〕",
+      "type": "event",
+      "flags": [
+       "raid",
+       "raidConnection",
+       "noDisplayRaidRemain"
+      ],
+      "consumeType": "ap",
+      "consume": 40,
+      "consumeItem": [],
+      "afterClear": "repeatLast",
+      "recommendLv": "70",
+      "spotId": 920714,
+      "spotName": "クローン長慶",
+      "warId": 9208,
+      "warLongName": "特N型生命圏 GUNMA",
+      "chapterId": 0,
+      "chapterSubId": 0,
+      "chapterSubStr": "",
+      "gifts": [],
+      "groups": [
+       {
+        "type": "eventQuest",
+        "groupId": 80639
+       }
+      ],
+      "releaseConditions": [
+       {
+        "type": "questClear",
+        "targetId": 94164009,
+        "value": 0,
+        "closedMessage": ""
+       },
+       {
+        "type": "date",
+        "targetId": 0,
+        "value": 0,
+        "closedMessage": "{0}月{1}日{2:D2}時{3:D2}分に開放"
+       },
+       {
+        "type": "raidAlive",
+        "targetId": 80639,
+        "value": 4,
+        "closedMessage": ""
+       }
+      ],
+      "releaseOverwrites": [],
+      "presents": [],
+      "phases": [
+       1
+      ],
+      "phasesWithEnemies": [],
+      "phasesNoBattle": [],
+      "phaseScripts": [],
+      "priority": 94164049,
+      "noticeAt": 1794646800,
+      "openedAt": 1794650400,
+      "closedAt": 1796183999
+     },
+     {
+      "id": 94164216,
+      "name": "クローン長慶 ぷにぷに戦〔とろとろ級〕",
+      "originalName": "クローン長慶 ぷにぷに戦〔とろとろ級〕",
+      "type": "event",
+      "flags": [
+       "raid",
+       "raidConnection",
+       "noDisplayRaidRemain"
+      ],
+      "consumeType": "ap",
+      "consume": 40,
+      "consumeItem": [],
+      "afterClear": "repeatLast",
+      "recommendLv": "90",
+      "spotId": 920714,
+      "spotName": "クローン長慶",
+      "warId": 9208,
+      "warLongName": "特N型生命圏 GUNMA",
+      "chapterId": 0,
+      "chapterSubId": 0,
+      "chapterSubStr": "",
+      "gifts": [],
+      "groups": [
+       {
+        "type": "eventQuest",
+        "groupId": 80639
+       }
+      ],
+      "releaseConditions": [
+       {
+        "type": "questClear",
+        "targetId": 94164009,
+        "value": 0,
+        "closedMessage": ""
+       },
+       {
+        "type": "date",
+        "targetId": 0,
+        "value": 0,
+        "closedMessage": "{0}月{1}日{2:D2}時{3:D2}分に開放"
+       },
+       {
+        "type": "raidAlive",
+        "targetId": 80639,
+        "value": 4,
+        "closedMessage": ""
+       }
+      ],
+      "releaseOverwrites": [],
+      "presents": [],
+      "phases": [
+       1
+      ],
+      "phasesWithEnemies": [],
+      "phasesNoBattle": [],
+      "phaseScripts": [],
+      "priority": 94164048,
+      "noticeAt": 1794646800,
+      "openedAt": 1794650400,
+      "closedAt": 1796183999
+     },
+     {
+      "id": 94164217,
+      "name": "クローン長慶 ぷにぷに戦〔ぬるぬる級〕",
+      "originalName": "クローン長慶 ぷにぷに戦〔ぬるぬる級〕",
+      "type": "event",
+      "flags": [
+       "raid",
+       "raidConnection",
+       "noDisplayRaidRemain"
+      ],
+      "consumeType": "ap",
+      "consume": 40,
+      "consumeItem": [],
+      "afterClear": "repeatLast",
+      "recommendLv": "90+",
+      "spotId": 920714,
+      "spotName": "クローン長慶",
+      "warId": 9208,
+      "warLongName": "特N型生命圏 GUNMA",
+      "chapterId": 0,
+      "chapterSubId": 0,
+      "chapterSubStr": "",
+      "gifts": [],
+      "groups": [
+       {
+        "type": "eventQuest",
+        "groupId": 80639
+       }
+      ],
+      "releaseConditions": [
+       {
+        "type": "questClear",
+        "targetId": 94164009,
+        "value": 0,
+        "closedMessage": ""
+       },
+       {
+        "type": "date",
+        "targetId": 0,
+        "value": 0,
+        "closedMessage": "{0}月{1}日{2:D2}時{3:D2}分に開放"
+       },
+       {
+        "type": "raidAlive",
+        "targetId": 80639,
+        "value": 4,
+        "closedMessage": ""
+       }
+      ],
+      "releaseOverwrites": [],
+      "presents": [],
+      "phases": [
+       1
+      ],
+      "phasesWithEnemies": [],
+      "phasesNoBattle": [],
+      "phaseScripts": [],
+      "priority": 94164047,
+      "noticeAt": 1794646800,
+      "openedAt": 1794650400,
+      "closedAt": 1796183999
+     },
+     {
+      "id": 94164218,
+      "name": "クローン長慶 ぷにぷに戦〔ぺたぺた級〕",
+      "originalName": "クローン長慶 ぷにぷに戦〔ぺたぺた級〕",
+      "type": "event",
+      "flags": [
+       "raid",
+       "raidConnection",
+       "noDisplayRaidRemain"
+      ],
+      "consumeType": "ap",
+      "consume": 40,
+      "consumeItem": [],
+      "afterClear": "repeatLast",
+      "recommendLv": "90++",
+      "spotId": 920714,
+      "spotName": "クローン長慶",
+      "warId": 9208,
+      "warLongName": "特N型生命圏 GUNMA",
+      "chapterId": 0,
+      "chapterSubId": 0,
+      "chapterSubStr": "",
+      "gifts": [],
+      "groups": [
+       {
+        "type": "eventQuest",
+        "groupId": 80639
+       }
+      ],
+      "releaseConditions": [
+       {
+        "type": "questClear",
+        "targetId": 94164009,
+        "value": 0,
+        "closedMessage": ""
+       },
+       {
+        "type": "date",
+        "targetId": 0,
+        "value": 0,
+        "closedMessage": "{0}月{1}日{2:D2}時{3:D2}分に開放"
+       },
+       {
+        "type": "raidAlive",
+        "targetId": 80639,
+        "value": 4,
+        "closedMessage": ""
+       }
+      ],
+      "releaseOverwrites": [],
+      "presents": [],
+      "phases": [
+       1
+      ],
+      "phasesWithEnemies": [],
+      "phasesNoBattle": [],
+      "phaseScripts": [],
+      "priority": 94164046,
+      "noticeAt": 1794646800,
+      "openedAt": 1794650400,
+      "closedAt": 1796183999
+     },
+     {
+      "id": 94164219,
+      "name": "クローン長慶 ぷにぷに戦〔ねばねば級〕",
+      "originalName": "クローン長慶 ぷにぷに戦〔ねばねば級〕",
+      "type": "event",
+      "flags": [
+       "raid",
+       "raidConnection",
+       "noDisplayRaidRemain"
+      ],
+      "consumeType": "ap",
+      "consume": 40,
+      "consumeItem": [],
+      "afterClear": "repeatLast",
+      "recommendLv": "90+++",
+      "spotId": 920714,
+      "spotName": "クローン長慶",
+      "warId": 9208,
+      "warLongName": "特N型生命圏 GUNMA",
+      "chapterId": 0,
+      "chapterSubId": 0,
+      "chapterSubStr": "",
+      "gifts": [],
+      "groups": [
+       {
+        "type": "eventQuest",
+        "groupId": 80639
+       }
+      ],
+      "releaseConditions": [
+       {
+        "type": "questClear",
+        "targetId": 94164009,
+        "value": 0,
+        "closedMessage": ""
+       },
+       {
+        "type": "date",
+        "targetId": 0,
+        "value": 0,
+        "closedMessage": "{0}月{1}日{2:D2}時{3:D2}分に開放"
+       },
+       {
+        "type": "raidAlive",
+        "targetId": 80639,
+        "value": 4,
+        "closedMessage": ""
+       }
+      ],
+      "releaseOverwrites": [],
+      "presents": [],
+      "phases": [
+       1
+      ],
+      "phasesWithEnemies": [
+       1
+      ],
+      "phasesNoBattle": [],
+      "phaseScripts": [],
+      "priority": 94164045,
+      "noticeAt": 1794646800,
+      "openedAt": 1794650400,
+      "closedAt": 1796183999
+     },
+     {
+      "id": 94164603,
+      "name": "クローン長慶 ぷに滅戦",
+      "originalName": "クローン長慶 ぷに滅戦",
+      "type": "main",
+      "flags": [
+       "notDisplayResultGetPoint"
+      ],
+      "consumeType": "ap",
+      "consume": 40,
+      "consumeItem": [],
+      "afterClear": "close",
+      "recommendLv": "85",
+      "spotId": 920714,
+      "spotName": "クローン長慶",
+      "warId": 9208,
+      "warLongName": "特N型生命圏 GUNMA",
+      "chapterId": 0,
+      "chapterSubId": 0,
+      "chapterSubStr": "",
+      "gifts": [
+       {
+        "id": 94164018,
+        "type": "servant",
+        "objectId": 9809900,
+        "priority": 0,
+        "num": 1,
+        "giftAdds": []
+       }
+      ],
+      "groups": [
+       {
+        "type": "eventQuest",
+        "groupId": 80639
+       },
+       {
+        "type": "questRelease",
+        "groupId": 94163900
+       }
+      ],
+      "releaseConditions": [
+       {
+        "type": "questClear",
+        "targetId": 94164009,
+        "value": 0,
+        "closedMessage": ""
+       },
+       {
+        "type": "date",
+        "targetId": 0,
+        "value": 0,
+        "closedMessage": ""
+       },
+       {
+        "type": "raidDead",
+        "targetId": 80639,
+        "value": 4,
+        "closedMessage": ""
+       }
+      ],
+      "releaseOverwrites": [],
+      "presents": [],
+      "phases": [
+       1
+      ],
+      "phasesWithEnemies": [],
+      "phasesNoBattle": [],
+      "phaseScripts": [],
+      "priority": 94164084,
+      "noticeAt": 1794650400,
+      "openedAt": 1794650400,
+      "closedAt": 1796183999
+     }
+    ]
+   },
+   {
+    "id": 920715,
+    "blankEarth": false,
+    "joinSpotIds": [],
+    "mapId": 9209,
+    "name": "青水キメラの群れ",
+    "originalName": "青水キメラの群れ",
+    "image": "https://static.atlasacademy.io/JP/Terminal/QuestMap/Capter9208/QMap_Cap9208_Atlas/spot_920715.png",
+    "x": 830.0,
+    "y": 1150.0,
+    "imageOfsX": 0,
+    "imageOfsY": 0,
+    "nameOfsX": 0,
+    "nameOfsY": -28,
+    "questOfsX": 43,
+    "questOfsY": -115,
+    "nextOfsX": 0,
+    "nextOfsY": 0,
+    "closedMessage": "",
+    "spotAdds": [],
+    "quests": [
+     {
+      "id": 94164220,
+      "name": "青水キメラの群れ ぷにぷに戦〔さらさら級〕",
+      "originalName": "青水キメラの群れ ぷにぷに戦〔さらさら級〕",
+      "type": "event",
+      "flags": [
+       "raid",
+       "raidConnection",
+       "noDisplayRaidRemain"
+      ],
+      "consumeType": "ap",
+      "consume": 40,
+      "consumeItem": [],
+      "afterClear": "repeatLast",
+      "recommendLv": "70",
+      "spotId": 920715,
+      "spotName": "青水キメラの群れ",
+      "warId": 9208,
+      "warLongName": "特N型生命圏 GUNMA",
+      "chapterId": 0,
+      "chapterSubId": 0,
+      "chapterSubStr": "",
+      "gifts": [],
+      "groups": [
+       {
+        "type": "eventQuest",
+        "groupId": 80639
+       }
+      ],
+      "releaseConditions": [
+       {
+        "type": "questClear",
+        "targetId": 94164009,
+        "value": 0,
+        "closedMessage": ""
+       },
+       {
+        "type": "date",
+        "targetId": 0,
+        "value": 0,
+        "closedMessage": "{0}月{1}日{2:D2}時{3:D2}分に開放"
+       },
+       {
+        "type": "raidAlive",
+        "targetId": 80639,
+        "value": 5,
+        "closedMessage": ""
+       }
+      ],
+      "releaseOverwrites": [],
+      "presents": [],
+      "phases": [
+       1
+      ],
+      "phasesWithEnemies": [],
+      "phasesNoBattle": [],
+      "phaseScripts": [],
+      "priority": 94164044,
+      "noticeAt": 1794646800,
+      "openedAt": 1794650400,
+      "closedAt": 1796183999
+     },
+     {
+      "id": 94164221,
+      "name": "青水キメラの群れ ぷにぷに戦〔とろとろ級〕",
+      "originalName": "青水キメラの群れ ぷにぷに戦〔とろとろ級〕",
+      "type": "event",
+      "flags": [
+       "raid",
+       "raidConnection",
+       "noDisplayRaidRemain"
+      ],
+      "consumeType": "ap",
+      "consume": 40,
+      "consumeItem": [],
+      "afterClear": "repeatLast",
+      "recommendLv": "90",
+      "spotId": 920715,
+      "spotName": "青水キメラの群れ",
+      "warId": 9208,
+      "warLongName": "特N型生命圏 GUNMA",
+      "chapterId": 0,
+      "chapterSubId": 0,
+      "chapterSubStr": "",
+      "gifts": [],
+      "groups": [
+       {
+        "type": "eventQuest",
+        "groupId": 80639
+       }
+      ],
+      "releaseConditions": [
+       {
+        "type": "questClear",
+        "targetId": 94164009,
+        "value": 0,
+        "closedMessage": ""
+       },
+       {
+        "type": "date",
+        "targetId": 0,
+        "value": 0,
+        "closedMessage": "{0}月{1}日{2:D2}時{3:D2}分に開放"
+       },
+       {
+        "type": "raidAlive",
+        "targetId": 80639,
+        "value": 5,
+        "closedMessage": ""
+       }
+      ],
+      "releaseOverwrites": [],
+      "presents": [],
+      "phases": [
+       1
+      ],
+      "phasesWithEnemies": [],
+      "phasesNoBattle": [],
+      "phaseScripts": [],
+      "priority": 94164043,
+      "noticeAt": 1794646800,
+      "openedAt": 1794650400,
+      "closedAt": 1796183999
+     },
+     {
+      "id": 94164222,
+      "name": "青水キメラの群れ ぷにぷに戦〔ぬるぬる級〕",
+      "originalName": "青水キメラの群れ ぷにぷに戦〔ぬるぬる級〕",
+      "type": "event",
+      "flags": [
+       "raid",
+       "raidConnection",
+       "noDisplayRaidRemain"
+      ],
+      "consumeType": "ap",
+      "consume": 40,
+      "consumeItem": [],
+      "afterClear": "repeatLast",
+      "recommendLv": "90+",
+      "spotId": 920715,
+      "spotName": "青水キメラの群れ",
+      "warId": 9208,
+      "warLongName": "特N型生命圏 GUNMA",
+      "chapterId": 0,
+      "chapterSubId": 0,
+      "chapterSubStr": "",
+      "gifts": [],
+      "groups": [
+       {
+        "type": "eventQuest",
+        "groupId": 80639
+       }
+      ],
+      "releaseConditions": [
+       {
+        "type": "questClear",
+        "targetId": 94164009,
+        "value": 0,
+        "closedMessage": ""
+       },
+       {
+        "type": "date",
+        "targetId": 0,
+        "value": 0,
+        "closedMessage": "{0}月{1}日{2:D2}時{3:D2}分に開放"
+       },
+       {
+        "type": "raidAlive",
+        "targetId": 80639,
+        "value": 5,
+        "closedMessage": ""
+       }
+      ],
+      "releaseOverwrites": [],
+      "presents": [],
+      "phases": [
+       1
+      ],
+      "phasesWithEnemies": [],
+      "phasesNoBattle": [],
+      "phaseScripts": [],
+      "priority": 94164042,
+      "noticeAt": 1794646800,
+      "openedAt": 1794650400,
+      "closedAt": 1796183999
+     },
+     {
+      "id": 94164223,
+      "name": "青水キメラの群れ ぷにぷに戦〔ぺたぺた級〕",
+      "originalName": "青水キメラの群れ ぷにぷに戦〔ぺたぺた級〕",
+      "type": "event",
+      "flags": [
+       "raid",
+       "raidConnection",
+       "noDisplayRaidRemain"
+      ],
+      "consumeType": "ap",
+      "consume": 40,
+      "consumeItem": [],
+      "afterClear": "repeatLast",
+      "recommendLv": "90++",
+      "spotId": 920715,
+      "spotName": "青水キメラの群れ",
+      "warId": 9208,
+      "warLongName": "特N型生命圏 GUNMA",
+      "chapterId": 0,
+      "chapterSubId": 0,
+      "chapterSubStr": "",
+      "gifts": [],
+      "groups": [
+       {
+        "type": "eventQuest",
+        "groupId": 80639
+       }
+      ],
+      "releaseConditions": [
+       {
+        "type": "questClear",
+        "targetId": 94164009,
+        "value": 0,
+        "closedMessage": ""
+       },
+       {
+        "type": "date",
+        "targetId": 0,
+        "value": 0,
+        "closedMessage": "{0}月{1}日{2:D2}時{3:D2}分に開放"
+       },
+       {
+        "type": "raidAlive",
+        "targetId": 80639,
+        "value": 5,
+        "closedMessage": ""
+       }
+      ],
+      "releaseOverwrites": [],
+      "presents": [],
+      "phases": [
+       1
+      ],
+      "phasesWithEnemies": [],
+      "phasesNoBattle": [],
+      "phaseScripts": [],
+      "priority": 94164041,
+      "noticeAt": 1794646800,
+      "openedAt": 1794650400,
+      "closedAt": 1796183999
+     },
+     {
+      "id": 94164224,
+      "name": "青水キメラの群れ ぷにぷに戦〔ねばねば級〕",
+      "originalName": "青水キメラの群れ ぷにぷに戦〔ねばねば級〕",
+      "type": "event",
+      "flags": [
+       "raid",
+       "raidConnection",
+       "noDisplayRaidRemain"
+      ],
+      "consumeType": "ap",
+      "consume": 40,
+      "consumeItem": [],
+      "afterClear": "repeatLast",
+      "recommendLv": "90+++",
+      "spotId": 920715,
+      "spotName": "青水キメラの群れ",
+      "warId": 9208,
+      "warLongName": "特N型生命圏 GUNMA",
+      "chapterId": 0,
+      "chapterSubId": 0,
+      "chapterSubStr": "",
+      "gifts": [],
+      "groups": [
+       {
+        "type": "eventQuest",
+        "groupId": 80639
+       }
+      ],
+      "releaseConditions": [
+       {
+        "type": "questClear",
+        "targetId": 94164009,
+        "value": 0,
+        "closedMessage": ""
+       },
+       {
+        "type": "date",
+        "targetId": 0,
+        "value": 0,
+        "closedMessage": "{0}月{1}日{2:D2}時{3:D2}分に開放"
+       },
+       {
+        "type": "raidAlive",
+        "targetId": 80639,
+        "value": 5,
+        "closedMessage": ""
+       }
+      ],
+      "releaseOverwrites": [],
+      "presents": [],
+      "phases": [
+       1
+      ],
+      "phasesWithEnemies": [
+       1
+      ],
+      "phasesNoBattle": [],
+      "phaseScripts": [],
+      "priority": 94164040,
+      "noticeAt": 1794646800,
+      "openedAt": 1794650400,
+      "closedAt": 1796183999
+     },
+     {
+      "id": 94164604,
+      "name": "青水キメラの群れ ぷに滅戦",
+      "originalName": "青水キメラの群れ ぷに滅戦",
+      "type": "main",
+      "flags": [
+       "notDisplayResultGetPoint"
+      ],
+      "consumeType": "ap",
+      "consume": 40,
+      "consumeItem": [],
+      "afterClear": "close",
+      "recommendLv": "80",
+      "spotId": 920715,
+      "spotName": "青水キメラの群れ",
+      "warId": 9208,
+      "warLongName": "特N型生命圏 GUNMA",
+      "chapterId": 0,
+      "chapterSubId": 0,
+      "chapterSubStr": "",
+      "gifts": [
+       {
+        "id": 94164018,
+        "type": "servant",
+        "objectId": 9809900,
+        "priority": 0,
+        "num": 1,
+        "giftAdds": []
+       }
+      ],
+      "groups": [
+       {
+        "type": "eventQuest",
+        "groupId": 80639
+       },
+       {
+        "type": "questRelease",
+        "groupId": 94163900
+       }
+      ],
+      "releaseConditions": [
+       {
+        "type": "questClear",
+        "targetId": 94164009,
+        "value": 0,
+        "closedMessage": ""
+       },
+       {
+        "type": "date",
+        "targetId": 0,
+        "value": 0,
+        "closedMessage": ""
+       },
+       {
+        "type": "raidDead",
+        "targetId": 80639,
+        "value": 5,
+        "closedMessage": ""
+       }
+      ],
+      "releaseOverwrites": [],
+      "presents": [],
+      "phases": [
+       1
+      ],
+      "phasesWithEnemies": [],
+      "phasesNoBattle": [],
+      "phaseScripts": [],
+      "priority": 94164083,
+      "noticeAt": 1794650400,
+      "openedAt": 1794650400,
+      "closedAt": 1796183999
+     }
+    ]
+   },
+   {
+    "id": 920716,
+    "blankEarth": false,
+    "joinSpotIds": [],
+    "mapId": 9209,
+    "name": "青水イノシシの群れ",
+    "originalName": "青水イノシシの群れ",
+    "image": "https://static.atlasacademy.io/JP/Terminal/QuestMap/Capter9208/QMap_Cap9208_Atlas/spot_920716.png",
+    "x": 648.0,
+    "y": 1750.0,
+    "imageOfsX": 0,
+    "imageOfsY": 0,
+    "nameOfsX": 0,
+    "nameOfsY": -28,
+    "questOfsX": 34,
+    "questOfsY": -113,
+    "nextOfsX": 0,
+    "nextOfsY": 0,
+    "closedMessage": "",
+    "spotAdds": [],
+    "quests": [
+     {
+      "id": 94164225,
+      "name": "青水イノシシの群れ ぷにぷに戦〔さらさら級〕",
+      "originalName": "青水イノシシの群れ ぷにぷに戦〔さらさら級〕",
+      "type": "event",
+      "flags": [
+       "raid",
+       "raidConnection",
+       "noDisplayRaidRemain"
+      ],
+      "consumeType": "ap",
+      "consume": 40,
+      "consumeItem": [],
+      "afterClear": "repeatLast",
+      "recommendLv": "70",
+      "spotId": 920716,
+      "spotName": "青水イノシシの群れ",
+      "warId": 9208,
+      "warLongName": "特N型生命圏 GUNMA",
+      "chapterId": 0,
+      "chapterSubId": 0,
+      "chapterSubStr": "",
+      "gifts": [],
+      "groups": [
+       {
+        "type": "eventQuest",
+        "groupId": 80639
+       }
+      ],
+      "releaseConditions": [
+       {
+        "type": "questClear",
+        "targetId": 94164009,
+        "value": 0,
+        "closedMessage": ""
+       },
+       {
+        "type": "date",
+        "targetId": 0,
+        "value": 0,
+        "closedMessage": "{0}月{1}日{2:D2}時{3:D2}分に開放"
+       },
+       {
+        "type": "raidAlive",
+        "targetId": 80639,
+        "value": 6,
+        "closedMessage": ""
+       }
+      ],
+      "releaseOverwrites": [],
+      "presents": [],
+      "phases": [
+       1
+      ],
+      "phasesWithEnemies": [],
+      "phasesNoBattle": [],
+      "phaseScripts": [],
+      "priority": 94164039,
+      "noticeAt": 1794646800,
+      "openedAt": 1794650400,
+      "closedAt": 1796183999
+     },
+     {
+      "id": 94164226,
+      "name": "青水イノシシの群れ ぷにぷに戦〔とろとろ級〕",
+      "originalName": "青水イノシシの群れ ぷにぷに戦〔とろとろ級〕",
+      "type": "event",
+      "flags": [
+       "raid",
+       "raidConnection",
+       "noDisplayRaidRemain"
+      ],
+      "consumeType": "ap",
+      "consume": 40,
+      "consumeItem": [],
+      "afterClear": "repeatLast",
+      "recommendLv": "90",
+      "spotId": 920716,
+      "spotName": "青水イノシシの群れ",
+      "warId": 9208,
+      "warLongName": "特N型生命圏 GUNMA",
+      "chapterId": 0,
+      "chapterSubId": 0,
+      "chapterSubStr": "",
+      "gifts": [],
+      "groups": [
+       {
+        "type": "eventQuest",
+        "groupId": 80639
+       }
+      ],
+      "releaseConditions": [
+       {
+        "type": "questClear",
+        "targetId": 94164009,
+        "value": 0,
+        "closedMessage": ""
+       },
+       {
+        "type": "date",
+        "targetId": 0,
+        "value": 0,
+        "closedMessage": "{0}月{1}日{2:D2}時{3:D2}分に開放"
+       },
+       {
+        "type": "raidAlive",
+        "targetId": 80639,
+        "value": 6,
+        "closedMessage": ""
+       }
+      ],
+      "releaseOverwrites": [],
+      "presents": [],
+      "phases": [
+       1
+      ],
+      "phasesWithEnemies": [],
+      "phasesNoBattle": [],
+      "phaseScripts": [],
+      "priority": 94164038,
+      "noticeAt": 1794646800,
+      "openedAt": 1794650400,
+      "closedAt": 1796183999
+     },
+     {
+      "id": 94164227,
+      "name": "青水イノシシの群れ ぷにぷに戦〔ぬるぬる級〕",
+      "originalName": "青水イノシシの群れ ぷにぷに戦〔ぬるぬる級〕",
+      "type": "event",
+      "flags": [
+       "raid",
+       "raidConnection",
+       "noDisplayRaidRemain"
+      ],
+      "consumeType": "ap",
+      "consume": 40,
+      "consumeItem": [],
+      "afterClear": "repeatLast",
+      "recommendLv": "90+",
+      "spotId": 920716,
+      "spotName": "青水イノシシの群れ",
+      "warId": 9208,
+      "warLongName": "特N型生命圏 GUNMA",
+      "chapterId": 0,
+      "chapterSubId": 0,
+      "chapterSubStr": "",
+      "gifts": [],
+      "groups": [
+       {
+        "type": "eventQuest",
+        "groupId": 80639
+       }
+      ],
+      "releaseConditions": [
+       {
+        "type": "questClear",
+        "targetId": 94164009,
+        "value": 0,
+        "closedMessage": ""
+       },
+       {
+        "type": "date",
+        "targetId": 0,
+        "value": 0,
+        "closedMessage": "{0}月{1}日{2:D2}時{3:D2}分に開放"
+       },
+       {
+        "type": "raidAlive",
+        "targetId": 80639,
+        "value": 6,
+        "closedMessage": ""
+       }
+      ],
+      "releaseOverwrites": [],
+      "presents": [],
+      "phases": [
+       1
+      ],
+      "phasesWithEnemies": [],
+      "phasesNoBattle": [],
+      "phaseScripts": [],
+      "priority": 94164037,
+      "noticeAt": 1794646800,
+      "openedAt": 1794650400,
+      "closedAt": 1796183999
+     },
+     {
+      "id": 94164228,
+      "name": "青水イノシシの群れ ぷにぷに戦〔ぺたぺた級〕",
+      "originalName": "青水イノシシの群れ ぷにぷに戦〔ぺたぺた級〕",
+      "type": "event",
+      "flags": [
+       "raid",
+       "raidConnection",
+       "noDisplayRaidRemain"
+      ],
+      "consumeType": "ap",
+      "consume": 40,
+      "consumeItem": [],
+      "afterClear": "repeatLast",
+      "recommendLv": "90++",
+      "spotId": 920716,
+      "spotName": "青水イノシシの群れ",
+      "warId": 9208,
+      "warLongName": "特N型生命圏 GUNMA",
+      "chapterId": 0,
+      "chapterSubId": 0,
+      "chapterSubStr": "",
+      "gifts": [],
+      "groups": [
+       {
+        "type": "eventQuest",
+        "groupId": 80639
+       }
+      ],
+      "releaseConditions": [
+       {
+        "type": "questClear",
+        "targetId": 94164009,
+        "value": 0,
+        "closedMessage": ""
+       },
+       {
+        "type": "date",
+        "targetId": 0,
+        "value": 0,
+        "closedMessage": "{0}月{1}日{2:D2}時{3:D2}分に開放"
+       },
+       {
+        "type": "raidAlive",
+        "targetId": 80639,
+        "value": 6,
+        "closedMessage": ""
+       }
+      ],
+      "releaseOverwrites": [],
+      "presents": [],
+      "phases": [
+       1
+      ],
+      "phasesWithEnemies": [
+       1
+      ],
+      "phasesNoBattle": [],
+      "phaseScripts": [],
+      "priority": 94164036,
+      "noticeAt": 1794646800,
+      "openedAt": 1794650400,
+      "closedAt": 1796183999
+     },
+     {
+      "id": 94164229,
+      "name": "青水イノシシの群れ ぷにぷに戦〔ねばねば級〕",
+      "originalName": "青水イノシシの群れ ぷにぷに戦〔ねばねば級〕",
+      "type": "event",
+      "flags": [
+       "raid",
+       "raidConnection",
+       "noDisplayRaidRemain"
+      ],
+      "consumeType": "ap",
+      "consume": 40,
+      "consumeItem": [],
+      "afterClear": "repeatLast",
+      "recommendLv": "90+++",
+      "spotId": 920716,
+      "spotName": "青水イノシシの群れ",
+      "warId": 9208,
+      "warLongName": "特N型生命圏 GUNMA",
+      "chapterId": 0,
+      "chapterSubId": 0,
+      "chapterSubStr": "",
+      "gifts": [],
+      "groups": [
+       {
+        "type": "eventQuest",
+        "groupId": 80639
+       }
+      ],
+      "releaseConditions": [
+       {
+        "type": "questClear",
+        "targetId": 94164009,
+        "value": 0,
+        "closedMessage": ""
+       },
+       {
+        "type": "date",
+        "targetId": 0,
+        "value": 0,
+        "closedMessage": "{0}月{1}日{2:D2}時{3:D2}分に開放"
+       },
+       {
+        "type": "raidAlive",
+        "targetId": 80639,
+        "value": 6,
+        "closedMessage": ""
+       }
+      ],
+      "releaseOverwrites": [],
+      "presents": [],
+      "phases": [
+       1
+      ],
+      "phasesWithEnemies": [
+       1
+      ],
+      "phasesNoBattle": [],
+      "phaseScripts": [],
+      "priority": 94164035,
+      "noticeAt": 1794646800,
+      "openedAt": 1794650400,
+      "closedAt": 1796183999
+     },
+     {
+      "id": 94164605,
+      "name": "青水イノシシの群れ ぷに滅戦",
+      "originalName": "青水イノシシの群れ ぷに滅戦",
+      "type": "main",
+      "flags": [
+       "notDisplayResultGetPoint"
+      ],
+      "consumeType": "ap",
+      "consume": 40,
+      "consumeItem": [],
+      "afterClear": "close",
+      "recommendLv": "80",
+      "spotId": 920716,
+      "spotName": "青水イノシシの群れ",
+      "warId": 9208,
+      "warLongName": "特N型生命圏 GUNMA",
+      "chapterId": 0,
+      "chapterSubId": 0,
+      "chapterSubStr": "",
+      "gifts": [
+       {
+        "id": 94164018,
+        "type": "servant",
+        "objectId": 9809900,
+        "priority": 0,
+        "num": 1,
+        "giftAdds": []
+       }
+      ],
+      "groups": [
+       {
+        "type": "eventQuest",
+        "groupId": 80639
+       },
+       {
+        "type": "questRelease",
+        "groupId": 94163900
+       }
+      ],
+      "releaseConditions": [
+       {
+        "type": "questClear",
+        "targetId": 94164009,
+        "value": 0,
+        "closedMessage": ""
+       },
+       {
+        "type": "date",
+        "targetId": 0,
+        "value": 0,
+        "closedMessage": ""
+       },
+       {
+        "type": "raidDead",
+        "targetId": 80639,
+        "value": 6,
+        "closedMessage": ""
+       }
+      ],
+      "releaseOverwrites": [],
+      "presents": [],
+      "phases": [
+       1
+      ],
+      "phasesWithEnemies": [],
+      "phasesNoBattle": [],
+      "phaseScripts": [],
+      "priority": 94164082,
+      "noticeAt": 1794650400,
+      "openedAt": 1794650400,
       "closedAt": 1796183999
      }
     ]
@@ -1504935,7 +1508211,86 @@
     "nextOfsY": 0,
     "closedMessage": "",
     "spotAdds": [],
-    "quests": []
+    "quests": [
+     {
+      "id": 94164010,
+      "name": "",
+      "originalName": "",
+      "type": "main",
+      "flags": [
+       "notDisplayResultGetPoint"
+      ],
+      "consumeType": "ap",
+      "consume": 5,
+      "consumeItem": [],
+      "afterClear": "close",
+      "recommendLv": "90",
+      "spotId": 920720,
+      "spotName": "青水窟",
+      "warId": 9208,
+      "warLongName": "特N型生命圏 GUNMA",
+      "chapterId": 0,
+      "chapterSubId": 0,
+      "chapterSubStr": "",
+      "gifts": [
+       {
+        "id": 94164019,
+        "type": "servant",
+        "objectId": 9809900,
+        "priority": 0,
+        "num": 1,
+        "giftAdds": []
+       },
+       {
+        "id": 94164019,
+        "type": "item",
+        "objectId": 2,
+        "priority": 0,
+        "num": 1,
+        "giftAdds": []
+       }
+      ],
+      "groups": [],
+      "releaseConditions": [
+       {
+        "type": "questClear",
+        "targetId": 94164009,
+        "value": 0,
+        "closedMessage": ""
+       },
+       {
+        "type": "date",
+        "targetId": 0,
+        "value": 0,
+        "closedMessage": ""
+       },
+       {
+        "type": "questGroupClear",
+        "targetId": 94163900,
+        "value": 7,
+        "closedMessage": ""
+       },
+       {
+        "type": "forceFalse",
+        "targetId": 0,
+        "value": 0,
+        "closedMessage": "クエスト開放までしばらくお待ちください"
+       }
+      ],
+      "releaseOverwrites": [],
+      "presents": [],
+      "phases": [
+       1
+      ],
+      "phasesWithEnemies": [],
+      "phasesNoBattle": [],
+      "phaseScripts": [],
+      "priority": 94164090,
+      "noticeAt": 1794650400,
+      "openedAt": 1794650400,
+      "closedAt": 1796183999
+     }
+    ]
    },
    {
     "id": 920721,
@@ -1504982,8 +1508337,8 @@
     "quests": [
      {
       "id": 94164009,
-      "name": "",
-      "originalName": "",
+      "name": "第９話 限界ギリギリぷにぷにウォーズ！",
+      "originalName": "第９話 限界ギリギリぷにぷにウォーズ！",
       "type": "main",
       "flags": [
        "noBattle"
@@ -1505018,8 +1508373,19 @@
         "giftAdds": []
        }
       ],
-      "groups": [],
+      "groups": [
+       {
+        "type": "eventQuest",
+        "groupId": 80639
+       }
+      ],
       "releaseConditions": [
+       {
+        "type": "none",
+        "targetId": 0,
+        "value": 0,
+        "closedMessage": ""
+       },
        {
         "type": "questClear",
         "targetId": 94164008,
@@ -1505037,12 +1508403,6 @@
         "targetId": 80639,
         "value": 140000,
         "closedMessage": "GUNMA温泉ポイント140,000以上獲得\n＆11月14日18時00分以降に開放"
-       },
-       {
-        "type": "forceFalse",
-        "targetId": 0,
-        "value": 0,
-        "closedMessage": "データ更新後に開放"
        }
       ],
       "releaseOverwrites": [],
@@ -1505054,9 +1508414,84 @@
       "phasesNoBattle": [
        1
       ],
-      "phaseScripts": [],
+      "phaseScripts": [
+       {
+        "phase": 1,
+        "scripts": [
+         {
+          "scriptId": "9416400910",
+          "script": "https://static.atlasacademy.io/JP/Script/94/9416/9416400910.txt"
+         }
+        ]
+       }
+      ],
       "priority": 94164091,
       "noticeAt": 1794560400,
+      "openedAt": 1794646800,
+      "closedAt": 1796183999
+     },
+     {
+      "id": 94164106,
+      "name": "【GUNMA巡り】青水伝説を語る会",
+      "originalName": "【GUNMA巡り】青水伝説を語る会",
+      "type": "event",
+      "flags": [
+       "displayLoopmark"
+      ],
+      "consumeType": "ap",
+      "consume": 40,
+      "consumeItem": [],
+      "afterClear": "repeatLast",
+      "recommendLv": "90",
+      "spotId": 920722,
+      "spotName": "青涙の泉",
+      "warId": 9208,
+      "warLongName": "特N型生命圏 GUNMA",
+      "chapterId": 0,
+      "chapterSubId": 0,
+      "chapterSubStr": "",
+      "gifts": [
+       {
+        "id": 12000,
+        "type": "item",
+        "objectId": 100,
+        "priority": 0,
+        "num": 1,
+        "giftAdds": []
+       }
+      ],
+      "groups": [
+       {
+        "type": "eventQuest",
+        "groupId": 80639
+       }
+      ],
+      "releaseConditions": [
+       {
+        "type": "questClear",
+        "targetId": 94164009,
+        "value": 0,
+        "closedMessage": ""
+       },
+       {
+        "type": "date",
+        "targetId": 0,
+        "value": 0,
+        "closedMessage": ""
+       }
+      ],
+      "releaseOverwrites": [],
+      "presents": [],
+      "phases": [
+       1
+      ],
+      "phasesWithEnemies": [
+       1
+      ],
+      "phasesNoBattle": [],
+      "phaseScripts": [],
+      "priority": 94164023,
+      "noticeAt": 1794646800,
       "openedAt": 1794646800,
       "closedAt": 1796183999
      }
